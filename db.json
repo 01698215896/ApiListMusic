@@ -232,11 +232,11 @@
       "id": "hoangtien147",
       "email": "hoangtien@gmail.com",
       "password": "99999",
-      "face":"sdf",
-      "git":"sdf",
-      "twitter":"sdf",
-      "youtube":"sdf",
-      "insta":"sdf"
+      "face": "sdf",
+      "git": "sdf",
+      "twitter": "sdf",
+      "youtube": "sdf",
+      "insta": "sdf"
     }
     ,
     {
@@ -245,11 +245,11 @@
       "id": "admin",
       "email": "admin@gmail.com",
       "password": "admin",
-      "face":"sdf",
-      "git":"sdf",
-      "twitter":"sdf",
-      "youtube":"sdf",
-      "insta":"sdf"
+      "face": "sdf",
+      "git": "sdf",
+      "twitter": "sdf",
+      "youtube": "sdf",
+      "insta": "sdf"
     }
   ],
   "vietnam": [
