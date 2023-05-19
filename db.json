@@ -232,13 +232,24 @@
       "id": "hoangtien147",
       "email": "hoangtien@gmail.com",
       "password": "99999"
-    },
+      "face":"sdf",
+      "git":"sdf",
+      "twitter":"sdf",
+      "youtube":"sdf",
+      "insta":"sdf",
+    }
+    ,
     {
-      "firstName": "minh",
-      "lastName": "phuong",
-      "id": "minhphuong",
-      "email": "minhphuong@gmail.com",
-      "password": "12345"
+      "firstName": "admin",
+      "lastName": "admin",
+      "id": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "face":"sdf",
+      "git":"sdf",
+      "twitter":"sdf",
+      "youtube":"sdf",
+      "insta":"sdf",
     }
   ],
   "vietnam": [
