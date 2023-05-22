@@ -1,96 +1,4 @@
 {
-  "listMucsic": [
-    {
-      "id": 1,
-      "name": "Lụy Tình",
-      "url": "assets/music/bai5.mp3",
-      "img": "assets/img/bai5.jpg",
-      "vote": 18,
-      "color": "Purple",
-      "casy": "Nguyễn Thành An"
-    },
-    {
-      "id": 2,
-      "name": "Anh Mới Chính Là Người Em Yêu",
-      "url": "assets/music/bai1.mp3",
-      "img": "assets/img/bai1.jpg",
-      "vote": 10,
-      "color": "red",
-      "casy": "Tiến Hoàng"
-    },
-    {
-      "id": 3,
-      "name": "Em Là Nhất Miền Tây",
-      "url": "assets/music/bai3.mp3",
-      "img": "assets/img/bai3.jpg",
-      "vote": 15,
-      "color": "Blue",
-      "casy": "Minh Vương"
-    },
-    {
-      "id": 4,
-      "name": "Đừng Lo Anh Nhé Có Anh Đây",
-      "url": "assets/music/bai2.mp3",
-      "img": "assets/img/bai2.jpg",
-      "vote": 7,
-      "color": "Yellow",
-      "casy": "Trịnh Đình Quang"
-    },
-    {
-      "id": 5,
-      "name": "Khuất Lối",
-      "url": "assets/music/bai4.mp3",
-      "img": "assets/img/bai4.jpg",
-      "vote": 9,
-      "color": "Green",
-      "casy": "Thái Sơn"
-    },
-    {
-      "id": 6,
-      "name": "Người Đáng Thương Là Anh",
-      "url": "assets/music/bai6.mp3",
-      "img": "assets/img/bai6.jpg",
-      "vote": 20,
-      "color": "Orange",
-      "casy": "Hồ ngọc Hà"
-    },
-    {
-      "id": 7,
-      "name": "Nhập Ngũ Mất Em",
-      "url": "assets/music/bai7.mp3",
-      "img": "assets/img/bai7.jpg",
-      "vote": 14,
-      "color": "Blue",
-      "casy": "Rickky"
-    },
-    {
-      "id": 8,
-      "name": "Rước Nàng",
-      "url": "assets/music/bai8.mp3",
-      "img": "assets/img/bai8.jpg",
-      "vote": 5,
-      "color": "Green",
-      "casy": "Hoàng Tiến"
-    },
-    {
-      "id": 9,
-      "name": "Trách Duyên Trách Phận",
-      "url": "assets/music/bai9.mp3",
-      "img": "assets/img/bai9.jpg",
-      "vote": 20,
-      "color": "Red",
-      "casy": "Hồ quang Hiếu"
-    },
-    {
-      "id": 10,
-      "name": "Trách Duyên Trách Phận",
-      "url": "assets/music/bai9.mp3",
-      "img": "assets/img/bai9.jpg",
-      "vote": 20,
-      "color": "Red",
-      "casy": "Hồ quang Hiếu"
-    }
-  ],
   "listMucsic1": [
     {
       "id": 1,
@@ -237,8 +145,7 @@
       "twitter": "sdf",
       "youtube": "sdf",
       "insta": "sdf"
-    }
-    ,
+    },
     {
       "firstName": "admin",
       "lastName": "admin",
@@ -252,76 +159,188 @@
       "insta": "sdf"
     }
   ],
+  "listMucsic": [
+    {
+      "id": 1,
+      "name": "Lụy Tình",
+      "url": "assets/music/bai5.mp3",
+      "img": "assets/img/bai5.jpg",
+      "vote": 18,
+      "color": "Purple",
+      "casy": "Nguyễn Thành An",
+      "title": "Ca khúc Luỵ Tình được thể hiện bởi ca sĩ Hoàng Long, một trong những bài hát làm nên tên tuổi của chàng ca sĩ này trong lòng khán giả nghe nhạc, giai điệu và lời bài hát Luỵ Tình là của chính anh sáng tác. Bài hát Luỵ Tình hiện đang là ca khúc được rất nhiều bạn trẻ yêu thích và đang được xếp thứ hạng rất cao trên các bảng xếp hạng âm nhạc."
+    },
+    {
+      "id": 2,
+      "name": "Anh Mới Chính Là Người Em Yêu",
+      "url": "assets/music/bai1.mp3",
+      "img": "assets/img/bai1.jpg",
+      "vote": 10,
+      "color": "red",
+      "casy": "Tiến Hoàng",
+      "title": "Bài hát Anh Mới Chính Là Người Em Yêu của ca sĩ Hoàng Tiến là một tác phẩm âm nhạc đầy cảm xúc và sâu lắng. Với giai điệu cuốn hút và lời bài hát tình yêu chân thành, nó đã nhanh chóng thu hút được sự yêu thích của nhiều người và xếp cao trên bảng xếp hạng âm nhạc."
+    },
+    {
+      "id": 3,
+      "name": "Em Là Nhất Miền Tây",
+      "url": "assets/music/bai3.mp3",
+      "img": "assets/img/bai3.jpg",
+      "vote": 15,
+      "color": "Blue",
+      "casy": "Minh Vương",
+      "title": "Bài hát Em Là Nhất Miền Tây do ca sĩ Minh Vương trình bày là một tác phẩm âm nhạc độc đáo và gợi nhớ đến vùng miền Tây đất nước. Với giai điệu vui tươi và lời bài hát dí dỏm, ca khúc này đã nhanh chóng chiếm trọn cảm tình của đông đảo khán giả"
+    },
+    {
+      "id": 4,
+      "name": "Đừng Lo Anh Nhé Có Anh Đây",
+      "url": "assets/music/bai2.mp3",
+      "img": "assets/img/bai2.jpg",
+      "vote": 7,
+      "color": "Yellow",
+      "casy": "Trịnh Đình Quang",
+      "title": "Bài hát Đừng Lo Anh Nhé Có Anh Đây do ca sĩ Trịnh Đình Quang trình bày đã trở thành một hiện tượng âm nhạc với sự thành công vượt trội. Giai điệu catchy và lời bài hát sâu lắng đã chinh phục hàng triệu trái tim yêu nhạc. Ca khúc này đã nhanh chóng leo lên vị trí cao trên các bảng xếp hạng âm nhạc và trở thành một trong những bản hit được yêu thích của ca sĩ Trịnh Đình Quang"
+    },
+    {
+      "id": 5,
+      "name": "Khuất Lối",
+      "url": "assets/music/bai4.mp3",
+      "img": "assets/img/bai4.jpg",
+      "vote": 9,
+      "color": "Green",
+      "casy": "Thái Sơn",
+      "title": "Bài hát Khuất Lối do ca sĩ Thái Sơn trình bày là một tác phẩm âm nhạc đầy cảm xúc và sâu lắng. Giai điệu tinh tế và lời bài hát tâm đắc đã chinh phục được lòng của nhiều người nghe. Khuất Lối nhanh chóng trở thành một trong những ca khúc được yêu thích và đạt vị trí cao trên các bảng xếp hạng âm nhạc, làm nên tên tuổi của ca sĩ Thái Sơn"
+    },
+    {
+      "id": 6,
+      "name": "Người Đáng Thương Là Anh",
+      "url": "assets/music/bai6.mp3",
+      "img": "assets/img/bai6.jpg",
+      "vote": 20,
+      "color": "Orange",
+      "casy": "Hồ ngọc Hà",
+      "title":"Bài hát Người Đáng Thương Là Anh do ca sĩ Hồ Ngọc Hà trình bày là một tác phẩm âm nhạc cảm động và sâu lắng. Giai điệu nhẹ nhàng và phần nhạc tinh tế tạo nên một không gian âm nhạc đầy tình cảm. Lời bài hát mô tả về một tình yêu đau khổ và đồng thời thể hiện sự đồng cảm và tình nguyện hy sinh vì người mình yêu. Giọng hát tình cảm và phong cách biểu diễn độc đáo của Hồ Ngọc Hà mang đến một trải nghiệm âm nhạc chân thành và xúc động. Người Đáng Thương Là Anh là một bài hát lý tưởng để thấm nhuần và cảm nhận về những khía cạnh đáng thương và đáng quý trong một mối quan hệ tình yêu."
+    },
+    {
+      "id": 7,
+      "name": "Nhập Ngũ Mất Em",
+      "url": "assets/music/bai7.mp3",
+      "img": "assets/img/bai7.jpg",
+      "vote": 14,
+      "color": "Blue",
+      "casy": "Rickky",
+      "title": "Bài hát Nhập Ngũ Mất Em do ca sĩ Rickky trình bày là một tác phẩm âm nhạc đầy cảm xúc và chất phác. Giai điệu sôi động và lời bài hát lắng đọng đã thu hút sự chú ý của đông đảo người nghe. Nhập Ngũ Mất Em nhanh chóng leo lên vị trí hàng đầu trên các bảng xếp hạng âm nhạc, góp phần tạo nên thành công và tên tuổi của ca sĩ Rickky. Ca khúc này truyền tải thông điệp về tình yêu và sự hy sinh trong cuộc sống quân đội, và đã trở thành một trong những bài hát được yêu thích không chỉ trong cộng đồng quân nhân mà còn trong cả cộng đồng người nghe âm nhạc"
+    },
+    {
+      "id": 8,
+      "name": "Rước Nàng",
+      "url": "assets/music/bai8.mp3",
+      "img": "assets/img/bai8.jpg",
+      "vote": 5,
+      "color": "Green",
+      "casy": "Hoàng Tiến",
+      "title": "Bài hát Rước Nàng do ca sĩ Hoàng Tiến trình bày là một tác phẩm âm nhạc đầy lãng mạn và tình cảm. Giai điệu nhẹ nhàng và lời bài hát đầy ý nghĩa đã tạo nên sự cuốn hút cho ca khúc này. Rước Nàng nhanh chóng trở thành một trong những bài hát được yêu thích và được nghe nhiều trên các bảng xếp hạng âm nhạc. Ca khúc này mang đến thông điệp về tình yêu và sự tận hưởng cuộc sống, thể hiện sự tài năng và sự độc đáo của ca sĩ Hoàng Tiến."
+    },
+    {
+      "id": 9,
+      "name": "Trách Duyên Trách Phận",
+      "url": "assets/music/bai9.mp3",
+      "img": "assets/img/bai9.jpg",
+      "vote": 20,
+      "color": "Red",
+      "casy": "Hồ quang Hiếu",
+      "title": "Bài hát Trách Duyên Trách Phận do ca sĩ Hồ Quang Hiếu trình bày là một tác phẩm âm nhạc đậm chất trữ tình và lời bài hát sâu lắng. Giai điệu tình tứ và cảm xúc đã khiến ca khúc này nhanh chóng trở thành một trong những bản hit được yêu thích của ca sĩ Hồ Quang Hiếu. Trách Duyên Trách Phận mang đến câu chuyện về tình yêu đau khổ và những suy nghĩ về duyên phận trong cuộc sống. Ca khúc này đã chinh phục trái tim của nhiều người nghe và đạt được vị trí cao trên các bảng xếp hạng âm nhạc."
+    },
+    {
+      "id": 10,
+      "name": "Trách Duyên Trách Phận",
+      "url": "assets/music/bai9.mp3",
+      "img": "assets/img/bai9.jpg",
+      "vote": 20,
+      "color": "Red",
+      "casy": "Hồ quang Hiếu",
+      "title": "Ca khúc Trách Duyên Trách Phận do ca sĩ Hồ Quang Hiếu trình bày là một tác phẩm âm nhạc đặc sắc và đầy cảm xúc. Với giai điệu trữ tình và lời bài hát sâu lắng, bài hát này đã nhanh chóng trở thành một trong những bản hit được yêu thích của Hồ Quang Hiếu. Trách Duyên Trách Phận mang đến câu chuyện về tình yêu đau khổ và những nỗi trăn trở về duyên phận trong cuộc sống. Sự diễn xuất tình cảm của Hồ Quang Hiếu cùng với cách thể hiện đầy chất giọng đã gợi lên những cung bậc cảm xúc sâu sắc cho người nghe. Ca khúc này đã ghi dấu ấn mạnh mẽ trong lòng khán giả và xếp hạng cao trên các bảng xếp hạng âm nhạc, chinh phục hàng triệu trái tim yêu nhạc trên khắp cả nước."
+    }
+  ],
   "vietnam": [
     {
       "id": 1,
       "name": "Chuyện đôi ta",
       "casy": "Da LaB",
       "img": "assets/img/vn1.jpg",
-      "src": "assets/music/vn1.mp3"
+      "src": "assets/music/vn1.mp3",
+      "title": "Bài hát Chuyện Đôi Ta do ca sĩ Dalab trình bày là một tác phẩm âm nhạc đậm chất ballad và lời bài hát sâu lắng. Giai điệu nhẹ nhàng và êm đềm đã tạo nên sự cuốn hút đặc biệt cho ca khúc này. Chuyện Đôi Ta nhanh chóng trở thành một trong những bài hát được yêu thích và truyền cảm hứng cho người nghe. Ca khúc này mang đến câu chuyện về tình yêu, những kỷ niệm và những cung bậc cảm xúc trong mối quan hệ đôi lứa. Với giọng hát đặc trưng của Dalab và sự diễn xuất tình cảm, bài hát đã ghi điểm và tạo dấu ấn sâu sắc trong lòng khán giả âm nhạc."
     },
     {
       "id": 2,
       "name": "Đưa em về nhà",
       "casy": "GREY D x CHILLIES",
       "img": "assets/img/vn2.jpg",
-      "url": "assets/music/vn2.mp3"
+      "url": "assets/music/vn2.mp3",
+      "title": "Bài hát Đưa Em Về Nhà do ca sĩ GREY D và CHILLIES trình bày là một tác phẩm âm nhạc sôi động và trẻ trung. Giai điệu vui tươi và lời bài hát đầy lạc quan đã tạo nên sự cuốn hút cho ca khúc này. Đưa Em Về Nhà nhanh chóng thu hút sự quan tâm và yêu thích của đông đảo người nghe, đặc biệt là các bạn trẻ. Ca khúc này mang đến thông điệp về tình yêu và sự chăm sóc, khẳng định tình cảm mạnh mẽ và sẵn sàng đưa người yêu về nhà. Với sự kết hợp độc đáo giữa GREY D và CHILLIES, bài hát đã tạo nên một không gian âm nhạc tràn đầy năng lượng và truyền cảm hứng."
     },
     {
       "id": 3,
       "name": "Hãy trao cho anh",
       "casy": "Sơn Tùng",
       "img": "assets/img/vn3.jpg",
-      "url": "assets/music/vn3.mp3"
+      "url": "assets/music/vn3.mp3",
+      "title": "Bài hát Hãy Trao Cho Anh do ca sĩ Sơn Tùng M-TP trình bày là một tác phẩm âm nhạc đầy cuốn hút và nổi tiếng. Giai điệu sôi động và lời bài hát mang tính chất thể hiện sự tự tin và lôi cuốn của người đàn ông đã nhanh chóng thu hút sự yêu thích của đông đảo khán giả. Hãy Trao Cho Anh trở thành một trong những bản hit lớn trong sự nghiệp của Sơn Tùng M-TP và đạt vị trí cao trên các bảng xếp hạng âm nhạc. Ca khúc này cũng mang đến thông điệp về tình yêu và khao khát được trao điều tốt đẹp nhất cho người mình yêu."
     },
     {
       "id": 4,
       "name": "Hoa nở không màu",
       "casy": "Hoài Lâm",
       "img": "assets/img/vn4.jpg",
-      "url": "assets/music/vn4.mp3"
+      "url": "assets/music/vn4.mp3",
+      "title": "Bài hát Hoa Nở Không Màu do ca sĩ Hoài Lâm trình bày là một tác phẩm âm nhạc đầy tình cảm và sâu lắng. Giai điệu nhẹ nhàng và lời bài hát tinh tế đã tạo nên một không gian âm nhạc đầy mê hoặc. Hoa Nở Không Màu nhanh chóng trở thành một trong những bản hit được yêu thích của Hoài Lâm và đạt được vị trí cao trên các bảng xếp hạng âm nhạc. Ca khúc này truyền tải thông điệp về sự trầm lặng, những cung bậc cảm xúc trong tình yêu và những tâm tư sâu thẳm của người trải qua mất mát. Với giọng hát đặc trưng và cảm xúc trong diễn xuất, Hoài Lâm đã thành công mang đến cho người nghe một trải nghiệm âm nhạc đáng nhớ."
     },
     {
       "id": 5,
       "name": "Khó vẽ nụ cười",
       "casy": "Đạt G x Du Uyên",
       "img": "assets/img/vn5.jpg",
-      "url": "assets/music/vn5.mp3"
+      "url": "assets/music/vn5.mp3",
+      "title": "Bài hát Khó Vẽ Nụ Cười do ca sĩ Đạt G và Du Uyên trình bày là một tác phẩm âm nhạc đầy cảm xúc và tình cảm. Giai điệu nhẹ nhàng và lời bài hát đậm chất buồn tình đã tạo nên một không gian âm nhạc đặc biệt. Khó Vẽ Nụ Cười nhanh chóng thu hút sự quan tâm và yêu thích của đông đảo người nghe, với sự hòa âm tuyệt vời giữa giọng hát của Đạt G và Du Uyên. Ca khúc này mang đến thông điệp về những khó khăn và nỗi đau trong tình yêu, khiến người nghe cảm nhận được sự chân thành và sâu lắng của lời bài hát. Khó Vẽ Nụ Cười đã tạo dấu ấn mạnh mẽ trong lòng khán giả và trở thành một trong những bài hát được ưa thích trên các bảng xếp hạng âm nhạc."
     },
     {
       "id": 6,
       "name": "Muộn rồi mà sao còn",
       "casy": "Sơn Tùng",
       "img": "assets/img/vn6.jpg",
-      "url": "assets/music/vn6.mp3"
+      "url": "assets/music/vn6.mp3",
+      "title": "Bài hát Muộn Rồi Mà Sao Còn do ca sĩ Sơn Tùng M-TP trình bày là một tác phẩm âm nhạc nổi tiếng và đầy cảm xúc. Giai điệu sôi động và lời bài hát lôi cuốn đã tạo nên sự cuồn cuộn và nhiệt huyết cho ca khúc này. Muộn Rồi Mà Sao Còn nhanh chóng trở thành một trong những bản hit đình đám trong sự nghiệp của Sơn Tùng M-TP và đạt được vị trí cao trên các bảng xếp hạng âm nhạc. Ca khúc này thể hiện sự tình cảm và tiếc nuối của người trẻ với những lầm lỗi trong tình yêu và cuộc sống. Với giọng hát đặc trưng và khả năng biểu diễn tuyệt vời, Sơn Tùng M-TP đã mang đến cho người nghe một trải nghiệm âm nhạc sôi động và đáng nhớ."
     },
     {
       "id": 7,
       "name": "Nếu em còn tồn tại",
       "casy": "Trịnh Đình Quang",
       "img": "assets/img/vn7.jpg",
-      "url": "assets/music/vn7.mp3"
+      "url": "assets/music/vn7.mp3",
+      "title": "Bài hát Nếu Em Còn Tồn Tại do ca sĩ Trịnh Đình Quang trình bày là một tác phẩm âm nhạc đầy tình cảm và sâu lắng. Giai điệu nhẹ nhàng và lời bài hát chất chứa nỗi nhớ và tình yêu không được đáp lại đã tạo nên một không gian âm nhạc đậm chất buồn. Nếu Em Còn Tồn Tại nhanh chóng chinh phục trái tim của nhiều người nghe với sự diễn xuất tình cảm và giọng hát đặc trưng của Trịnh Đình Quang. Ca khúc này mang đến thông điệp về sự đau khổ và hy vọng trong tình yêu, khiến người nghe chìm đắm trong cung bậc cảm xúc. Nếu Em Còn Tồn Tại đã ghi dấu ấn mạnh mẽ trong lòng khán giả và được đánh giá cao trên các bảng xếp hạng âm nhạc."
     },
     {
       "id": 8,
       "name": "Nếu lúc đó",
       "casy": "Tlinh",
       "img": "assets/img/vn8.jpg",
-      "url": "assets/music/vn8.mp3"
+      "url": "assets/music/vn8.mp3",
+      "title": "Bài hát Nếu Lúc Đó do ca sĩ Tlinh trình bày là một tác phẩm âm nhạc đầy cảm xúc và tình cảm. Giai điệu nhẹ nhàng và lời bài hát chất chứa những suy nghĩ sâu sắc về quá khứ và những lầm lỗi đã xảy ra. Nếu Lúc Đó khắc họa một câu chuyện tình yêu đầy nuối tiếc và tiếc nuối về những quyết định đã làm mất đi một người quan trọng. Với giọng hát đặc trưng và cách thể hiện tình cảm, Tlinh đã mang đến cho người nghe một trải nghiệm âm nhạc chân thành và cảm động. Nếu Lúc Đó có thể gợi lại những kỷ niệm buồn trong lòng người nghe và tạo ra một cung bậc cảm xúc đậm đà."
     },
     {
       "id": 9,
       "name": "Waiting For You",
       "casy": "MoNo",
       "img": "assets/img/vn9.jpg",
-      "url": "assets/music/vn9.mp3"
+      "url": "assets/music/vn9.mp3",
+      "title": "Bài hát Waiting For You do ca sĩ MONO trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu nhanh nhẹn và nhịp điệu mạnh mẽ đã tạo nên một không khí vui tươi và năng động cho ca khúc này. Waiting For You nhanh chóng trở thành một bản hit được yêu thích trong sự nghiệp của MONO và khiến khán giả không thể ngồi yên. Ca khúc này mang đến sự cảm giác đầy năng lượng và khát khao gặp gỡ người yêu, khơi dậy sự háo hức và tưng bừng trong cuộc sống. Với giọng hát phấn khích và sự trình diễn sôi động, MONO đã mang đến một trải nghiệm âm nhạc đầy màu sắc và bùng nổ. Waiting For You là bài hát thích hợp để thưởng thức và cảm nhận không gian âm nhạc đầy sôi động và vui vẻ."
     },
     {
       "id": 10,
       "name": "Yêu 5",
       "casy": "Rhymastic",
       "img": "assets/img/vn10.jpg",
-      "url": "assets/music/vn10.mp3"
+      "url": "assets/music/vn10.mp3",
+      "title": "Bài hát Yêu 5 do ca sĩ Rhymastic trình bày là một tác phẩm âm nhạc sôi động và năng động. Giai điệu catchy và nhịp điệu bắt tai đã tạo nên một không gian âm nhạc vui tươi và cuốn hút cho ca khúc này. Yêu 5 nhanh chóng trở thành một trong những bản hit nổi tiếng trong sự nghiệp của Rhymastic và được nhiều người yêu thích. Ca khúc này lấy cảm hứng từ tình yêu và mang đến thông điệp vui vẻ, hạnh phúc và tràn đầy năng lượng. Với giọng hát đầy sức sống và phong cách biểu diễn độc đáo, Rhymastic đã tạo ra một trải nghiệm âm nhạc thú vị và sôi động cho người nghe. Yêu 5 là bài hát thích hợp để cùng nhảy múa và tận hưởng không gian âm nhạc đầy sự phấn khích và sôi động."
     }
   ],
   "quocte": [
@@ -331,15 +350,17 @@
       "name": "Die For You",
       "casy": "The Weeknd",
       "img": "assets/img/dieforyou.jpeg",
-      "url": "assets/music/dieforyou.mp3"
+      "url": "assets/music/dieforyou.mp3",
+      "title": "Bài hát Die For You do ca sĩ The Weeknd trình bày là một tác phẩm âm nhạc đầy cảm xúc và sâu lắng. Giai điệu và lời bài hát chất chứa tình yêu và sự cam kết mạnh mẽ của người yêu. Die For You truyền tải thông điệp về sự sẵn lòng hy sinh và đồng hành với người mình yêu đến tận cùng. Giọng hát đặc trưng và phong cách biểu diễn đầy tâm huyết của The Weeknd đã mang đến một trải nghiệm âm nhạc sôi động và đáng nhớ. Ca khúc này thường được nhận định cao trong sự nghiệp của The Weeknd và có sự ảnh hưởng mạnh mẽ đối với người nghe. Die For You là một bài hát đáng nghe và đặc biệt để truyền tải sự tận tâm và cống hiến trong tình yêu."
     },
     {
       "id": 2,
       "sort": "Global",
-      "name": "motive",
+      "name": "Motive",
       "casy": "Ariana Grande",
       "img": "assets/img/ari.jpeg",
-      "url": "assets/music/motive.mp3"
+      "url": "assets/music/motive.mp3",
+      "title": "Bài hát Motive do ca sĩ Ariana Grande trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình yêu. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Ariana Grande đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực."
     },
     {
       "id": 3,
@@ -347,7 +368,8 @@
       "name": "Real Friends",
       "casy": "Camilla Cabello",
       "img": "assets/img/camilla.jpeg",
-      "url": "assets/music/realfriends.mp3"
+      "url": "assets/music/realfriends.mp3",
+      "title": "Bài hát Motive do ca sĩ Ariana Grande trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình yêu. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Ariana Grande đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực."
     },
     {
       "id": 4,
@@ -355,7 +377,8 @@
       "name": "Like My Father",
       "casy": "Jax",
       "img": "assets/img/jax.jpeg",
-      "url": "assets/music/likemyfather.mp3"
+      "url": "assets/music/likemyfather.mp3",
+      "title": "Bài hát Like My Father do ca sĩ Jax trình bày là một tác phẩm âm nhạc cảm động và đầy ý nghĩa. Giai điệu nhẹ nhàng và lời bài hát chất chứa những suy nghĩ về tình yêu và lòng biết ơn đối với người cha. Like My Father mô tả một câu chuyện về sự lớn lên và học hỏi từ người cha, với thông điệp về sự khao khát trở thành người mạnh mẽ và đáng tự hào như cha mình. Giọng hát đầy cảm xúc và sự trình diễn chân thành của Jax đã mang đến một trải nghiệm âm nhạc chân thành và xúc động. Like My Father là bài hát thích hợp để tưởng nhớ và tôn vinh tình cha mẹ và những giá trị gia đình."
     },
     {
       "id": 5,
@@ -363,7 +386,8 @@
       "name": "LIMBO",
       "casy": "Keshi",
       "img": "assets/img/keshi.jpeg",
-      "url": "assets/music/limbo.mp3"
+      "url": "assets/music/limbo.mp3",
+      "title": "Bài hát LIMBO do ca sĩ keshi trình bày là một tác phẩm âm nhạc mang tính chất tâm trạng và sâu lắng. Giai điệu nhẹ nhàng và hòa âm điệp khúc đã tạo ra một không gian âm nhạc mơ màng và tương tác với cảm xúc của người nghe. LIMBO lời bài hát thể hiện sự khắc khoải và tìm kiếm sự định hướng trong cuộc sống, nhưng cũng mang đến hy vọng và sự lạc quan. Giọng hát tinh tế và phong cách biểu diễn sâu lắng của keshi đã mang đến một trải nghiệm âm nhạc đầy cảm xúc và sâu sắc. LIMBO là bài hát thích hợp để lắng nghe và thấu hiểu về những tâm trạng và suy ngẫm trong cuộc sống."
     },
     {
       "id": 6,
@@ -371,7 +395,8 @@
       "name": "Every Summertime",
       "casy": "Niki",
       "img": "assets/img/niki.jpeg",
-      "url": "assets/music/everysummertime.mp3"
+      "url": "assets/music/everysummertime.mp3",
+      "title": "Bài hát 'Every Summertime' của ca sĩ niki là một tác phẩm âm nhạc phóng tác từ một bản nhạc cổ điển nổi tiếng. Giai điệu vui tươi và nhịp điệu bắt tai tạo ra một không khí mừng rỡ và lạc quan cho mỗi mùa hè. Lời bài hát ca ngợi vẻ đẹp và cảm nhận của mùa hè, nhưng cũng thể hiện tình yêu và niềm vui trong những khoảnh khắc đáng nhớ của chúng ta. Giọng hát trong trẻo và phong cách biểu diễn đầy sự hồn nhiên của niki mang đến một trải nghiệm âm nhạc tươi mới và thú vị. 'Every Summertime' là một bài hát lý tưởng để thưởng thức và cảm nhận những cung bậc cảm xúc trong mỗi mùa hè của chúng ta"
     },
     {
       "id": 7,
@@ -379,7 +404,8 @@
       "name": "Players",
       "casy": "Coi Leray",
       "img": "assets/img/players.png",
-      "url": "assets/music/players.mp3"
+      "url": "assets/music/players.mp3",
+      "title": "Bài hát 'Players' của ca sĩ LeRay là một tác phẩm âm nhạc đầy năng lượng và phong cách. Giai điệu sôi động và nhịp điệu bắt tai tạo ra một không khí sôi nổi và đầy cảm hứng cho những người nghe. Lời bài hát kể về cuộc sống và tinh thần của những người chơi, những người không ngại thể hiện bản thân và sống cuộc đời một cách tự do và phóng khoáng. Giọng hát mạnh mẽ và phong cách biểu diễn táo bạo của LeRay đã mang đến một trải nghiệm âm nhạc đầy sự hưng phấn và sôi động. 'Players' là một bài hát lý tưởng để thưởng thức và cảm nhận tinh thần của những người tự do và sáng tạo"
     },
     {
       "id": 8,
@@ -387,7 +413,8 @@
       "name": "I Like You (A Happier Song)",
       "casy": "Post Malone",
       "img": "assets/img/postmalone.jpeg",
-      "url": "assets/music/ilikeyou.mp3"
+      "url": "assets/music/ilikeyou.mp3",
+      "title": "I Like You (A Happier Song) là một bài hát vui tươi và lạc quan của ca sĩ Post Malone. Giai điệu sôi động và nhịp điệu bắt tai sẽ khiến bạn không thể ngồi yên. Lời bài hát mô tả tình yêu và sự hạnh phúc khi gặp gỡ người yêu thương. Bài hát truyền tải thông điệp về niềm vui, sự lạc quan và tình cảm trong một môi trường tươi sáng và lạc quan. Giọng hát phong cách và sự trình diễn tài năng của Post Malone đã mang đến một trải nghiệm âm nhạc sôi động và đáng yêu. I Like You (A Happier Song) là bài hát hoàn hảo để tạo cảm giác hạnh phúc và nâng cao tinh thần của bạn"
     },
     {
       "id": 9,
@@ -395,7 +422,8 @@
       "name": "Fall In Love Alone",
       "casy": "Stacey Ryan",
       "img": "assets/img/staceyryan.jpeg",
-      "url": "assets/music/fallinlovealone.mp3"
+      "url": "assets/music/fallinlovealone.mp3",
+      "title": "Bài hát 'Fall In Love Alone' của ca sĩ Stacey Ryan là một tác phẩm âm nhạc lãng mạn và sâu lắng. Giai điệu nhẹ nhàng và lời bài hát chân thành thể hiện tình yêu và cảm xúc của một người đang trải qua một cuộc tình không được đáp lại. Bài hát kể về một người đơn lẻ và cô đơn trong tình yêu, đồng thời thể hiện sự tình tứ và hy vọng về một tình yêu thực sự. Giọng hát tình cảm và phong cách biểu diễn sâu lắng của Stacey Ryan mang đến một trải nghiệm âm nhạc đầy cảm xúc và xúc động. 'Fall In Love Alone' là một bài hát lý tưởng để lắng nghe trong những khoảnh khắc cô đơn và suy ngẫm về tình yêu"
     },
     {
       "id": 10,
@@ -403,7 +431,8 @@
       "name": "Angel Baby",
       "casy": "Troye Sivan",
       "img": "assets/img/troyesivan.jpeg",
-      "url": "assets/music/angelbaby.mp3"
+      "url": "assets/music/angelbaby.mp3",
+      "title": "Bài hát 'Angel Baby' của ca sĩ Troye Sivan là một tác phẩm âm nhạc đầy tình cảm và sự lãng mạn. Giai điệu êm dịu và lời bài hát ngọt ngào tạo nên một không gian mộng mơ và tình yêu. Bài hát kể về một tình yêu đẹp và trong sáng, như một thiên thần hiện hữu trong cuộc sống của người khác. Lời bài hát ca ngợi vẻ đẹp và sự tinh khiết của người yêu, đồng thời thể hiện tình cảm sâu sắc và sự khao khát bên cạnh người mình yêu. Giọng hát tinh tế và phong cách biểu diễn tâm huyết của Troye Sivan mang đến một trải nghiệm âm nhạc đậm chất tình yêu. 'Angel Baby' là một bài hát lý tưởng để nghe trong những khoảnh khắc lãng mạn và tràn đầy cảm xúc."
     }
   ],
   "tatca": [
@@ -412,70 +441,80 @@
       "name": "Chuyện đôi ta",
       "casy": "Da LaB",
       "img": "assets/img/vn1.jpg",
-      "url": "assets/music/vn1.mp3"
+      "url": "assets/music/vn1.mp3",
+      "title": "Bài hát Chuyện Đôi Ta do ca sĩ Dalab trình bày là một tác phẩm âm nhạc đậm chất ballad và lời bài hát sâu lắng. Giai điệu nhẹ nhàng và êm đềm đã tạo nên sự cuốn hút đặc biệt cho ca khúc này. Chuyện Đôi Ta nhanh chóng trở thành một trong những bài hát được yêu thích và truyền cảm hứng cho người nghe. Ca khúc này mang đến câu chuyện về tình yêu, những kỷ niệm và những cung bậc cảm xúc trong mối quan hệ đôi lứa. Với giọng hát đặc trưng của Dalab và sự diễn xuất tình cảm, bài hát đã ghi điểm và tạo dấu ấn sâu sắc trong lòng khán giả âm nhạc."
     },
     {
       "id": 2,
       "name": "Đưa em về nhà",
       "casy": "GREY D x CHILLIES",
       "img": "assets/img/vn2.jpg",
-      "url": "assets/music/vn2.mp3"
+      "url": "assets/music/vn2.mp3",
+      "title": "Bài hát Đưa Em Về Nhà do ca sĩ GREY D và CHILLIES trình bày là một tác phẩm âm nhạc sôi động và trẻ trung. Giai điệu vui tươi và lời bài hát đầy lạc quan đã tạo nên sự cuốn hút cho ca khúc này. Đưa Em Về Nhà nhanh chóng thu hút sự quan tâm và yêu thích của đông đảo người nghe, đặc biệt là các bạn trẻ. Ca khúc này mang đến thông điệp về tình yêu và sự chăm sóc, khẳng định tình cảm mạnh mẽ và sẵn sàng đưa người yêu về nhà. Với sự kết hợp độc đáo giữa GREY D và CHILLIES, bài hát đã tạo nên một không gian âm nhạc tràn đầy năng lượng và truyền cảm hứng."
     },
     {
       "id": 3,
       "name": "Hãy trao cho anh",
       "casy": "Sơn Tùng",
       "img": "assets/img/vn3.jpg",
-      "url": "assets/music/vn3.mp3"
+      "url": "assets/music/vn3.mp3",
+      "title": "Bài hát Hãy Trao Cho Anh do ca sĩ Sơn Tùng M-TP trình bày là một tác phẩm âm nhạc đầy cuốn hút và nổi tiếng. Giai điệu sôi động và lời bài hát mang tính chất thể hiện sự tự tin và lôi cuốn của người đàn ông đã nhanh chóng thu hút sự yêu thích của đông đảo khán giả. Hãy Trao Cho Anh trở thành một trong những bản hit lớn trong sự nghiệp của Sơn Tùng M-TP và đạt vị trí cao trên các bảng xếp hạng âm nhạc. Ca khúc này cũng mang đến thông điệp về tình yêu và khao khát được trao điều tốt đẹp nhất cho người mình yêu."
     },
     {
       "id": 4,
       "name": "Hoa nở không màu",
       "casy": "Hoài Lâm",
       "img": "assets/img/vn4.jpg",
-      "url": "assets/music/vn4.mp3"
+      "url": "assets/music/vn4.mp3",
+      "title": "Bài hát Hoa Nở Không Màu do ca sĩ Hoài Lâm trình bày là một tác phẩm âm nhạc đầy tình cảm và sâu lắng. Giai điệu nhẹ nhàng và lời bài hát tinh tế đã tạo nên một không gian âm nhạc đầy mê hoặc. Hoa Nở Không Màu nhanh chóng trở thành một trong những bản hit được yêu thích của Hoài Lâm và đạt được vị trí cao trên các bảng xếp hạng âm nhạc. Ca khúc này truyền tải thông điệp về sự trầm lặng, những cung bậc cảm xúc trong tình yêu và những tâm tư sâu thẳm của người trải qua mất mát. Với giọng hát đặc trưng và cảm xúc trong diễn xuất, Hoài Lâm đã thành công mang đến cho người nghe một trải nghiệm âm nhạc đáng nhớ."
     },
     {
       "id": 5,
       "name": "Khó vẽ nụ cười",
       "casy": "Đạt G x Du Uyên",
       "img": "assets/img/vn5.jpg",
-      "url": "assets/music/vn5.mp3"
+      "url": "assets/music/vn5.mp3",
+      "title": "Bài hát Khó Vẽ Nụ Cười do ca sĩ Đạt G và Du Uyên trình bày là một tác phẩm âm nhạc đầy cảm xúc và tình cảm. Giai điệu nhẹ nhàng và lời bài hát đậm chất buồn tình đã tạo nên một không gian âm nhạc đặc biệt. Khó Vẽ Nụ Cười nhanh chóng thu hút sự quan tâm và yêu thích của đông đảo người nghe, với sự hòa âm tuyệt vời giữa giọng hát của Đạt G và Du Uyên. Ca khúc này mang đến thông điệp về những khó khăn và nỗi đau trong tình yêu, khiến người nghe cảm nhận được sự chân thành và sâu lắng của lời bài hát. Khó Vẽ Nụ Cười đã tạo dấu ấn mạnh mẽ trong lòng khán giả và trở thành một trong những bài hát được ưa thích trên các bảng xếp hạng âm nhạc."
     },
     {
       "id": 6,
       "name": "Muộn rồi mà sao còn",
       "casy": "Sơn Tùng",
       "img": "assets/img/vn6.jpg",
-      "url": "assets/music/vn6.mp3"
+      "url": "assets/music/vn6.mp3",
+      "title": "Bài hát Muộn Rồi Mà Sao Còn do ca sĩ Sơn Tùng M-TP trình bày là một tác phẩm âm nhạc nổi tiếng và đầy cảm xúc. Giai điệu sôi động và lời bài hát lôi cuốn đã tạo nên sự cuồn cuộn và nhiệt huyết cho ca khúc này. Muộn Rồi Mà Sao Còn nhanh chóng trở thành một trong những bản hit đình đám trong sự nghiệp của Sơn Tùng M-TP và đạt được vị trí cao trên các bảng xếp hạng âm nhạc. Ca khúc này thể hiện sự tình cảm và tiếc nuối của người trẻ với những lầm lỗi trong tình yêu và cuộc sống. Với giọng hát đặc trưng và khả năng biểu diễn tuyệt vời, Sơn Tùng M-TP đã mang đến cho người nghe một trải nghiệm âm nhạc sôi động và đáng nhớ."
     },
     {
       "id": 7,
       "name": "Nếu em còn tồn tại",
       "casy": "Trịnh Đình Quang",
       "img": "assets/img/vn7.jpg",
-      "url": "assets/music/vn7.mp3"
+      "url": "assets/music/vn7.mp3",
+      "title": "Bài hát Nếu Em Còn Tồn Tại do ca sĩ Trịnh Đình Quang trình bày là một tác phẩm âm nhạc đầy tình cảm và sâu lắng. Giai điệu nhẹ nhàng và lời bài hát chất chứa nỗi nhớ và tình yêu không được đáp lại đã tạo nên một không gian âm nhạc đậm chất buồn. Nếu Em Còn Tồn Tại nhanh chóng chinh phục trái tim của nhiều người nghe với sự diễn xuất tình cảm và giọng hát đặc trưng của Trịnh Đình Quang. Ca khúc này mang đến thông điệp về sự đau khổ và hy vọng trong tình yêu, khiến người nghe chìm đắm trong cung bậc cảm xúc. Nếu Em Còn Tồn Tại đã ghi dấu ấn mạnh mẽ trong lòng khán giả và được đánh giá cao trên các bảng xếp hạng âm nhạc."
     },
     {
       "id": 8,
       "name": "Nếu lúc đó",
       "casy": "Tlinh",
       "img": "assets/img/vn8.jpg",
-      "url": "assets/music/vn8.mp3"
+      "url": "assets/music/vn8.mp3",
+      "title": "Bài hát Nếu Lúc Đó do ca sĩ Tlinh trình bày là một tác phẩm âm nhạc đầy cảm xúc và tình cảm. Giai điệu nhẹ nhàng và lời bài hát chất chứa những suy nghĩ sâu sắc về quá khứ và những lầm lỗi đã xảy ra. Nếu Lúc Đó khắc họa một câu chuyện tình yêu đầy nuối tiếc và tiếc nuối về những quyết định đã làm mất đi một người quan trọng. Với giọng hát đặc trưng và cách thể hiện tình cảm, Tlinh đã mang đến cho người nghe một trải nghiệm âm nhạc chân thành và cảm động. Nếu Lúc Đó có thể gợi lại những kỷ niệm buồn trong lòng người nghe và tạo ra một cung bậc cảm xúc đậm đà."
     },
     {
       "id": 9,
       "name": "Waiting For You",
       "casy": "MoNo",
       "img": "assets/img/vn9.jpg",
-      "url": "assets/music/vn9.mp3"
+      "url": "assets/music/vn9.mp3",
+      "title": "Bài hát Waiting For You do ca sĩ MONO trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu nhanh nhẹn và nhịp điệu mạnh mẽ đã tạo nên một không khí vui tươi và năng động cho ca khúc này. Waiting For You nhanh chóng trở thành một bản hit được yêu thích trong sự nghiệp của MONO và khiến khán giả không thể ngồi yên. Ca khúc này mang đến sự cảm giác đầy năng lượng và khát khao gặp gỡ người yêu, khơi dậy sự háo hức và tưng bừng trong cuộc sống. Với giọng hát phấn khích và sự trình diễn sôi động, MONO đã mang đến một trải nghiệm âm nhạc đầy màu sắc và bùng nổ. Waiting For You là bài hát thích hợp để thưởng thức và cảm nhận không gian âm nhạc đầy sôi động và vui vẻ."
     },
     {
       "id": 10,
       "name": "Yêu 5",
       "casy": "Rhymastic",
       "img": "assets/img/vn10.jpg",
-      "url": "assets/music/vn10.mp3"
+      "url": "assets/music/vn10.mp3",
+      "title": "Bài hát Yêu 5 do ca sĩ Rhymastic trình bày là một tác phẩm âm nhạc sôi động và năng động. Giai điệu catchy và nhịp điệu bắt tai đã tạo nên một không gian âm nhạc vui tươi và cuốn hút cho ca khúc này. Yêu 5 nhanh chóng trở thành một trong những bản hit nổi tiếng trong sự nghiệp của Rhymastic và được nhiều người yêu thích. Ca khúc này lấy cảm hứng từ tình yêu và mang đến thông điệp vui vẻ, hạnh phúc và tràn đầy năng lượng. Với giọng hát đầy sức sống và phong cách biểu diễn độc đáo, Rhymastic đã tạo ra một trải nghiệm âm nhạc thú vị và sôi động cho người nghe. Yêu 5 là bài hát thích hợp để cùng nhảy múa và tận hưởng không gian âm nhạc đầy sự phấn khích và sôi động."
     },
     {
       "id": 11,
@@ -483,15 +522,17 @@
       "name": "Die For You",
       "casy": "The Weeknd",
       "img": "assets/img/dieforyou.jpeg",
-      "url": "assets/music/dieforyou.mp3"
+      "url": "assets/music/dieforyou.mp3",
+      "title": "Bài hát Die For You do ca sĩ The Weeknd trình bày là một tác phẩm âm nhạc đầy cảm xúc và sâu lắng. Giai điệu và lời bài hát chất chứa tình yêu và sự cam kết mạnh mẽ của người yêu. Die For You truyền tải thông điệp về sự sẵn lòng hy sinh và đồng hành với người mình yêu đến tận cùng. Giọng hát đặc trưng và phong cách biểu diễn đầy tâm huyết của The Weeknd đã mang đến một trải nghiệm âm nhạc sôi động và đáng nhớ. Ca khúc này thường được nhận định cao trong sự nghiệp của The Weeknd và có sự ảnh hưởng mạnh mẽ đối với người nghe. Die For You là một bài hát đáng nghe và đặc biệt để truyền tải sự tận tâm và cống hiến trong tình yêu."
     },
     {
       "id": 12,
       "sort": "Global",
-      "name": "motive",
+      "name": "Motive",
       "casy": "Ariana Grande",
       "img": "assets/img/ari.jpeg",
-      "url": "assets/music/motive.mp3"
+      "url": "assets/music/motive.mp3",
+      "title": "Bài hát Motive do ca sĩ Ariana Grande trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình yêu. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Ariana Grande đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực."
     },
     {
       "id": 13,
@@ -499,7 +540,8 @@
       "name": "Real Friends",
       "casy": "Camilla Cabello",
       "img": "assets/img/camilla.jpeg",
-      "url": "assets/music/realfriends.mp3"
+      "url": "assets/music/realfriends.mp3",
+      "title": "Bài hát Motive do ca sĩ Ariana Grande trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình yêu. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Ariana Grande đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực."
     },
     {
       "id": 14,
@@ -507,7 +549,8 @@
       "name": "Like My Father",
       "casy": "Jax",
       "img": "assets/img/jax.jpeg",
-      "url": "assets/music/likemyfather.mp3"
+      "url": "assets/music/likemyfather.mp3",
+      "title": "Bài hát Like My Father do ca sĩ Jax trình bày là một tác phẩm âm nhạc cảm động và đầy ý nghĩa. Giai điệu nhẹ nhàng và lời bài hát chất chứa những suy nghĩ về tình yêu và lòng biết ơn đối với người cha. Like My Father mô tả một câu chuyện về sự lớn lên và học hỏi từ người cha, với thông điệp về sự khao khát trở thành người mạnh mẽ và đáng tự hào như cha mình. Giọng hát đầy cảm xúc và sự trình diễn chân thành của Jax đã mang đến một trải nghiệm âm nhạc chân thành và xúc động. Like My Father là bài hát thích hợp để tưởng nhớ và tôn vinh tình cha mẹ và những giá trị gia đình."
     },
     {
       "id": 15,
@@ -515,7 +558,8 @@
       "name": "LIMBO",
       "casy": "Keshi",
       "img": "assets/img/keshi.jpeg",
-      "url": "assets/music/limbo.mp3"
+      "url": "assets/music/limbo.mp3",
+      "title": "Bài hát LIMBO do ca sĩ keshi trình bày là một tác phẩm âm nhạc mang tính chất tâm trạng và sâu lắng. Giai điệu nhẹ nhàng và hòa âm điệp khúc đã tạo ra một không gian âm nhạc mơ màng và tương tác với cảm xúc của người nghe. LIMBO lời bài hát thể hiện sự khắc khoải và tìm kiếm sự định hướng trong cuộc sống, nhưng cũng mang đến hy vọng và sự lạc quan. Giọng hát tinh tế và phong cách biểu diễn sâu lắng của keshi đã mang đến một trải nghiệm âm nhạc đầy cảm xúc và sâu sắc. LIMBO là bài hát thích hợp để lắng nghe và thấu hiểu về những tâm trạng và suy ngẫm trong cuộc sống."
     },
     {
       "id": 16,
@@ -523,7 +567,8 @@
       "name": "Every Summertime",
       "casy": "Niki",
       "img": "assets/img/niki.jpeg",
-      "url": "assets/music/everysummertime.mp3"
+      "url": "assets/music/everysummertime.mp3",
+      "title": "Bài hát 'Every Summertime' của ca sĩ niki là một tác phẩm âm nhạc phóng tác từ một bản nhạc cổ điển nổi tiếng. Giai điệu vui tươi và nhịp điệu bắt tai tạo ra một không khí mừng rỡ và lạc quan cho mỗi mùa hè. Lời bài hát ca ngợi vẻ đẹp và cảm nhận của mùa hè, nhưng cũng thể hiện tình yêu và niềm vui trong những khoảnh khắc đáng nhớ của chúng ta. Giọng hát trong trẻo và phong cách biểu diễn đầy sự hồn nhiên của niki mang đến một trải nghiệm âm nhạc tươi mới và thú vị. 'Every Summertime' là một bài hát lý tưởng để thưởng thức và cảm nhận những cung bậc cảm xúc trong mỗi mùa hè của chúng ta"
     },
     {
       "id": 17,
@@ -531,7 +576,8 @@
       "name": "Players",
       "casy": "Coi Leray",
       "img": "assets/img/players.png",
-      "url": "assets/music/players.mp3"
+      "url": "assets/music/players.mp3",
+      "title": "Bài hát 'Players' của ca sĩ LeRay là một tác phẩm âm nhạc đầy năng lượng và phong cách. Giai điệu sôi động và nhịp điệu bắt tai tạo ra một không khí sôi nổi và đầy cảm hứng cho những người nghe. Lời bài hát kể về cuộc sống và tinh thần của những người chơi, những người không ngại thể hiện bản thân và sống cuộc đời một cách tự do và phóng khoáng. Giọng hát mạnh mẽ và phong cách biểu diễn táo bạo của LeRay đã mang đến một trải nghiệm âm nhạc đầy sự hưng phấn và sôi động. 'Players' là một bài hát lý tưởng để thưởng thức và cảm nhận tinh thần của những người tự do và sáng tạo"
     },
     {
       "id": 18,
@@ -539,7 +585,8 @@
       "name": "I Like You (A Happier Song)",
       "casy": "Post Malone",
       "img": "assets/img/postmalone.jpeg",
-      "url": "assets/music/ilikeyou.mp3"
+      "url": "assets/music/ilikeyou.mp3",
+      "title": "I Like You (A Happier Song) là một bài hát vui tươi và lạc quan của ca sĩ Post Malone. Giai điệu sôi động và nhịp điệu bắt tai sẽ khiến bạn không thể ngồi yên. Lời bài hát mô tả tình yêu và sự hạnh phúc khi gặp gỡ người yêu thương. Bài hát truyền tải thông điệp về niềm vui, sự lạc quan và tình cảm trong một môi trường tươi sáng và lạc quan. Giọng hát phong cách và sự trình diễn tài năng của Post Malone đã mang đến một trải nghiệm âm nhạc sôi động và đáng yêu. I Like You (A Happier Song) là bài hát hoàn hảo để tạo cảm giác hạnh phúc và nâng cao tinh thần của bạn"
     },
     {
       "id": 19,
@@ -547,7 +594,8 @@
       "name": "Fall In Love Alone",
       "casy": "Stacey Ryan",
       "img": "assets/img/staceyryan.jpeg",
-      "url": "assets/music/fallinlovealone.mp3"
+      "url": "assets/music/fallinlovealone.mp3",
+      "title": "Bài hát 'Fall In Love Alone' của ca sĩ Stacey Ryan là một tác phẩm âm nhạc lãng mạn và sâu lắng. Giai điệu nhẹ nhàng và lời bài hát chân thành thể hiện tình yêu và cảm xúc của một người đang trải qua một cuộc tình không được đáp lại. Bài hát kể về một người đơn lẻ và cô đơn trong tình yêu, đồng thời thể hiện sự tình tứ và hy vọng về một tình yêu thực sự. Giọng hát tình cảm và phong cách biểu diễn sâu lắng của Stacey Ryan mang đến một trải nghiệm âm nhạc đầy cảm xúc và xúc động. 'Fall In Love Alone' là một bài hát lý tưởng để lắng nghe trong những khoảnh khắc cô đơn và suy ngẫm về tình yêu"
     }
   ]
 }
