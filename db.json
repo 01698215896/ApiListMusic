@@ -391,7 +391,7 @@
       "casy": "Camilla Cabello",
       "img": "assets/img/camilla.jpeg",
       "url": "assets/music/realfriends.mp3",
-      "title": "Bài hát Real Friends do ca sĩ Camilla Cabello trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình bạn. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Camilla Cabello đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực.",
+      "title": "Bài hát Real Friends do ca sĩ Camilla Cabello trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Real Friends là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình bạn. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Camilla Cabello đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực.",
       "time": "3:36"
     },
     {
@@ -714,7 +714,7 @@
       "img": "assets/img/thuychi.jpeg",
       "url": "assets/music/nangthoxuhue.mp3",
       "title": "Nhạc phẩm có cách phối khí âm hưởng dân ca, mở đầu bằng tiếng sáo. Giai điệu chậm rãi, sâu lắng của ca khúc hài hòa với chất giọng của Thùy Chi.",
-      "time": "4:42"
+      "time": "5:32"
     },
 
     {
@@ -757,7 +757,7 @@
       "casy": "Hương Tràm",
       "img": "assets/img/huongtram.jpeg",
       "url": "assets/music/emgaimua.mp3",
-      "title": "Ca khúc Phía sau một cô gái được đánh giá là hiện tượng nổi bật của Vpop trong thời điểm cuối năm 2016. Sự kết hợp đầu tiên giữa Soobin Hoàng Sơn và Tiên Cookie nhanh chóng thu hút sự quan tâm của truyền thông lẫn đông đảo công chúng.",
+      "title": "Ca khúc Em gái mưa được đánh giá là hiện tượng nổi bật của Vpop trong thời điểm cuối năm 2016. Sự kết hợp đầu tiên giữa Soobin Hoàng Sơn và Tiên Cookie nhanh chóng thu hút sự quan tâm của truyền thông lẫn đông đảo công chúng.",
       "time": "5:30"
     },
 
@@ -813,7 +813,7 @@
       "sort": "Chill",
       "name": "One Summer's Day",
       "casy": "Joe Hisaishi",
-      "img": "assets/spirited.jpeg",
+      "img": "assets/img/spirited.jpeg",
       "url": "assets/music/onesummerday.mp3",
       "title": "Nhạc cổ điển là dòng nhạc nghệ thuật được sản xuất, hoặc được bắt nguồn từ truyền thống tế lễ ở phương Tây bao gồm cả nhạc tôn giáo và nhạc thế tục, một khoảng thời gian rộng lớn từ khoảng thế kỷ thứ XI đến thời điểm hiện tại.",
       "time": "4:43"
@@ -829,5 +829,513 @@
       "title": "Nhạc cổ điển là dòng nhạc nghệ thuật được sản xuất, hoặc được bắt nguồn từ truyền thống tế lễ ở phương Tây bao gồm cả nhạc tôn giáo và nhạc thế tục, một khoảng thời gian rộng lớn từ khoảng thế kỷ thứ XI đến thời điểm hiện tại.",
       "time": "5:03"
     }
+  ],
+
+  "list1":
+  [
+    {
+      "id": 1,
+      "sort": "VN",
+      "name": "gái độc thân",
+      "casy": "tlinh",
+      "img": "assets/img/gaidocthan.jpeg",
+      "url": "assets/music/gaidocthan.mp3",
+      "title": "Tlinh là rapper trẻ năng động và tài giỏi chỉ trong vòng một thời gian ngắn gia nhập rap, Tlinh đã có bước tiến đáng kinh ngạc. Cô có cách gieo vần, chơi chữ khá thông minh, rap hay hát cô điều thể hiện rất mượt và cuốn hút.",
+      "time": "5:43"
+    },
+
+    {
+      "id": 2,
+      "sort": "VN",
+      "name": "Missing U",
+      "casy": "Phương Ly",
+      "img": "assets/img/missingu.jpeg",
+      "url": "assets/music/missingyou.mp3",
+      "title": "Ca khúc mang âm hưởng Pop nhẹ nhàng, với ca từ lãng mạn, đầy chất thơ, được thể hiện qua giọng ca mộc mạc, giàu chất tự sự của Hà Anh Tuấn.",
+      "time": "6:10"
+    },
+    
+    {
+      "id": 3,
+      "sort": "VN",
+      "name": "Thích Em Hơi Nhiều",
+      "casy": "Wren Evans",
+      "img": "assets/img/thichemhoinhieu.jpeg",
+      "url": "assets/music/thichemhoinhieu.mp3",
+      "title": "Sau tất cả mang lại sự ấm áp, ngọt ngào của đôi tình nhân. Trải qua nhiều cung bậc cảm xúc trái chiều, họ lựa chọn cách quay về bên nhau bởi khó khăn cũng chỉ là thử thách. Sự văn minh trong ca từ cùng với chất ballad du dương góp phần làm nên thành công cho bản hit này.",
+      "time": "3:54"
+    },
+
+    {
+      "id": 4,
+      "sort": "VN",
+      "name": "Em là",
+      "casy": "Mono",
+      "img": "assets/img/emla.jpeg",
+      "url": "assets/music/emla.mp3",
+      "title": "Nguyễn Việt Hoàng, thường được biết đến với nghệ danh Mono, là một nam ca sĩ kiêm sáng tác nhạc người Việt Nam, sinh ra và lớn lên tại tỉnh Thái Bình. Mono là em trai của ca, nhạc sĩ Sơn Tùng M-TP.",
+      "time": "4:52"
+    },
+
+    
+    {
+      "id": 5,
+      "sort": "VN",
+      "name": "em bỏ hút thuốc chưa",
+      "casy": "Bích Phương",
+      "img": "assets/img/embohutthuocchua.jpeg",
+      "url": "assets/music/embohutthuocchua.mp3",
+      "title": "Nhạc phẩm có cách phối khí âm hưởng dân ca, mở đầu bằng tiếng sáo. Giai điệu chậm rãi, sâu lắng của ca khúc hài hòa với chất giọng của Thùy Chi.",
+      "time": "4:42"
+    },
+
+    {
+      "id": 6,
+      "sort": "VN",
+      "name": "Bo Xì Bo",
+      "casy": "Hoàng Thuỳ Linh",
+      "img": "assets/img/boxibo.jpeg",
+      "url": "assets/music/boxibo.mp3",
+      "title": "Hoàng Thùy Linh cho ra mắt đĩa đơn Gieo quẻ trên các nền tảng nghe nhạc trực tuyến tại Việt Nam.[14] Sau vài ngày phát hành, bài hát đạt Top 1 Trending trên YouTube,",
+      "time": "4:42"
+    },
+
+    {
+      "id": 7,
+      "sort": "VN",
+      "name": "See Tình",
+      "casy": "Hoàng Thuỳ Linh",
+      "img": "assets/img/seetinh.jpeg",
+      "url": "assets/music/seetinh.mp3",
+      "title": "Hoàng Thùy Linh cho ra mắt đĩa đơn Gieo quẻ trên các nền tảng nghe nhạc trực tuyến tại Việt Nam.[14] Sau vài ngày phát hành, bài hát đạt Top 1 Trending trên YouTube,",
+      "time": "3:32"
+    },
+
+    {
+      "id": 8,
+      "sort": "VN",
+      "name": "Kẻ Cắp Gặp Bà Già",
+      "casy": "Hoàng Thuỳ Linh",
+      "img": "assets/img/kecapgapbagia.jpeg",
+      "url": "assets/music/kecapgapbagia.mp3",
+      "title": "Hoàng Thùy Linh cho ra mắt đĩa đơn Gieo quẻ trên các nền tảng nghe nhạc trực tuyến tại Việt Nam.[14] Sau vài ngày phát hành, bài hát đạt Top 1 Trending trên YouTube,",
+      "time": "4:49"
+    },
+
+    {
+      "id": 9,
+      "sort": "VN",
+      "name": "Sao Cũng Được",
+      "casy": "Binz",
+      "img": "assets/img/saocungduoc.jpeg",
+      "url": "assets/music/saocungduoc.mp3",
+      "title": "Ca khúc Sao Cũng Được được đánh giá là hiện tượng nổi bật của Vpop. Và nhanh chóng thu hút sự quan tâm của truyền thông lẫn đông đảo công chúng.",
+      "time": "5:30"
+    },
+
+    {
+      "id": 10,
+      "sort": "VN",
+      "name": "Big City Boi",
+      "casy": "Binz",
+      "img": "assets/img/bigcityboi.jpeg",
+      "url": "assets/music/bigcityboi.mp3",
+      "title": "Binz với ca khúc Big City Boi đã tạo nên một trào lưu với giai điệu bắt tai, hiện đại. Sự kết hợp khéo léo của Touliver đã góp phần không nhỏ vào sự thành công của bài hát.",
+      "time": "4:03"
+    },
+
+    {
+      "id": 11,
+      "sort": "VN",
+      "name": "Ưng Quá Chừng",
+      "casy": "Amee",
+      "img": "assets/img/ungquachung.jpeg",
+      "url": "assets/music/ungquachung.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "5:03"
+    },
+
+    {
+      "id": 12,
+      "sort": "VN",
+      "name": "22 (Hai mươi hai)",
+      "casy": "Amee",
+      "img": "assets/img/22.jpeg",
+      "url": "assets/music/22.mp3",
+      "title": "Những câu từ trong bài hát như những lời nhắn nhủ nhẹ nhàng và sâu lắng thể hiện sự yêu thương của người mẹ dành cho con gái của mình khi từng bược trưởng thành.",
+      "time": "4:03"
+    },
+
+    {
+      "id": 13,
+      "sort": "VN",
+      "name": "nến và hoa",
+      "casy": "Rhymastic",
+      "img": "assets/img/nenvahoa.jpeg",
+      "url": "assets/music/nenvahoa.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Rhymastic đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:03"
+    },
+
+    {
+      "id": 14,
+      "sort": "VN",
+      "name": "XTC",
+      "casy": "RPT",
+      "img": "assets/img/xtc.jpeg",
+      "url": "assets/music/xtc.mp3",
+      "title": "Tlinh là rapper trẻ năng động và tài giỏi chỉ trong vòng một thời gian ngắn gia nhập rap, Tlinh đã có bước tiến đáng kinh ngạc. Cô có cách gieo vần, chơi chữ khá thông minh, rap hay hát cô điều thể hiện rất mượt và cuốn hút..",
+      "time": "4:03"
+    },
+
+    {
+      "id": 15,
+      "sort": "VN",
+      "name": "Duyên Âm",
+      "casy": "Hoàng Thuỳ Linh",
+      "img": "assets/img/duyenam.jpeg",
+      "url": "assets/music/duyenam.mp3",
+      "title": "Hoàng Thùy Linh cho ra mắt đĩa đơn Gieo quẻ trên các nền tảng nghe nhạc trực tuyến tại Việt Nam.[14] Sau vài ngày phát hành, bài hát đạt Top 1 Trending trên YouTube,",
+      "time": "4:52"
+    }
+  ],
+
+  
+  "list2":
+  [
+    {
+        "id": 1,
+        "sort": "Global",
+        "name": "Say So",
+        "casy": "Doja Cat",
+        "img": "assets/img/battinhyeulen.jpeg",
+        "url": "assets/music/battinhyeulen.mp3",
+        "title": "Bản phối lại từ đĩa đơn Say So hợp tác với Nicki Minaj của cô phát hành năm 2020 đã đạt được vị trí quán quân bảng xếp hạng Billboard Hot 100. Đây là bài hát đầu tiên của cả 2 nghệ sĩ giành được vị trí này. Năm 2021 cô cho ra mắt album Planet Her ",
+        "time": "3:23"
+    },
+
+    {
+      "id": 2,
+      "sort": "Global",
+      "name": "Candy",
+      "casy": "Doja Cat",
+      "img": "assets/img/candy.jpeg",
+      "url": "assets/music/candy.mp3",
+      "title": "Bản phối lại từ đĩa đơn Say So hợp tác với Nicki Minaj của cô phát hành năm 2020 đã đạt được vị trí quán quân bảng xếp hạng Billboard Hot 100. Đây là bài hát đầu tiên của cả 2 nghệ sĩ giành được vị trí này. Năm 2021 cô cho ra mắt album Planet Her ",
+      "time": "3:03"
+    },
+
+    {
+      "id": 3,
+      "sort": "Global",
+      "name": "Promise",
+      "casy": "Jimin",
+      "img": "assets/img/jimin.jpeg",
+      "url": "assets/music/jimin.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "3:10"
+    },
+
+
+    {
+      "id": 4,
+      "sort": "Global",
+      "name": "Out Of Time",
+      "casy": "The Weeknd",
+      "img": "assets/img/outoftime.jpeg",
+      "url": "assets/music/outoftime.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:03"
+    },
+
+    {
+      "id": 5,
+      "sort": "Global",
+      "name": "Hey, Mickey",
+      "casy": "Baby Tate",
+      "img": "assets/img/heymickey.jpeg",
+      "url": "assets/music/heymickey.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "2:23"
+    },
+
+    {
+      "id": 6,
+      "sort": "Global",
+      "name": "It's You",
+      "casy": "Ali Gatie",
+      "img": "assets/img/itsyou.jpeg",
+      "url": "assets/music/itsyou.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "3:43"
+    },
+
+    {
+      "id": 7,
+      "sort": "Global",
+      "name": "Easy On Me",
+      "casy": "Adele",
+      "img": "assets/img/easyonme.jpeg",
+      "url": "assets/music/easyonme.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:32"
+    },
+
+    {
+      "id": 8,
+      "sort": "Global",
+      "name": "Kill Bill",
+      "casy": "SZA",
+      "img": "assets/img/killbill.jpeg",
+      "url": "assets/music/killbill.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "3:03"
+    },
+
+    {
+      "id": 9,
+      "sort": "Global",
+      "name": "Save Your Tears",
+      "casy": "The Weeknd ft. Ariana Grande",
+      "img": "assets/img/saveyourtears.jpeg",
+      "url": "assets/music/saveyourtears.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:13"
+    },
+
+    {
+      "id": 10,
+      "sort": "Global",
+      "name": "Cupid",
+      "casy": "Fifty Fifty",
+      "img": "assets/img/cupid.jpeg",
+      "url": "assets/music/cupid.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "3:53"
+    },
+
+    {
+      "id": 11,
+      "sort": "Global",
+      "name": "Positions",
+      "casy": "Ariana Grande",
+      "img": "assets/img/pos.jpeg",
+      "url": "assets/music/pos.mp3",
+      "title": "Bài hát Motive do ca sĩ Ariana Grande trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình yêu. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Ariana Grande đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực.",
+      "time": "4:03"
+    },
+
+    {
+      "id": 12,
+      "sort": "Global",
+      "name": "Until I Found You",
+      "casy": "Rosé",
+      "img": "assets/img/untilifoundyou.jpeg",
+      "url": "assets/music/untilifoundyou.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "3:23"
+    },
+
+    {
+      "id": 13,
+      "sort": "Global",
+      "name": "Needy",
+      "casy": "Ariana Grande",
+      "img": "assets/img/needy.jpeg",
+      "url": "assets/music/needy.mp3",
+      "title": "Bài hát Motive do ca sĩ Ariana Grande trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình yêu. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Ariana Grande đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực.",
+      "time": "4:01"
+    },
+
+    {
+      "id": 14,
+      "sort": "Global",
+      "name": "Only",
+      "casy": "Lee Hi",
+      "img": "assets/img/only.jpeg",
+      "url": "assets/music/only.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:05"
+    },
+
+    {
+      "id": 15,
+      "sort": "Global",
+      "name": "2002",
+      "casy": "Anne Marie",
+      "img": "assets/img/anne.jpeg",
+      "url": "assets/music/anne.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:13"
+    }
+  ],
+
+  "list3":
+  [
+    {
+        "id": 1,
+        "sort": "VN",
+        "name": "Tiny Love",
+        "casy": "Thịnh Suy",
+        "img": "assets/img/tinylove.jpeg",
+        "url": "assets/music/tinylove.mp3",
+        "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Thịnh Suy đã trở lại thị trường nhạc bằng một ca khúc mới.",
+        "time": "4:03"
+    },
+
+    {
+      "id": 2,
+      "sort": "VN",
+      "name": "Tình Yêu Xanh Lá",
+      "casy": "Thịnh Suy",
+      "img": "assets/img/tinhyeuxanhla.jpeg",
+      "url": "assets/music/tinhyeuxanhla.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Thịnh Suy đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:12"
+    },
+
+    {
+      "id": 3,
+      "sort": "VN",
+      "name": "Bài Này Không Để Đi Diễn",
+      "casy": "Anh Tú",
+      "img": "assets/img/anhtu.jpeg",
+      "url": "assets/music/anhtu.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:43"
+    },
+
+    {
+      "id": 4,
+      "sort": "VN",
+      "name": "Bật Tình Yêu Lên",
+      "casy": "Tăng Duy Tân ft. Hoà Minzy",
+      "img": "assets/img/battinhyeulen.jpeg",
+      "url": "assets/music/battinhyeulen.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:23"
+    },
+
+    {
+      "id": 5,
+      "sort": "VN",
+      "name": "Real Love",
+      "casy": "Mỹ Anh ft. Khắc Hưng",
+      "img": "assets/img/reallove.jpeg",
+      "url": "assets/music/reallove.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "3:53"
+    },
+
+    {
+      "id": 6,
+      "sort": "VN",
+      "name": "ngủ một mình",
+      "casy": "HieuThuHai",
+      "img": "assets/img/ngumotminh.jpeg",
+      "url": "assets/music/ngumotminh.mp3",
+      "title": "HIEUTHUHAI hoặc hieuthuhai,là một nam rapper, ca sĩ kiêm sáng tác nhạc và diễn viên người Việt Nam. Anh hiện đang là thành viên của nhóm nhạc GERDNANG.",
+      "time": "4:23"
+    },
+
+    {
+      "id": 7,
+      "sort": "VN",
+      "name": "Lời Đường Mật",
+      "casy": "Lyly ft. HieuThuHai",
+      "img": "assets/img/loiduongmat.jpeg",
+      "url": "assets/music/loiduongmat.mp3",
+      "title": "HIEUTHUHAI hoặc hieuthuhai,[a] là một nam rapper, ca sĩ kiêm sáng tác nhạc và diễn viên người Việt Nam. Anh hiện đang là thành viên của nhóm nhạc GERDNANG.",
+      "time": "3:43"
+    },
+
+    {
+      "id": 8,
+      "sort": "VN",
+      "name": "Nàng Thơ",
+      "casy": "Hoàng Dũng",
+      "img": "assets/img/nangtho.jpeg",
+      "url": "assets/music/nangtho.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Hoàng Dũng đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:01"
+    },
+
+    {
+      "id": 9,
+      "sort": "VN",
+      "name": "Making My Way",
+      "casy": "Sơn Tùng MTP",
+      "img": "assets/img/makingmyway.jpeg",
+      "url": "assets/music/makingmyway.mp3",
+      "title": "Bài hát Muộn Rồi Mà Sao Còn do ca sĩ Sơn Tùng M-TP trình bày là một tác phẩm âm nhạc nổi tiếng và đầy cảm xúc. Giai điệu sôi động và lời bài hát lôi cuốn đã tạo nên sự cuồn cuộn và nhiệt huyết cho ca khúc này. Muộn Rồi Mà Sao Còn nhanh chóng trở thành một trong những bản hit đình đám trong sự nghiệp của Sơn Tùng M-TP và đạt được vị trí cao trên các bảng xếp hạng âm nhạc. Ca khúc này thể hiện sự tình cảm và tiếc nuối của người trẻ với những lầm lỗi trong tình yêu và cuộc sống. Với giọng hát đặc trưng và khả năng biểu diễn tuyệt vời, Sơn Tùng M-TP đã mang đến cho người nghe một trải nghiệm âm nhạc sôi động và đáng nhớ.",
+      "time": "4:23"
+    },
+
+    {
+      "id": 10,
+      "sort": "VN",
+      "name": "Nghe Như Tình Yêu",
+      "casy": "HieuThuHai",
+      "img": "assets/img/nghenhutinhyeu.jpeg",
+      "url": "assets/music/nghenhutinhyeu.mp3",
+      "title": "HIEUTHUHAI hoặc hieuthuhai,là một nam rapper, ca sĩ kiêm sáng tác nhạc và diễn viên người Việt Nam. Anh hiện đang là thành viên của nhóm nhạc GERDNANG.",
+      "time": "4:14"
+    },
+
+    {
+      "id": 11,
+      "sort": "Global",
+      "name": "Lover",
+      "casy": "Taylor Swift",
+      "img": "assets/img/lover.jpeg",
+      "url": "assets/music/lover.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "3:43"
+    },
+
+    {
+      "id": 12,
+      "sort": "Global",
+      "name": "At My Worst",
+      "casy": "Pink Sweat",
+      "img": "assets/img/atmyworst.jpeg",
+      "url": "assets/music/atmyworst.mp3",
+      "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
+      "time": "4:15"
+    },
+
+    {
+      "id": 13,
+      "sort": "Global",
+      "name": "Leyla",
+      "casy": "Mesto",
+      "img": "assets/img/leyla.jpeg",
+      "url": "assets/music/leyla.mp3",
+      "title": "Bài hát Leyla do Mesto thể hiện kể về một mối tình bị ngăn cấm và cách chàng trai trong câu chuyện vượt qua mọi định kiến để theo đuổi người mình yêu.",
+      "time": "3:21"
+    },
+
+    {
+      "id": 14,
+      "sort": "Global",
+      "name": "You Got It",
+      "casy": "Vedo",
+      "img": "assets/img/yougotit.jpeg",
+      "url": "assets/music/yougotit.mp3",
+      "title": "Bài hát You Got It do Vedo thể hiện nhằm động viện và cổ vũ tinh thần những bạn gái vừa trải qua một mối tình không mấy suôn sẻ để luôn hướng tới những điều tốt đẹp hơn.",
+      "time": "4:03"
+    },
+
+    {
+      "id": 15,
+      "sort": "Global",
+      "name": "Stuck With You",
+      "casy": "Ariana Grande ft. Justin Bieber",
+      "img": "assets/img/stuckwithyou.jpeg",
+      "url": "assets/music/stuckwithyou.mp3",
+      "title": "Bài hát Motive do ca sĩ Ariana Grande trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình yêu. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Ariana Grande đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực.",
+      "time": "4:23"
+    }
   ]
+
 }
