@@ -261,14 +261,12 @@
     },
     {
       "id": 10,
-      "name": "Trách Duyên Trách Phận",
-      "url": "assets/music/bai9.mp3",
-      "img": "assets/img/bai9.jpg",
-      "vote": 20,
-      "color": "Red",
-      "casy": "Hồ Quang Hiếu",
-      "title": "Ca khúc Trách Duyên Trách Phận do ca sĩ Hồ Quang Hiếu trình bày là một tác phẩm âm nhạc đặc sắc và đầy cảm xúc. Với giai điệu trữ tình và lời bài hát sâu lắng, bài hát này đã nhanh chóng trở thành một trong những bản hit được yêu thích của Hồ Quang Hiếu. Trách Duyên Trách Phận mang đến câu chuyện về tình yêu đau khổ và những nỗi trăn trở về duyên phận trong cuộc sống. Sự diễn xuất tình cảm của Hồ Quang Hiếu cùng với cách thể hiện đầy chất giọng đã gợi lên những cung bậc cảm xúc sâu sắc cho người nghe. Ca khúc này đã ghi dấu ấn mạnh mẽ trong lòng khán giả và xếp hạng cao trên các bảng xếp hạng âm nhạc, chinh phục hàng triệu trái tim yêu nhạc trên khắp cả nước.",
-      "time": "5:13"
+      "name": "Muộn rồi mà sao còn",
+      "casy": "Sơn Tùng",
+      "img": "assets/img/vn6.jpg",
+      "url": "assets/music/vn6.mp3",
+      "title": "Bài hát Muộn Rồi Mà Sao Còn do ca sĩ Sơn Tùng M-TP trình bày là một tác phẩm âm nhạc nổi tiếng và đầy cảm xúc. Giai điệu sôi động và lời bài hát lôi cuốn đã tạo nên sự cuồn cuộn và nhiệt huyết cho ca khúc này. Muộn Rồi Mà Sao Còn nhanh chóng trở thành một trong những bản hit đình đám trong sự nghiệp của Sơn Tùng M-TP và đạt được vị trí cao trên các bảng xếp hạng âm nhạc. Ca khúc này thể hiện sự tình cảm và tiếc nuối của người trẻ với những lầm lỗi trong tình yêu và cuộc sống. Với giọng hát đặc trưng và khả năng biểu diễn tuyệt vời, Sơn Tùng M-TP đã mang đến cho người nghe một trải nghiệm âm nhạc sôi động và đáng nhớ.",
+      "time": "4:49"
     }
   ],
   "vietnam": [
