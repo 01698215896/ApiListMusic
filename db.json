@@ -159,7 +159,7 @@
       "insta": "sdf"
     }
   ],
- {
+ 
   "listMucsic": [
     {
       "id": 1,
@@ -939,9 +939,7 @@
         { "time": 245, "text": "Yêu đến vậy thôi phát điên rồi làm sao giờ", "highlighted": false }
       ]
     }
-  ]
-}
-,
+  ],
   "vietnam": [
     {
       "id": 1,
