@@ -159,6 +159,7 @@
       "insta": "sdf"
     }
   ],
+ {
   "listMucsic": [
     {
       "id": 1,
@@ -170,188 +171,188 @@
       "casy": "Nguyễn Thành An",
       "title": "Ca khúc Luỵ Tình được thể hiện bởi ca sĩ Hoàng Long, một trong những bài hát làm nên tên tuổi của chàng ca sĩ này trong lòng khán giả nghe nhạc, giai điệu và lời bài hát Luỵ Tình là của chính anh sáng tác. Bài hát Luỵ Tình hiện đang là ca khúc được rất nhiều bạn trẻ yêu thích và đang được xếp thứ hạng rất cao trên các bảng xếp hạng âm nhạc.",
       "time": "5:07",
-        "timeplay": [
-    {
-      "time": 0,
-      "text": "Chạnh lòng trong anh lại nhớ, một thời phải bơ vơ, Một chiều dài nên thơ",
-      "highlighted": false
-    },
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "Chạnh lòng trong anh lại nhớ, một thời phải bơ vơ, Một chiều dài nên thơ",
+          "highlighted": false
+        },
 
-    {
-      "time": 5,
-      "text": ", chắc giờ em có nhớ tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
-      "highlighted": false
-    },
-    {
-      "time": 10,
-      "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu từ giờ giờ em chẳng phải khóc,",
-      "highlighted": false
-    },
-    {
-      "time": 15,
-      "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
-      "highlighted": false
-    },
+        {
+          "time": 5,
+          "text": ", chắc giờ em có nhớ tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu từ giờ giờ em chẳng phải khóc,",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
+          "highlighted": false
+        },
 
-    {
-      "time": 20,
-      "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
+        {
+          "time": 20,
+          "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
 
-      "highlighted": false
-    },
-    {
-      "time": 25,
-      "text": "Chỉ mong em, vui bên tình duyên mới.",
-      "highlighted": false
-    },
-    {
-      "time": 45,
-      "text": "Quá vội vàng lời nói gấm nhung lụa, lỡ tin người em bước đi về nơi xa",
-      "highlighted": false
-    },
-    {
-      "time": 55,
-      "text": "Thế gian tình người phũ lắm em ơi",
-      "highlighted": false
-    },
-    {
-      "time": 60,
-      "text": "Nếu em buồn hãy nhớ anh chờ nơi đây,",
-      "highlighted": false
-    },
-    {
-      "time": 65,
-      "text": "Cơn gió chiều, thoáng đưa mùi hương ai, tan lát lòng khiến anh ngỡ lại",
-      "highlighted": false
-    },
-    {
-      "time": 70,
-      "text": "Tháng năm dài người đã sống bên ai, thôi chấp nhận em đúng anh là sai.",
-      "highlighted": false
-    },
-    {
-      "time": 75,
-      "text": "chạnh lòng trong anh lại nhớ, một thời phải bơ vơ",
-      "highlighted": false
-    },
-    {
-      "time": 80,
-      "text": "Một chiều dài nên thơ, chắc giờ em có nhớ",
-      "highlighted": false
-    },
-    {
-      "time": 85,
-      "text": "Tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
-      "highlighted": false
-    },
-    {
-      "time": 90,
-      "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu",
-      "highlighted": false
-    },
-    {
-      "time": 95,
-      "text": "Từ giờ giờ em chẳng phải khóc,",
-      "highlighted": false
-    },
-    {
-      "time": 100,
-      "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
-      "highlighted": false
-    },
-    {
-      "time": 105,
-      "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
-      "highlighted": false
-    },
-    {
-      "time": 110,
-      "text": "Chỉ mong em, vui bên tình duyên mới.",
-      "highlighted": false
-    },
-    {
-      "time": 155,
-      "text": "chạnh lòng trong anh lại nhớ, một thời phải bơ vơ",
-      "highlighted": false
-    },
-    {
-      "time": 160,
-      "text": "Một chiều dài nên thơ, chắc giờ em có nhớ",
-      "highlighted": false
-    },
-    {
-      "time": 165,
-      "text": "Tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
-      "highlighted": false
-    },
-    {
-      "time": 170,
-      "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu",
-      "highlighted": false
-    },
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "Chỉ mong em, vui bên tình duyên mới.",
+          "highlighted": false
+        },
+        {
+          "time": 45,
+          "text": "Quá vội vàng lời nói gấm nhung lụa, lỡ tin người em bước đi về nơi xa",
+          "highlighted": false
+        },
+        {
+          "time": 55,
+          "text": "Thế gian tình người phũ lắm em ơi",
+          "highlighted": false
+        },
+        {
+          "time": 60,
+          "text": "Nếu em buồn hãy nhớ anh chờ nơi đây,",
+          "highlighted": false
+        },
+        {
+          "time": 65,
+          "text": "Cơn gió chiều, thoáng đưa mùi hương ai, tan lát lòng khiến anh ngỡ lại",
+          "highlighted": false
+        },
+        {
+          "time": 70,
+          "text": "Tháng năm dài người đã sống bên ai, thôi chấp nhận em đúng anh là sai.",
+          "highlighted": false
+        },
+        {
+          "time": 75,
+          "text": "chạnh lòng trong anh lại nhớ, một thời phải bơ vơ",
+          "highlighted": false
+        },
+        {
+          "time": 80,
+          "text": "Một chiều dài nên thơ, chắc giờ em có nhớ",
+          "highlighted": false
+        },
+        {
+          "time": 85,
+          "text": "Tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
+          "highlighted": false
+        },
+        {
+          "time": 90,
+          "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu",
+          "highlighted": false
+        },
+        {
+          "time": 95,
+          "text": "Từ giờ giờ em chẳng phải khóc,",
+          "highlighted": false
+        },
+        {
+          "time": 100,
+          "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
+          "highlighted": false
+        },
+        {
+          "time": 105,
+          "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
+          "highlighted": false
+        },
+        {
+          "time": 110,
+          "text": "Chỉ mong em, vui bên tình duyên mới.",
+          "highlighted": false
+        },
+        {
+          "time": 155,
+          "text": "chạnh lòng trong anh lại nhớ, một thời phải bơ vơ",
+          "highlighted": false
+        },
+        {
+          "time": 160,
+          "text": "Một chiều dài nên thơ, chắc giờ em có nhớ",
+          "highlighted": false
+        },
+        {
+          "time": 165,
+          "text": "Tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
+          "highlighted": false
+        },
+        {
+          "time": 170,
+          "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu",
+          "highlighted": false
+        },
 
-    {
-      "time": 175,
-      "text": "LTừ giờ giờ em chẳng phải khóc,",
-      "highlighted": false
-    },
-    {
-      "time": 180,
-      "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
-      "highlighted": false
-    },
-    {
-      "time": 185,
-      "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
-      "highlighted": false
-    },
-    {
-      "time": 190,
-      "text": "Chỉ mong em, vui bên tình duyên mới.",
-      "highlighted": false
-    },
-    {
-      "time": 195,
-      "text": "chạnh lòng trong anh lại nhớ, một thời phải bơ vơ",
-      "highlighted": false
-    },
-    {
-      "time": 200,
-      "text": "Một chiều dài nên thơ, chắc giờ em có nhớ",
-      "highlighted": false
-    },
-    {
-      "time": 205,
-      "text": "Tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
-      "highlighted": false
-    },
-    {
-      "time": 210,
-      "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu",
-      "highlighted": false
-    },
+        {
+          "time": 175,
+          "text": "LTừ giờ giờ em chẳng phải khóc,",
+          "highlighted": false
+        },
+        {
+          "time": 180,
+          "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
+          "highlighted": false
+        },
+        {
+          "time": 185,
+          "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
+          "highlighted": false
+        },
+        {
+          "time": 190,
+          "text": "Chỉ mong em, vui bên tình duyên mới.",
+          "highlighted": false
+        },
+        {
+          "time": 195,
+          "text": "chạnh lòng trong anh lại nhớ, một thời phải bơ vơ",
+          "highlighted": false
+        },
+        {
+          "time": 200,
+          "text": "Một chiều dài nên thơ, chắc giờ em có nhớ",
+          "highlighted": false
+        },
+        {
+          "time": 205,
+          "text": "Tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
+          "highlighted": false
+        },
+        {
+          "time": 210,
+          "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu",
+          "highlighted": false
+        },
 
-    {
-      "time": 215,
-      "text": "LTừ giờ giờ em chẳng phải khóc,",
-      "highlighted": false
-    },
-    {
-      "time": 220,
-      "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
-      "highlighted": false
-    },
-    {
-      "time": 125,
-      "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
-      "highlighted": false
-    },
-    {
-      "time": 230,
-      "text": "Chỉ mong em, vui bên tình duyên mới.",
-      "highlighted": false
-    }
-  ]
+        {
+          "time": 215,
+          "text": "LTừ giờ giờ em chẳng phải khóc,",
+          "highlighted": false
+        },
+        {
+          "time": 220,
+          "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
+          "highlighted": false
+        },
+        {
+          "time": 125,
+          "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
+          "highlighted": false
+        },
+        {
+          "time": 230,
+          "text": "Chỉ mong em, vui bên tình duyên mới.",
+          "highlighted": false
+        }
+      ]
     },
     {
       "id": 2,
@@ -362,7 +363,64 @@
       "color": "red",
       "casy": "Tiến Hoàng",
       "title": "Bài hát Anh Mới Chính Là Người Em Yêu của ca sĩ Hoàng Tiến là một tác phẩm âm nhạc đầy cảm xúc và sâu lắng. Với giai điệu cuốn hút và lời bài hát tình yêu chân thành, nó đã nhanh chóng thu hút được sự yêu thích của nhiều người và xếp cao trên bảng xếp hạng âm nhạc.",
-      "time": "3:49"
+      "time": "3:49",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "Giờ người tìm kiếm những đắm đuối xa hoa với đời",
+          "highlighted": false
+        },
+
+        {
+          "time": 5,
+          "text": "Đời nhiều gian dối em biến em trở thành cuộc chơi Lao đao trong dòng nước cuốn",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "em ơi em còn ước muốn Trở về nơi ấy như xưa đôi ta cùng chung bước",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Tình là lầm lỗi nếu cố  chân trong lỗi lầm Dù gì đi nữa anh vẫn mong em về cùng anh",
+          "highlighted": false
+        },
+
+        {
+          "time": 20,
+          "text": "Cho em bao ngày luyến tiếc em xa anh rồi mới biếc",
+
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "Chẳng còn ai nữa em ơi chính anh là người em yêu",
+          "highlighted": false
+        },
+        
+        { "time": 60, "text": "Giờ níu kéo cũng thế không làm em quay trở lại Khi em chẳng còn như ngày xưa ấy", "highlighted": false },
+        { "time": 65, "text": "Thì anh mong em đi em sẽ được như khát vọng", "highlighted": false },
+        { "time": 70, "text": "Giống như em đã từng đêm ước mong Rồi cũng sẽ có lúc", "highlighted": false },
+        { "time": 75, "text": "em buồn em quay trở lại Khi em chẳng còn ai ngoài anh nữa", "highlighted": false },
+        { "time": 80, "text": " Vì anh tin không ai yêu em như là anh đã yêu Có nhớ những phút ta gần nhau", "highlighted": false },
+        { "time": 85, "text": "Giờ người tìm kiếm những đắm đuối xa hoa với đời", "highlighted": false },
+        { "time": 90, "text": "Đời nhiều gian dối em biến em trở thành cuộc chơi Lao đao trong dòng nước cuốn", "highlighted": false },
+        { "time": 95, "text": "em ơi em còn ước muốn Trở về nơi ấy như xưa đôi ta cùng chung bước", "highlighted": false },
+        { "time": 100, "text": "Tình là lầm lỗi nếu cố  chân trong lỗi lầm Dù gì đi nữa anh vẫn mong em về cùng anh", "highlighted": false },
+        { "time": 105, "text": "Cho em bao ngày luyến tiếc em xa anh rồi mới biếc", "highlighted": false },
+        
+        { "time": 140, "text": "Giờ níu kéo cũng thế không làm em quay trở lại Khi em chẳng còn như ngày xưa ấy", "highlighted": false },
+        { "time": 145, "text": "Thì anh mong em đi em sẽ được như khát vọng", "highlighted": false },
+        { "time": 150, "text": "Giống như em đã từng đêm ước mong Rồi cũng sẽ có lúc", "highlighted": false },
+        { "time": 155, "text": "em buồn em quay trở lại Khi em chẳng còn ai ngoài anh nữa", "highlighted": false },
+        { "time": 160, "text": "Vì anh tin không ai yêu em như là anh đã yêu Có nhớ những phút ta gần nhau", "highlighted": false },
+        { "time": 165, "text": "Giờ người tìm kiếm những đắm đuối xa hoa với đời", "highlighted": false },
+        { "time": 170, "text": "Đời nhiều gian dối em biến em trở thành cuộc chơi Lao đao trong dòng nước cuốn", "highlighted": false },
+        { "time": 175, "text": "em ơi em còn ước muốn Trở về nơi ấy như xưa đôi ta cùng chung bước", "highlighted": false },
+        { "time": 180, "text": "Tình là lầm lỗi nếu cố  chân trong lỗi lầm Dù gì đi nữa anh vẫn mong em về cùng anh", "highlighted": false },
+        { "time": 185, "text": "Cho em bao ngày luyến tiếc em xa anh rồi mới biếc", "highlighted": false }
+      ]
     },
     {
       "id": 3,
@@ -373,7 +431,68 @@
       "color": "Blue",
       "casy": "Minh Vương",
       "title": "Bài hát Em Là Nhất Miền Tây do ca sĩ Minh Vương trình bày là một tác phẩm âm nhạc độc đáo và gợi nhớ đến vùng miền Tây đất nước. Với giai điệu vui tươi và lời bài hát dí dỏm, ca khúc này đã nhanh chóng chiếm trọn cảm tình của đông đảo khán giả",
-      "time": "3:12"
+      "time": "3:12",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "Nét dịu dàng em là nhất miền tây",
+          "highlighted": false
+        },
+
+        {
+          "time": 5,
+          "text": "Mặc áo bà bà má hây hây ửng hồng Mà Tía em chửi hoài",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "sao mày vẫn còn đây Nhìn con nhà người ta thì tay bế bồng",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Xập xình xập xình nghiêng ghe, em đâu có khoe Nhánh lục bình",
+          "highlighted": false
+        },
+
+        {
+          "time": 20,
+          "text": "dễ vớt như là em luôn á Bờ lao xanh mà tình em",
+
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "cũng xanh Anh ơi có thích, thì hốt em zìa nhanh nhanh",
+          "highlighted": false
+        },
+        { "time": 30, "text": "Đừng tìm đâu xa em đây vẫn chưa có người yêu Vài chục năm nay chưa ai", "highlighted": false },
+        { "time": 35, "text": "hỏi thăm đôi lời Xóm trên làng bên còn ai đang độc thân", "highlighted": false },
+        { "time": 40, "text": "Mau ghé qua nhà em cho má ba em mừng", "highlighted": false },
+       
+        { "time": 70, "text": "Hỡi em má đỏ môi hồng Cho anh mượn đất anh trồng củ khoai Nón che tai bước ra đồng Mồ hôi còn ướt má hồng", "highlighted": false },
+        { "time": 75, "text": "chưa phai Bàn chân 5 ngón xinh ngoan Em đi trong nắng chang chang Anh trông", "highlighted": false },
+        { "time": 80, "text": "sao thấy hoang mang Vì thương em nhất trong đám trai làng Là anh là anh chứ không ai", "highlighted": false },
+        { "time": 85, "text": "chồng em chồng em trong tương lai Mù u có chín cho tới mấy mùa thì anh vẫn đi theo em hoài", "highlighted": false },
+        { "time": 90, "text": "Ơi em cô gái bông đào, em ưng anh kết rựu hồng pháo hoa Anh đi cùng mẹ cùng cha", "highlighted": false },
+        { "time": 95, "text": "đưa em đi khắp miền tây quê mình Xập xình xập xình nghiêng ghe, em đâu", "highlighted": false },
+        { "time": 100, "text": "có khoe Nhánh lục bình, dễ vớt như là em luôn á", "highlighted": false },
+        { "time": 105, "text": "Bờ lao xanh mà tình em cũng xanh Anh ơi có thích, thì hốt em zìa nhanh nhanh", "highlighted": false },
+        { "time": 110, "text": "Đừng tìm đâu xa em đây vẫn chưa có người yêu Vài chục năm nay chưa ai", "highlighted": false },
+        { "time": 115, "text": "hỏi thăm đôi lời Xóm trên làng bên còn ai đang độc thân", "highlighted": false },
+        { "time": 120, "text": "Mau ghé qua nhà em cho má ba em mừng", "highlighted": false },
+        { "time": 125, "text": "Đừng tìm đâu xa em đây vẫn chưa có người yêu Vài chục năm nay chưa ai", "highlighted": false },
+        { "time": 130, "text": "hỏi thăm đôi lời Xóm trên làng bên còn ai đang độc thân", "highlighted": false },
+        { "time": 135, "text": "Mau ghé qua nhà em cho má ba em mừng", "highlighted": false },
+        { "time": 140, "text": "Mau ghé qua nhà em cho má ba em mừng", "highlighted": false },
+        { "time": 145, "text": "Bông điên điển nở vàng (nếu anh thương em)", "highlighted": false },
+        { "time": 150, "text": "Anh coi mà chèo ghe sang thăm Không thôi em ế thêm 1 năm", "highlighted": false },
+        { "time": 155, "text": "Chẳng tìm đâu xa anh ơi, em muốn người yêu", "highlighted": false },
+        { "time": 160, "text": "Vài chục năm nay chưa ai hỏi thăm đôi lời", "highlighted": false },
+        { "time": 165, "text": "Xóm trên làng bên còn ai đang độc thân", "highlighted": false },
+        { "time": 170, "text": "Mau ghé qua nhà em cho má ba em mừng", "highlighted": false }
+      
+      ]
     },
     {
       "id": 4,
@@ -384,7 +503,67 @@
       "color": "Yellow",
       "casy": "Trịnh Đình Quang",
       "title": "Bài hát Đừng Lo Anh Nhé Có Anh Đây do ca sĩ Trịnh Đình Quang trình bày đã trở thành một hiện tượng âm nhạc với sự thành công vượt trội. Giai điệu catchy và lời bài hát sâu lắng đã chinh phục hàng triệu trái tim yêu nhạc. Ca khúc này đã nhanh chóng leo lên vị trí cao trên các bảng xếp hạng âm nhạc và trở thành một trong những bản hit được yêu thích của ca sĩ Trịnh Đình Quang",
-      "time": "4:55"
+      "time": "4:55",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "Trái tim anh đây chỉ có chân tình",
+          "highlighted": false
+        },
+
+        {
+          "time": 5,
+          "text": "Vì ở em anh đâu cần toan tính",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "Tuy giờ đây anh còn đang trắng tay Nhưng vì em sẽ có ngày đổi thay",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Mất.trăm năm đôi mình mới chung thuyền Một ngàn năm ta mới về chung lối",
+          "highlighted": false
+        },
+
+        {
+          "time": 20,
+          "text": "Nên người ơi em cần chi lắng lo",
+
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "Bên cạnh anh em sẽ vẹn duyên nồng",
+          "highlighted": false
+        },
+        
+        { "time": 55, "text": "Nếu mai sau anh và em có già", "highlighted": false },
+        { "time": 60, "text": "Đừng lo nhé có anh đây mà Nếu em thấy những khoảng trống trong lòng", "highlighted": false },
+        { "time": 65, "text": "Thì đừng lo có anh luôn đợi mong", "highlighted": false },
+        { "time": 70, "text": "Nếu mai sau duyên chẳng như ý nguyện Những tổn thương để mình anh", "highlighted": false },
+        { "time": 75, "text": "nhận hết Bởi vì anh chỉ muốn thấy em cười", "highlighted": false },
+        { "time": 80, "text": "Dù có ra sao cũng thấy vui lòng Trái tim anh đây chỉ có", "highlighted": false },
+        { "time": 85, "text": "chân tình Vì ở em anh đâu cần toan tính", "highlighted": false },
+        { "time": 90, "text": "Tuy giờ đây anh còn đang trắng tay Nhưng vì em sẽ có", "highlighted": false },
+        { "time": 95, "text": "ngày đổi thay Mất trăm năm đôi mình mới chung thuyền", "highlighted": false },
+        { "time": 100, "text": "Một ngàn năm ta mới về chung lối Nên người ơi", "highlighted": false },
+        { "time": 105, "text": " em cần chi lắng lo Bên cạnh anh em sẽ vẹn duyên nồng", "highlighted": false },
+        
+        { "time": 140, "text": "Nếu mai sau anh và em có già Đừng lo nhé có anh đây mà", "highlighted": false },
+        { "time": 145, "text": "Nếu em thấy những khoảng trống trong lòng Thì đừng lo có anh luôn đợi mong", "highlighted": false },
+        { "time": 150, "text": "Nếu mai sau duyên chẳng như ý nguyện", "highlighted": false },
+        { "time": 155, "text": "Những tổn thương để mình anh nhận hết", "highlighted": false },
+        { "time": 160, "text": "Bởi vì anh chỉ muốn thấy em cười Dù có ra sao cũng thấy vui lòng", "highlighted": false },
+        { "time": 165, "text": "Trái tim anh đây chỉ có chân tình", "highlighted": false },
+        { "time": 170, "text": " Vì ở em anh đâu cần toan tính Tuy giờ đây anh còn đang trắng tay ", "highlighted": false },
+        { "time": 175, "text": "Nhưng vì em sẽ có ngày đổi thay", "highlighted": false },
+        { "time": 180, "text": "Mất trăm năm đôi mình mới chung thuyền", "highlighted": false },
+        { "time": 185, "text": "Một ngàn năm ta mới về chung lối Nên người ơi", "highlighted": false },
+        { "time": 190, "text": "em cần chi lắng lo Bên cạnh anh em sẽ vẹn duyên nồng", "highlighted": false }
+
+      ]
     },
     {
       "id": 5,
@@ -395,7 +574,65 @@
       "color": "Green",
       "casy": "Thái Sơn",
       "title": "Bài hát Khuất Lối do ca sĩ Thái Sơn trình bày là một tác phẩm âm nhạc đầy cảm xúc và sâu lắng. Giai điệu tinh tế và lời bài hát tâm đắc đã chinh phục được lòng của nhiều người nghe. Khuất Lối nhanh chóng trở thành một trong những ca khúc được yêu thích và đạt vị trí cao trên các bảng xếp hạng âm nhạc, làm nên tên tuổi của ca sĩ Thái Sơn",
-      "time": "4:28"
+      "time": "4:28",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "Anh đi về bóng tối khuất lối chìm dần trong bao đêm trôi",
+          "highlighted": false
+        },
+
+        {
+          "time": 5,
+          "text": "Thương thì thương vậy thôi sao giờ con tim vỡ đôi Em ơi anh buồn anh nhớ ánh mắt",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "nụ cười em đang nơi đâu Sầu đôi bờ mi anh buồn trong cô liêu",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Tiếc thương hoài những phút dắm đuối Ân cần ta tay trong tay",
+          "highlighted": false
+        },
+
+        {
+          "time": 20,
+          "text": "Sao giờ đây lẻ loi chỉ mình anh trong men say Thôi cứ dặn lòng ta quên đi em",
+
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "Hết đêm này ta quên đi em Ngày mai bình yên sẽ về quên đi em",
+          "highlighted": false
+        },
+        { "time": 55, "text": "Hôm nay mưa phủ bay lay nhẹ hương thơm đôi tóc mây nhớ thương nàng anh lang thang trong đêm mà đâu có hay", "highlighted": false },
+        { "time": 60, "text": "Đôi câu yêu ngày nao vẫn còn in trong tâm trí anh lối xưa về h đây vắng tanh lạnh lùng nhớ ai", "highlighted": false },
+        { "time": 65, "text": "Thương thân ai thủy chung đêm về nặng lòng mình nhớ thương", "highlighted": false },
+        { "time": 70, "text": "khói sương mờ bên hiên hòa chung đèn khuya hắt hiu Ai yêu ai để cho bây giờ ", "highlighted": false },
+        { "time": 75, "text": " đôi câu thơ dở dang Hòa ra ngàn câu thương đên vậy cũng đành vỡ tan", "highlighted": false },
+        { "time": 80, "text": "Anh đi về bóng tối khuất lối chìm dần trong bao đêm trôi", "highlighted": false },
+        { "time": 85, "text": "hương thì thương vậy thôi sao giờ con tim vỡ đôi Em ơi anh buồn anh nhớ ánh mắt", "highlighted": false },
+        { "time": 90, "text": "nụ cười em đang nơi đâu Sầu đôi bờ mi anh buồn trong cô liêu", "highlighted": false },
+        { "time": 95, "text": "Tiếc thương hoài những phút dắm đuối Ân cần ta tay trong tay", "highlighted": false },
+        { "time": 100, "text": "Sao giờ đây lẻ loi chỉ mình anh trong men say Thôi cứ dặn lòng ta quên đi em", "highlighted": false },
+        { "time": 105, "text": "Hết đêm này ta quên đi em Ngày mai bình yên sẽ về quên đi em", "highlighted": false },
+        { "time": 135, "text": "Anh đi về bóng tối khuất lối chìm dần trong bao đêm trôi", "highlighted": false },
+        { "time": 140, "text": "Thương thì thương vậy thôi sao giờ con tim vỡ đôi Em ơi anh buồn anh nhớ ánh mắt", "highlighted": false },
+        { "time": 145, "text": "nụ cười em đang nơi đâu Sầu đôi bờ mi anh buồn trong cô liêu", "highlighted": false },
+        { "time": 150, "text": "Tiếc thương hoài những phút dắm đuối Ân cần ta tay trong tay", "highlighted": false },
+        { "time": 155, "text": "Sao giờ đây lẻ loi chỉ mình anh trong men say Thôi cứ dặn lòng ta quên đi em", "highlighted": false },
+        { "time": 160, "text": "Hết đêm này ta quên đi em Ngày mai bình yên sẽ về quên đi em", "highlighted": false },
+        { "time": 175, "text": "Anh đi về bóng tối khuất lối chìm dần trong bao đêm trôi", "highlighted": false },
+        { "time": 180, "text": "Thương thì thương vậy thôi sao giờ con tim vỡ đôi Em ơi anh buồn anh nhớ ánh mắt", "highlighted": false },
+        { "time": 185, "text": "nụ cười em đang nơi đâu Sầu đôi bờ mi anh buồn trong cô liêu", "highlighted": false },
+        { "time": 190, "text": "Tiếc thương hoài những phút dắm đuối Ân cần ta tay trong tay", "highlighted": false },
+        { "time": 195, "text": "Sao giờ đây lẻ loi chỉ mình anh trong men say Thôi cứ dặn lòng ta quên đi em", "highlighted": false },
+        { "time": 200, "text": "Hết đêm này ta quên đi em Ngày mai bình yên sẽ về quên đi em", "highlighted": false }
+      ]
     },
     {
       "id": 6,
@@ -405,8 +642,31 @@
       "vote": 20,
       "color": "Orange",
       "casy": "Hồ ngọc Hà",
-      "title":"Bài hát Người Đáng Thương Là Anh do ca sĩ Hồ Ngọc Hà trình bày là một tác phẩm âm nhạc cảm động và sâu lắng. Giai điệu nhẹ nhàng và phần nhạc tinh tế tạo nên một không gian âm nhạc đầy tình cảm. Lời bài hát mô tả về một tình yêu đau khổ và đồng thời thể hiện sự đồng cảm và tình nguyện hy sinh vì người mình yêu. Giọng hát tình cảm và phong cách biểu diễn độc đáo của Hồ Ngọc Hà mang đến một trải nghiệm âm nhạc chân thành và xúc động. Người Đáng Thương Là Anh là một bài hát lý tưởng để thấm nhuần và cảm nhận về những khía cạnh đáng thương và đáng quý trong một mối quan hệ tình yêu.",
-      "time": "5:13"
+      "title": "Bài hát Người Đáng Thương Là Anh do ca sĩ Hồ Ngọc Hà trình bày là một tác phẩm âm nhạc cảm động và sâu lắng. Giai điệu nhẹ nhàng và phần nhạc tinh tế tạo nên một không gian âm nhạc đầy tình cảm. Lời bài hát mô tả về một tình yêu đau khổ và đồng thời thể hiện sự đồng cảm và tình nguyện hy sinh vì người mình yêu. Giọng hát tình cảm và phong cách biểu diễn độc đáo của Hồ Ngọc Hà mang đến một trải nghiệm âm nhạc chân thành và xúc động. Người Đáng Thương Là Anh là một bài hát lý tưởng để thấm nhuần và cảm nhận về những khía cạnh đáng thương và đáng quý trong một mối quan hệ tình yêu.",
+      "time": "5:13",
+      "timeplay": [
+       
+        { "time": 30, "text": "Mỗi khi em buồn, hãy cứ khóc, anh nghe mà Người anh yêu từng chẳng yếu đuối thế này đâu", "highlighted": false },
+        { "time": 35, "text": "Có người từng nói, Càng yêu lâu lại càng đau", "highlighted": false },
+        { "time": 40, "text": "Ừ thì đúng hết, chỉ khác một điều Chúng ta chỉ vốn dĩ là bạn thôi", "highlighted": false },
+        { "time": 45, "text": "Từ đầu vốn không của nhau, người đến trước bước về sau Dù cho anh đây đủ tốt vẫn biết", "highlighted": false },
+        { "time": 55, "text": "em không chọn anh đâu Anh nghĩ em phải mỉm cười, nhưng sao nay nước mắt em lại rơi?", "highlighted": false },
+        { "time": 55, "text": "Người kia không tốt, không hiểu cảm xúc em sao? Vậy người đáng thương là anh", "highlighted": false },
+        { "time": 60, "text": "Giọt nước mắt để dỗ dành Là điều duy nhất mà anh sẽ có quyền làm, đúng không?", "highlighted": false },
+        { "time": 65, "text": "Giấu kín tâm tư trong lòng Anh không yêu ai khác hơn ngoài em", "highlighted": false },
+        { "time": 70, "text": "Dù cho quá khứ hay hiện tại vẫn như vậy", "highlighted": false },
+       
+        { "time": 105, "text": "Đã luôn hi vọng Người em yêu có tên mình Thật không may Vì người ấy không phải là anh", "highlighted": false },
+        { "time": 110, "text": "Anh còn từng nghĩ Người em yêu làm em vui Vậy mà kết thúc bao nhiêu ngày", "highlighted": false },
+        { "time": 115, "text": "Người ấy đã làm em ra nông nỗi này", "highlighted": false },
+        { "time": 120, "text": "Từ đầu vốn không của nhau, người đến trước bước về sau Dù cho anh đây đủ tốt", "highlighted": false },
+        { "time": 125, "text": "vẫn biết em không chọn anh đâu Anh nghĩ em phải mỉm cười, nhưng sao nay nước mắt em lại rơi?", "highlighted": false },
+        { "time": 130, "text": "Người kia không tốt, không hiểu cảm xúc em sao?", "highlighted": false },
+        { "time": 135, "text": "Vậy người đáng thương là anh Dùng nước mắt để dỗ dành Là điều duy nhất mà anh", "highlighted": false },
+        { "time": 140, "text": "sẽ có quyền làm đúng không Giấu kín tâm tư trong lòng Anh không yêu ai khác hơn ngoài em", "highlighted": false },
+        { "time": 145, "text": "Dù là quá khứ hay hiện tại vẫn như vậy", "highlighted": false }
+        
+      ]
     },
     {
       "id": 7,
@@ -417,7 +677,70 @@
       "color": "Blue",
       "casy": "Rickky",
       "title": "Bài hát Nhập Ngũ Mất Em do ca sĩ Rickky trình bày là một tác phẩm âm nhạc đầy cảm xúc và chất phác. Giai điệu sôi động và lời bài hát lắng đọng đã thu hút sự chú ý của đông đảo người nghe. Nhập Ngũ Mất Em nhanh chóng leo lên vị trí hàng đầu trên các bảng xếp hạng âm nhạc, góp phần tạo nên thành công và tên tuổi của ca sĩ Rickky. Ca khúc này truyền tải thông điệp về tình yêu và sự hy sinh trong cuộc sống quân đội, và đã trở thành một trong những bài hát được yêu thích không chỉ trong cộng đồng quân nhân mà còn trong cả cộng đồng người nghe âm nhạc",
-      "time": "5:22"
+      "time": "5:22",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "Hai năm anh nhập ngũ Ɛm có chờ anh không",
+          "highlighted": false
+        },
+
+        {
+          "time": 5,
+          "text": "Hai năm anh phải sống Trong nỗi nhớ thương em từng đêm Ϲhỉ mong em bình уên",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "Ѕống vui bên cuộc đời Đợi chờ anh sẽ trở về sớm thôi",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Thời gian trôi dần trôi Thế nhưng em đi rồi Ɓên ai em hạnh phúc",
+          "highlighted": false
+        },
+
+        {
+          "time": 20,
+          "text": "Ấm êm cuộc tình mới Ϲhẳng còn thương nhớ Ɲgười lính уêu Ɛm",
+
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "Ɲgười mà em hứa Ѕẽ chẳng rời xa",
+          "highlighted": false
+        },
+       
+        { "time": 45, "text": "Xe vội vàng lăn bánh Giọt nước mắt đã rơi rơi thật nhiều", "highlighted": false },
+        { "time": 55, "text": "Ɓao уêu thương ngàу ấу Anh nguуện chôn giấu", "highlighted": false },
+        { "time": 55, "text": "Khắc sâu trái tim nàу Hai năm sẽ qua nhanh lắm thôi", "highlighted": false },
+        { "time": 60, "text": "Hai năm rồi anh sẽ trở về", "highlighted": false },
+        { "time": 65, "text": "Quê hương gọi anh nơi chiến trường Vội bước chân đi", "highlighted": false },
+        { "time": 70, "text": "Mang trên vai màu áo lính Hai năm anh nhập ngũ Ɛm có chờ anh không", "highlighted": false },
+        { "time": 75, "text": "Hai năm anh phải sống Trong nỗi nhớ thương em từng đêm Ϲhỉ mong em bình уên", "highlighted": false },
+        { "time": 80, "text": "Ѕống vui bên cuộc đời Đợi chờ anh sẽ trở về sớm thôi", "highlighted": false },
+        { "time": 85, "text": "Thời gian trôi dần trôi thế nhưng em đi rồi Ɓên ai em hạnh phúc", "highlighted": false },
+        { "time": 90, "text": "Ấm êm cuộc tình mới Ϲhẳng còn thương nhớ Ɲgười lính уêu Ɛm", "highlighted": false },
+        { "time": 95, "text": "Ɲgười mà em hứa Ѕẽ chẳng rời xa", "highlighted": false },
+        { "time": 100, "text": "Hai năm sẽ qua nhanh lắm thôi", "highlighted": false },
+        { "time": 105, "text": "Hai năm rồi anh sẽ trở về", "highlighted": false },
+        { "time": 110, "text": "Quê hương gọi anh nơi chiến trường Anh bước chân đi Mang trên vai màu áo lính", "highlighted": false },
+        { "time": 115, "text": "Hai năm anh nhập ngũ Ɛm có chờ anh không", "highlighted": false },
+        { "time": 120, "text": "Hai năm anh phải sống Trong nỗi nhớ thương em từng đêm Ϲhỉ mong em bình уên Ѕống vui bên cuộc đời", "highlighted": false },
+        { "time": 125, "text": "Đợi chờ anh sẽ trở về sớm thôi", "highlighted": false },
+        { "time": 130, "text": "Thời gian trôi dần trôi Thế nhưng em đi rồi Ɓên ai em hạnh phúc Ấm êm cuộc tình mới", "highlighted": false },
+        { "time": 135, "text": "Ϲhẳng còn thương nhớ Ɲgười lính уêu Ɛm", "highlighted": false },
+        { "time": 140, "text": "Ɲgười mà em hứa Ѕẽ chẳng rời xa", "highlighted": false },
+        { "time": 145, "text": "Hai năm anh nhập ngũ Ɛm có chờ anh không", "highlighted": false },
+        { "time": 150, "text": "Hai năm anh phải sống Trong nỗi nhớ thương em từng đêm Ϲhỉ mong em bình уên Ѕống vui bên cuộc đời", "highlighted": false },
+        { "time": 155, "text": "Đợi chờ anh sẽ trở về sớm thôi", "highlighted": false },
+        { "time": 160, "text": "Thời gian trôi dần trôi Thế nhưng em đi rồi Ɓên ai em hạnh phúc Ấm êm cuộc tình mới", "highlighted": false },
+        { "time": 165, "text": "Ϲhẳng còn thương nhớ Ɲgười lính уêu Ɛm", "highlighted": false },
+        { "time": 170, "text": "Ɲgười mà em hứa Ѕẽ chẳng rời xa", "highlighted": false }
+        
+      ]
     },
     {
       "id": 8,
@@ -428,7 +751,69 @@
       "color": "Green",
       "casy": "Hoàng Tiến",
       "title": "Bài hát Rước Nàng do ca sĩ Hoàng Tiến trình bày là một tác phẩm âm nhạc đầy lãng mạn và tình cảm. Giai điệu nhẹ nhàng và lời bài hát đầy ý nghĩa đã tạo nên sự cuốn hút cho ca khúc này. Rước Nàng nhanh chóng trở thành một trong những bài hát được yêu thích và được nghe nhiều trên các bảng xếp hạng âm nhạc. Ca khúc này mang đến thông điệp về tình yêu và sự tận hưởng cuộc sống, thể hiện sự tài năng và sự độc đáo của ca sĩ Hoàng Tiến.",
-      "time": "3:00"
+      "time": "3:00",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "Giờ lành đã đến em ơi Đan tay cạn rượu giao bôi Quà mừng sính lễ trao tay",
+          "highlighted": false
+        },
+
+        {
+          "time": 5,
+          "text": "Nên duyên ngày ta có đôi Bà con đông đúc chung vui Anh mang kiệu hoa rước dâu",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "Bồi hồi nhẫn cưới trao tay Hạnh phúc răng long bạc đầu",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "còn gì mà tính em ơi thôi lên kiệu hoa với anh đời này được có bao lâu anh yêu mình em mãi thôi",
+          "highlighted": false
+        },
+
+        {
+          "time": 20,
+          "text": "họ hàng mình kết thông gia ông bà ta sẽ vui thiệp hồng này cưới",
+
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "trao ta ta sẽ cưới nhau người ơi",
+          "highlighted": false
+        },
+       
+        { "time": 55, "text": "Anh mặc vest Em thì váy cô dâu", "highlighted": false },
+        { "time": 60, "text": "Đưa em lên thuyền hoa Ta bước chung nhịp cầu Cơn mưa hạnh phúc Đã đưa mình đến bên nhau", "highlighted": false },
+        { "time": 65, "text": "Cho hai chúng ta Có một tình yêu nhiệm màu Em đừng có xỉn", "highlighted": false },
+        { "time": 70, "text": "Tiền mừng cưới chưa khui Đêm nay ta sẽ Động phòng hoa chúc bao vui", "highlighted": false },
+        { "time": 75, "text": "Tranh thủ ra năm làm thêm cái đám thôi nôi", "highlighted": false },
+        { "time": 80, "text": "Xuất sắc em ơi Hai ta là nhất trần đời Giờ lành đã đến em ơi Đan tay cạn rượu giao bôi", "highlighted": false },
+        { "time": 85, "text": "Quà mừng sính lễ trao tay Nên duyên ngày ta có đôi Bà con đông đúc chung vui", "highlighted": false },
+        { "time": 90, "text": "Anh mang kiệu hoa rước dâu Bồi hồi nhẫn cưới trao tay Hạnh phúc răng long bạc đầu", "highlighted": false },
+        { "time": 95, "text": "còn gì mà tính em ơi thôi lên kiệu hoa với anh", "highlighted": false },
+        { "time": 100, "text": "đời này được có bao lâu anh yêu mình em mãi thôi họ hàng mình kết thông gia", "highlighted": false },
+        { "time": 105, "text": "ông bà ta sẽ vui thiệp hồng này cưới trao ta ta sẽ cưới nhau người ơi", "highlighted": false },
+
+        { "time": 140, "text": "Giờ lành đã đến em ơi Đan tay cạn rượu giao bôi Quà mừng sính lễ trao tay Nên duyên ngày ta có đôi Bà con đông đúc chung vui", "highlighted": false },
+        { "time": 145, "text": "Anh mang kiệu hoa rước dâu Bồi hồi nhẫn cưới trao tay Hạnh phúc răng long bạc đầu", "highlighted": false },
+        { "time": 150, "text": "Ông Tơ Bà Nguyệt Hôm nay cũng ghé sang thăm", "highlighted": false },
+        { "time": 155, "text": "Pháo hoa rộn vang Ly cụng ly mà rần rần Dàn nhạc xập xình", "highlighted": false },
+        { "time": 160, "text": "Vui cả xóm em ơi Biết bao nhiêu người mong Được hạnh phúc như mình", "highlighted": false },
+        { "time": 165, "text": "Em đừng có xỉn Tiền mừng cưới chưa khui Đêm nay ta sẽ", "highlighted": false },
+        { "time": 170, "text": "Động phòng hoa chúc bao vui Tranh thủ ra năm Làm thêm cái đám thôi nôi", "highlighted": false },
+        { "time": 175, "text": "Xuất sắc em ơi  Hai ta là nhất trần đời Giờ lành đã đến em ơi", "highlighted": false },
+        { "time": 180, "text": "Đan tay cạn rượu giao bôi Quà mừng sính lễ trao tay Nên duyên ngày ta có đôi", "highlighted": false },
+        { "time": 185, "text": "Bà con đông đúc chung vui Anh mang kiệu hoa rước dâu Bồi hồi nhẫn cưới trao tay", "highlighted": false },
+        { "time": 190, "text": "Hạnh phúc răng long bạc đầu còn gì mà tính em ơi thôi lên kiệu hoa với anh", "highlighted": false },
+        { "time": 195, "text": "đời này được có bao lâu anh yêu mình em mãi thôi họ hàng mình kết thông gia", "highlighted": false },
+        { "time": 200, "text": "ông bà ta sẽ vui thiệp hồng này cưới trao ta ta sẽ cưới nhau người ơi", "highlighted": false }
+       
+      ]
     },
     {
       "id": 9,
@@ -439,7 +824,64 @@
       "color": "Red",
       "casy": "Hồ Quang Hiếu",
       "title": "Bài hát Trách Duyên Trách Phận do ca sĩ Hồ Quang Hiếu trình bày là một tác phẩm âm nhạc đậm chất trữ tình và lời bài hát sâu lắng. Giai điệu tình tứ và cảm xúc đã khiến ca khúc này nhanh chóng trở thành một trong những bản hit được yêu thích của ca sĩ Hồ Quang Hiếu. Trách Duyên Trách Phận mang đến câu chuyện về tình yêu đau khổ và những suy nghĩ về duyên phận trong cuộc sống. Ca khúc này đã chinh phục trái tim của nhiều người nghe và đạt được vị trí cao trên các bảng xếp hạng âm nhạc.",
-      "time": "6:13"
+      "time": "6:13",
+      "timeplay": [
+        
+
+        {
+          "time": 20,
+          "text": "Áo trung tình chưa mặc đã vội thay Khoác lên nhung lụa xa hoa đành thôi vậy",
+
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "Bên nhân tình yên vui em nào hay Có 1 người yêu em đến đắng cay",
+          "highlighted": false
+        },
+        { "time": 30, "text": "Điệu lý câu hò tình tan em bước sang quên tình", "highlighted": false },
+        { "time": 35, "text": "Nhớ câu ca à ơi thiết tha", "highlighted": false },
+        { "time": 40, "text": "Bên sông buồn vì đâu", "highlighted": false },
+        { "time": 45, "text": "ai nỡ chia đôi dòng Tình vội trao nên vương lòng đợi mong", "highlighted": false },
+        { "time": 55, "text": "Anh trách tơ duyên bẽ bàng phận tình sao quá trái ngang", "highlighted": false },
+        { "time": 55, "text": "Trách do ông trời cao lại nên duyên hai ta gặp nhau", "highlighted": false },
+        { "time": 60, "text": "Để hôm nay lỡ làng một mình anh ôm niềm đau", "highlighted": false },
+        { "time": 65, "text": "Tương lai em bên người anh bên nỗi buồn về sau", "highlighted": false },
+        { "time": 70, "text": "Anh trách duyên trách phận vì sao mang em đến bên", "highlighted": false },
+        { "time": 75, "text": "Lại mang xa hoa xứ người và thuyền hoa đang cập bến", "highlighted": false },
+        { "time": 80, "text": "Thương cho mối duyên mình và thương em phận hồng nhan", "highlighted": false },
+        { "time": 85, "text": "Hay yên vui bên người duyên đã cạn tình đã tan", "highlighted": false },
+        
+        { "time": 110, "text": "Hoa tím lục bình vừa cập bến thì sóng vội xô", "highlighted": false },
+        { "time": 115, "text": "Như đoạn tơ tình vừa kết thì duyên số vội song Có ai chờ chẳng ai đợi dù người bến sông đang cố", "highlighted": false },
+        { "time": 120, "text": "Cũng chẳng thể bằng cao sang người bên cô đang sống Viết đoạn tình trăm lời gửi gắm người cho nơi trốn phương xa Mặc cho nơi này đôi dòng giọt lệ dần thấm pha sương", "highlighted": false },
+        { "time": 125, "text": "Vẫn mong cầu cho người yên ấm quên đi lời hứa ta thành đôi Chắc do duyên mình chưa phải kiếp ai nợ tình ai nên thôi đành", "highlighted": false },
+        { "time": 130, "text": "Điệu lý câu hò tình tan em bước sang quên tình", "highlighted": false },
+        { "time": 135, "text": "Nhớ câu ca à ơi thiết tha", "highlighted": false },
+        { "time": 140, "text": "Bên sông buồn vì đâu ai nỡ chia đôi dòng", "highlighted": false },
+        { "time": 145, "text": "Tình vội trao nên vương lòng đợi mong", "highlighted": false },
+        { "time": 150, "text": "Anh trách tơ duyên bẽ bàng phận tình sao quá trái ngang", "highlighted": false },
+        { "time": 155, "text": "Trách do ông trời cao lại nên duyên hai ta gặp nhau", "highlighted": false },
+        { "time": 160, "text": "Để hôm nay lỡ làng một mình anh ôm niềm đau", "highlighted": false },
+        { "time": 165, "text": "Tương lai em bên người anh bên nỗi buồn về sau", "highlighted": false },
+        { "time": 170, "text": "Anh trách duyên trách phận vì sao mang em đến bên", "highlighted": false },
+        { "time": 175, "text": "Lại mang xa hoa xứ người và thuyền hoa đang cập bến", "highlighted": false },
+        { "time": 180, "text": "Thương cho mối duyên mình và thương em phận hồng nhan", "highlighted": false },
+        { "time": 185, "text": "Hay yên vui bên người duyên đã cạn tình đã tan", "highlighted": false },
+        { "time": 190, "text": "Em đi ngày hoa thắm xuân thì", "highlighted": false },
+        { "time": 195, "text": "Nhành hoa sắc thắm hương quê", "highlighted": false },
+        { "time": 200, "text": "Hoa rơi nghiêng cánh hoa tàn", "highlighted": false },
+        { "time": 205, "text": "Mong người thương ai ngày hoa tàn úa", "highlighted": false },
+        { "time": 210, "text": "Anh trách tơ duyên bẽ bàng phận tình sao quá trái ngang", "highlighted": false },
+        { "time": 215, "text": "Trách do ông trời cao lại nên duyên hai ta gặp nhau", "highlighted": false },
+        { "time": 220, "text": "Để hôm nay lỡ làng một mình anh ôm niềm đau", "highlighted": false },
+        { "time": 225, "text": "Tương lai em bên người anh bên nỗi buồn về sau", "highlighted": false },
+        { "time": 230, "text": "Anh trách duyên trách phận vì sao mang em đến bên", "highlighted": false },
+        { "time": 235, "text": "Lại mang xa hoa xứ người và thuyền hoa đang cập bến", "highlighted": false },
+        { "time": 240, "text": "Thương cho mối duyên mình và thương em phận hồng nhan", "highlighted": false },
+        { "time": 245, "text": "Hay yên vui bên người duyên đã cạn tình đã tan", "highlighted": false }
+       
+      ]
     },
     {
       "id": 10,
@@ -448,9 +890,58 @@
       "img": "assets/img/vn6.jpg",
       "url": "assets/music/vn6.mp3",
       "title": "Bài hát Muộn Rồi Mà Sao Còn do ca sĩ Sơn Tùng M-TP trình bày là một tác phẩm âm nhạc nổi tiếng và đầy cảm xúc. Giai điệu sôi động và lời bài hát lôi cuốn đã tạo nên sự cuồn cuộn và nhiệt huyết cho ca khúc này. Muộn Rồi Mà Sao Còn nhanh chóng trở thành một trong những bản hit đình đám trong sự nghiệp của Sơn Tùng M-TP và đạt được vị trí cao trên các bảng xếp hạng âm nhạc. Ca khúc này thể hiện sự tình cảm và tiếc nuối của người trẻ với những lầm lỗi trong tình yêu và cuộc sống. Với giọng hát đặc trưng và khả năng biểu diễn tuyệt vời, Sơn Tùng M-TP đã mang đến cho người nghe một trải nghiệm âm nhạc sôi động và đáng nhớ.",
-      "time": "4:49"
+      "time": "4:49",
+      "timeplay": [
+        
+        { "time": 30, "text": "Muộn rồi mà sao còn Nhìn lên trần nhà rồi quay ra lại quay vào", "highlighted": false },
+        { "time": 35, "text": "Nằm trằn trọc vậy đến sáng mai Ôm tương tư nụ cười của ai đó Làm con tim ngô nghê như muốn khóc oà", "highlighted": false },
+        { "time": 40, "text": "Vắt tay lên trên trán mơ mộng Được đứng bên em trong nắng xuân hồng", "highlighted": false },
+        { "time": 45, "text": "Một giờ sáng Trôi qua trôi nhanh kéo theo ưu phiền miên man", "highlighted": false },
+        { "time": 55, "text": "Âm thầm gieo tên em vẽ lên hi vọng Đúng là yêu thật rồi còn không thì hơi phí này", "highlighted": false },
+        { "time": 55, "text": "Cứ thế loanh quanh loanh quanh loanh quanh lật qua lật lại hai giờ", "highlighted": false },
+        { "time": 60, "text": "Những ngôi sao trên cao Là người bạn tâm giao Lắng nghe anh luyên thuyên về một tình đầu đẹp tựa chiêm bao", "highlighted": false },
+        { "time": 65, "text": "Có nghe thôi đã thấy ngọt ngào đủ biết anh si mê em nhường nào", "highlighted": false },
+        { "time": 70, "text": "Ít khi văn thơ anh dạt dào bụng đói nhưng vui quên luôn cồn cào", "highlighted": false },
+        { "time": 75, "text": "Nắm đôi tay kiêu sa Được một lần không ta Nghĩ qua thôi con tim trong anh ", "highlighted": false },
+        { "time": 80, "text": "đập tung lên rung nóc rung nhà Hoá ra yêu đơn phương một người Hoá ra khi tơ vương một người Ba giờ đêm vẫn ngồi cười", "highlighted": false },
+        { "time": 85, "text": "Cứ ôm anh đi ôm anh đi ôm anh đi ôm anh đi Ôm trong cơn mơ trong cơn mơ trong cơn mơ ôm trong cơn mơ", "highlighted": false },
+        { "time": 90, "text": "Có thế cũng khiến anh vui điên lên", "highlighted": false },
+        { "time": 95, "text": "Ngỡ như em đang bên Chắp bút đôi ba câu thơ ngọt ngào Muốn em đặt tên", "highlighted": false },
+        { "time": 100, "text": "Cứ ôm anh đi ôm anh đi ôm anh đi ôm anh đi Ôm trong giấc mơ trong cơn mơ trong cơn mơ ôm trong cơn mơ", "highlighted": false },
+        { "time": 105, "text": "Yêu đến vậy thôi phát điên rồi làm sao giờ", "highlighted": false },
+        { "time": 110, "text": "Đêm nay không ngủ tay kê lên tủ Miên man anh tranh thủ", "highlighted": false },
+        { "time": 115, "text": "Chơi vơi suy tư bao nhiêu cho đủ Yêu em ngu ngơ mình tôi", "highlighted": false },
+        { "time": 120, "text": "Yêu không quan tâm ngày trôi Yêu ánh mắt bờ môi Yêu đơn phương vậy thôi", "highlighted": false },
+        { "time": 125, "text": "Lại còn chối Con tim thẹn thùng đập lạc lối liên hồi", "highlighted": false },
+        { "time": 130, "text": "Đừng chày cối Miệng cười cả ngày vậy là chết toi rồi Ngày càng nhiều thêm", "highlighted": false },
+        { "time": 135, "text": "Tình yêu cho em ngày càng nhiều thêm Muốn nắm đôi bàn tay đó một lần Du dương chìm sâu trong từng câu ca dịu êm", "highlighted": false },
+        { "time": 140, "text": "Những ngôi sao trên cao là người bạn tâm giao Lắng nghe anh luyên thuyên", "highlighted": false },
+        { "time": 145, "text": "về một tình đầu đẹp tựa chiêm bao có nghe tôi đã thấy ngọt ngào", "highlighted": false },
+        { "time": 150, "text": "đủ biết anh si mê em nhường nào Ít khi văn thơ anh dạt dào bụng đói nhưng vui quên luôn cồn cào", "highlighted": false },
+        { "time": 155, "text": "Nắm đôi tay kiêu sa Được một lần không ta", "highlighted": false },
+        { "time": 160, "text": "Nghĩ qua thôi con tim trong anh đập tung lên rung nóc rung nhà Hoá ra yêu đơn phương một người", "highlighted": false },
+        { "time": 165, "text": "Hoá ra khi tơ vương một người Ba giờ đêm vẫn ngồi cười", "highlighted": false },
+        { "time": 170, "text": "Cứ ôm anh đi ôm anh đi ôm anh đi ôm anh đi Ôm trong cơn mơ trong cơn mơ ", "highlighted": false },
+        { "time": 175, "text": " trong cơn mơ ôm trong cơn mơ Có thế cũng khiến anh vui điên lên", "highlighted": false },
+        { "time": 180, "text": "Ngỡ như em đang bên Chắp bút đôi ba câu thơ ngọt ngào Muốn em đặt tên", "highlighted": false },
+        { "time": 185, "text": "Cứ ôm anh đi ôm anh đi ôm anh đi ôm anh đi Ôm trong giấc mơ", "highlighted": false },
+        { "time": 190, "text": " trong cơn mơ trong cơn mơ ôm trong cơn mơ Yêu đến vậy thôi phát điên rồi làm sao giờ", "highlighted": false },
+        { "time": 195, "text": "Em xinh như một thiên thần Như một thiên thần Như một thiên thần", "highlighted": false },
+        { "time": 200, "text": "Ngỡ như em là thiên thần Xinh như một thiên thần Như một thiên thần", "highlighted": false },
+        { "time": 205, "text": "Em xinh như một thiên thần", "highlighted": false },
+        { "time": 210, "text": "Như một thiên thần Như một thiên thần", "highlighted": false },
+        { "time": 215, "text": "Ngỡ như em là thiên thần Ngỡ như ngỡ như Ngỡ như ngỡ như ngỡ như", "highlighted": false },
+        { "time": 220, "text": "Cứ ôm anh đi ôm anh đi ôm anh đi ôm anh đi Ôm trong cơn mơ trong", "highlighted": false },
+        { "time": 225, "text": "cơn mơ trong cơn mơ ôm trong cơn mơ Có thế cũng khiến anh vui điên lên", "highlighted": false },
+        { "time": 230, "text": "Ngỡ như em đang bên Chắp bút đôi ba câu thơ ngọt ngào Muốn em đặt tên", "highlighted": false },
+        { "time": 235, "text": "Cứ ôm anh đi ôm anh đi ôm anh đi ôm anh đi", "highlighted": false },
+        { "time": 240, "text": "Ôm trong giấc mơ trong cơn mơ trong cơn mơ ôm trong cơn mơ", "highlighted": false },
+        { "time": 245, "text": "Yêu đến vậy thôi phát điên rồi làm sao giờ", "highlighted": false }
+      ]
     }
-  ],
+  ]
+}
+,
   "vietnam": [
     {
       "id": 1,
