@@ -169,7 +169,189 @@
       "color": "Purple",
       "casy": "Nguyễn Thành An",
       "title": "Ca khúc Luỵ Tình được thể hiện bởi ca sĩ Hoàng Long, một trong những bài hát làm nên tên tuổi của chàng ca sĩ này trong lòng khán giả nghe nhạc, giai điệu và lời bài hát Luỵ Tình là của chính anh sáng tác. Bài hát Luỵ Tình hiện đang là ca khúc được rất nhiều bạn trẻ yêu thích và đang được xếp thứ hạng rất cao trên các bảng xếp hạng âm nhạc.",
-      "time": "5:07"
+      "time": "5:07",
+        "timeplay": [
+    {
+      "time": 0,
+      "text": "Chạnh lòng trong anh lại nhớ, một thời phải bơ vơ, Một chiều dài nên thơ",
+      "highlighted": false
+    },
+
+    {
+      "time": 5,
+      "text": ", chắc giờ em có nhớ tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
+      "highlighted": false
+    },
+    {
+      "time": 10,
+      "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu từ giờ giờ em chẳng phải khóc,",
+      "highlighted": false
+    },
+    {
+      "time": 15,
+      "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
+      "highlighted": false
+    },
+
+    {
+      "time": 20,
+      "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "Chỉ mong em, vui bên tình duyên mới.",
+      "highlighted": false
+    },
+    {
+      "time": 45,
+      "text": "Quá vội vàng lời nói gấm nhung lụa, lỡ tin người em bước đi về nơi xa",
+      "highlighted": false
+    },
+    {
+      "time": 55,
+      "text": "Thế gian tình người phũ lắm em ơi",
+      "highlighted": false
+    },
+    {
+      "time": 60,
+      "text": "Nếu em buồn hãy nhớ anh chờ nơi đây,",
+      "highlighted": false
+    },
+    {
+      "time": 65,
+      "text": "Cơn gió chiều, thoáng đưa mùi hương ai, tan lát lòng khiến anh ngỡ lại",
+      "highlighted": false
+    },
+    {
+      "time": 70,
+      "text": "Tháng năm dài người đã sống bên ai, thôi chấp nhận em đúng anh là sai.",
+      "highlighted": false
+    },
+    {
+      "time": 75,
+      "text": "chạnh lòng trong anh lại nhớ, một thời phải bơ vơ",
+      "highlighted": false
+    },
+    {
+      "time": 80,
+      "text": "Một chiều dài nên thơ, chắc giờ em có nhớ",
+      "highlighted": false
+    },
+    {
+      "time": 85,
+      "text": "Tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
+      "highlighted": false
+    },
+    {
+      "time": 90,
+      "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu",
+      "highlighted": false
+    },
+    {
+      "time": 95,
+      "text": "Từ giờ giờ em chẳng phải khóc,",
+      "highlighted": false
+    },
+    {
+      "time": 100,
+      "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
+      "highlighted": false
+    },
+    {
+      "time": 105,
+      "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
+      "highlighted": false
+    },
+    {
+      "time": 110,
+      "text": "Chỉ mong em, vui bên tình duyên mới.",
+      "highlighted": false
+    },
+    {
+      "time": 155,
+      "text": "chạnh lòng trong anh lại nhớ, một thời phải bơ vơ",
+      "highlighted": false
+    },
+    {
+      "time": 160,
+      "text": "Một chiều dài nên thơ, chắc giờ em có nhớ",
+      "highlighted": false
+    },
+    {
+      "time": 165,
+      "text": "Tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
+      "highlighted": false
+    },
+    {
+      "time": 170,
+      "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu",
+      "highlighted": false
+    },
+
+    {
+      "time": 175,
+      "text": "LTừ giờ giờ em chẳng phải khóc,",
+      "highlighted": false
+    },
+    {
+      "time": 180,
+      "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
+      "highlighted": false
+    },
+    {
+      "time": 185,
+      "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
+      "highlighted": false
+    },
+    {
+      "time": 190,
+      "text": "Chỉ mong em, vui bên tình duyên mới.",
+      "highlighted": false
+    },
+    {
+      "time": 195,
+      "text": "chạnh lòng trong anh lại nhớ, một thời phải bơ vơ",
+      "highlighted": false
+    },
+    {
+      "time": 200,
+      "text": "Một chiều dài nên thơ, chắc giờ em có nhớ",
+      "highlighted": false
+    },
+    {
+      "time": 205,
+      "text": "Tình duyên ta như giọt nước, nhỏ giọt vậy mà thấm lâu",
+      "highlighted": false
+    },
+    {
+      "time": 210,
+      "text": "Đời này hai ta đậm sâu lỡ mai em tìm đâu",
+      "highlighted": false
+    },
+
+    {
+      "time": 215,
+      "text": "LTừ giờ giờ em chẳng phải khóc,",
+      "highlighted": false
+    },
+    {
+      "time": 220,
+      "text": "Vì mọi chuyện buồn đã qua và giờ e bên người ta sẽ có niềm vui mới",
+      "highlighted": false
+    },
+    {
+      "time": 125,
+      "text": "Và giờ anh đã sai, hạnh phúc a nhường lại",
+      "highlighted": false
+    },
+    {
+      "time": 230,
+      "text": "Chỉ mong em, vui bên tình duyên mới.",
+      "highlighted": false
+    }
+  ]
     },
     {
       "id": 2,
