@@ -1338,7 +1338,61 @@
       "img": "assets/img/ducphuc.jpeg",
       "url": "assets/music/honcayeu.mp3",
       "title": "Bài hát Hơn Cả Yêu của ca sĩ Đức Phúc là một tác phẩm âm nhạc lãng mạn và sâu lắng. Giai điệu nhẹ nhàng và lời bài hát chân thành thể hiện tình yêu và cảm xúc của một người đang trải qua một cuộc tình. Đồng thời thể hiện sự tình tứ và hy vọng về một tình yêu thực sự. Giọng hát tình cảm và phong cách biểu diễn sâu lắng của Đức Phúc mang đến một trải nghiệm âm nhạc đầy cảm xúc và xúc động. Hơn Cả Yêu là một bài hát lý tưởng để lắng nghe về những tâm tư tình cảm khi yêu",
-      "time": "5:43"
+      "time": "5:43",
+      "timeplay": [
+        {"time": 25,"text": "Em hay hỏi anh","highlighted": false},
+        { "time": 30,"text": "Rằng anh yêu em nhiều không? anh không biết","highlighted":false },
+        { "time": 35, "text": "Phải nói thế nào để đúng với cảm xúc trong lòng.", "highlighted": false },
+        { "time": 40, "text": "Khi anh nhìn em ", "highlighted": false },
+        { "time": 45, "text": "là anh thấy cuộc đời anh là quá khứ và cả tương lai", "highlighted": false },
+        { "time": 50, "text": "Là hiện tại không bao giờ phai", "highlighted": false },
+        { "time": 55, "text": "Tình yêu trong anh vẫn luôn thầm lặng ", "highlighted": false },
+        { "time": 60, "text": "Nhưng không có nghĩa không rộng lớn chỉ là anh", "highlighted": false },
+        { "time": 65, "text": "Đôi khi khó nói nên lời mong em hãy cảm nhận thôi", "highlighted": false },
+        { "time": 70, "text": "Cao hơn cả núi dài hơn cả sông", "highlighted": false },
+        { "time": 75, "text": "Rộng hơn cả đất xanh hơn cả trời", "highlighted": false },
+        { "time": 80, "text": "Anh yêu em anh yêu em nhiều thế thôi.", "highlighted": false },
+        { "time": 85, "text": "Vượt qua ngọn gió vượt qua đại dương", "highlighted": false },
+        { "time": 90, "text": "Vượt qua cả những án mây thiên đường", "highlighted": false },
+        { "time": 95, "text": "Dẫu có nói bao điều", "highlighted": false },
+        { "time": 100, "text": "Cảm giác trong anh bây giờ có lẽ... Hơn cả yêu.", "highlighted": false },
+        { "time": 120, "text": "Anh vẫn còn nhớ, lần đầu tiên ta gặp nhau", "highlighted": false },
+        { "time": 125, "text": "Chẳng biết trước lần đó sẽ là", "highlighted": false },
+        { "time": 130, "text": "Lần cuối anh yêu một anh trên đời anh không còn mơ,", "highlighted": false },
+        { "time": 135, "text": "Gặp và yêu ai được nữa", "highlighted": false },
+        { "time": 140, "text": "Giờ anh đã có em đây rồi cùng", "highlighted": false },
+        { "time": 145, "text": "Em đi hết quãng đường đời. Tình yêu trong anh", "highlighted": false },
+        { "time": 150, "text": "Vẫn luôn thầm lặng nhưng không có nghĩa không rộng lớn", "highlighted": false },
+        { "time": 155, "text": "Chỉ là anh đôi khi khó nói nên lời", "highlighted": false },
+        { "time": 160, "text": "Mong em hãy cảm nhận thôi cao hơn cả", "highlighted": false },
+        { "time": 165, "text": "Núi dài hơn cả sông rộng hơn cả đất xanh hơn", "highlighted": false },
+        { "time": 170, "text": "Cả trời. Anh yêu em anh yêu em  ", "highlighted": false },
+        { "time": 175, "text": "Nhiều thế thôi vượt qua", "highlighted": false },
+        { "time": 180, "text": "Ngọn gió vượt qua đại dương vượt qua cả những án mây ", "highlighted": false },
+        { "time": 185, "text": "Thiên đường dẫu có nói bao điều", "highlighted": false },
+        { "time": 190, "text": "Cảm giác trong anh bây giờ ", "highlighted": false },
+        { "time": 195, "text": "Có lẽ hơn cả yêu", "highlighted": false },
+        { "time": 210, "text": "Cao hơn cả núi dài hơn cả sông", "highlighted": false },
+        { "time": 215, "text": "Rộng hơn cả đất xanh hơn cả trời", "highlighted": false },
+        { "time": 220, "text": "Anh yêu em anh yêu em nhiều thế thôi.", "highlighted": false },
+        { "time": 225, "text": "Vượt qua ngọn gió vượt qua đại dương", "highlighted": false },
+        { "time": 230, "text": "Vượt qua cả những án mây thiên đường", "highlighted": false },
+        { "time": 235, "text": "Dẫu có nói bao điều cảm giác trong anh bây giờ", "highlighted": false },
+        { "time": 240, "text": "Có lẽ hơn cả yêu", "highlighted": false },
+        { "time": 250, "text": "Cảm giác trong anh bây giờ ", "highlighted": false },
+        { "time": 255, "text": "Có lẽ...Hơn cả yêu", "highlighted": false },
+        { "time": 270, "text": "Hồ...hô..hô..hố..hố..", "highlighted": false },
+        { "time": 275, "text": "hô.... =)))", "highlighted": false },
+        { "time": 280, "text": "Cao hơn cả núi dài hơn cả sông rộng", "highlighted": false },
+        { "time": 285, "text": "Hơn cả đất xanh hơn cả trời", "highlighted": false },
+        { "time": 290, "text": "Anh yêu em anh yêu em nhiều thế thôi.", "highlighted": false },
+        { "time": 295, "text": "Vượt qua ngọn gió vượt qua đại dương", "highlighted": false },
+        { "time": 300, "text": "Vượt qua cả những án mây thiên đường", "highlighted": false },
+        { "time": 305, "text": "Dẫu có nói bao điều cảm giác trong anh bây giờ", "highlighted": false },
+        { "time": 310, "text": "Có lẽ hơn cả yêu", "highlighted": false },
+        { "time": 320, "text": "Cảm giác trong anh bây giờ ", "highlighted": false },
+        { "time": 325, "text": "Có lẽ...Hơn cả yêu", "highlighted": false }
+      ]
     },
 
     {
@@ -1349,7 +1403,59 @@
       "img": "assets/img/haanhtuan.jpeg",
       "url": "assets/music/thangtulaloinoidoicuaem.mp3",
       "title": "Ca khúc mang âm hưởng Pop nhẹ nhàng, với ca từ lãng mạn, đầy chất thơ, được thể hiện qua giọng ca mộc mạc, giàu chất tự sự của Hà Anh Tuấn.",
-      "time": "6:10"
+      "time": "6:10",
+      "timeplay": [
+        { "time": 50, "text": "Mùa xuân có em như chưa bắt đầu", "highlighted": false },
+        { "time": 55, "text": "Và cơn gió như khẽ mơn man", "highlighted": false },
+        { "time": 60, "text": "lay từng nhành hoa rơi.", "highlighted": false },
+        { "time": 65, "text": "Em đã bước tới như em đã từng", "highlighted": false },
+        { "time": 70, "text": "Chạy trốn với anh trên cánh đồng xanh", "highlighted": false },
+        { "time": 75, "text": "Khúc nhạc hòa cùng nắng chiều dịu dàng", "highlighted": false },
+        { "time": 80, "text": "Để mình gần lại mãi nói lời", "highlighted": false },
+        { "time": 85, "text": "thì thầm những điều thật thà đã giữ trong tim mình", "highlighted": false },
+        { "time": 90, "text": "Những chặng đường dài ngỡ mình mệt nhoài", "highlighted": false },
+        { "time": 95, "text": "Đã một lần gục ngã tháng tư", "highlighted": false },
+        { "time": 100, "text": "Có em ở đây nhìn tôi mỉm cười.", "highlighted": false },
+        { "time": 105, "text": "Những cánh hoa phai tàn thật nhanh em có bay xa ", "highlighted": false },
+        { "time": 110, "text": "em có đi xa mãi tháng tư đôi khi thật mong manh", "highlighted": false },
+        { "time": 115, "text": "để mình nói ra những câu chân thật", "highlighted": false },
+        { "time": 120, "text": "Giá như tôi một lần tin em cô gái tôi thương", "highlighted": false },
+        { "time": 125, "text": "nay hóa theo mây gió để lại tháng tư", "highlighted": false },
+        { "time": 130, "text": "Ở đó....", "highlighted": false },
+        { "time": 150, "text": "Mùa xuân mất em", "highlighted": false },
+        { "time": 155, "text": "Như đã bắt đầu", "highlighted": false },
+        { "time": 160, "text": "Và cơn gió như khẽ vô tình lay từng nhành hoa rơi", "highlighted": false },
+        { "time": 165, "text": "Em vội xa khuất", "highlighted": false },
+        { "time": 170, "text": "theo tia nắng chiều", "highlighted": false },
+        { "time": 175, "text": "Để lại dấu chân giữa cánh đồng xanh", "highlighted": false },
+        { "time": 180, "text": "Khúc nhạc thầm lặng giữa chiều muộn màng để", "highlighted": false },
+        { "time": 185, "text": "mình gần lại mãi nói lời thì thầm những", "highlighted": false },
+        { "time": 190, "text": "điều thật thà đã giữ trong tim mình", "highlighted": false },
+        { "time": 195, "text": "Những chặng đường dài ngỡ mình mệt nhoài", "highlighted": false },
+        { "time": 200, "text": "đã một lần gục ngã tháng tư ánh sao phía xa", "highlighted": false },
+        { "time": 205, "text": "bỗng nhiên dần tàn những cánh hoa", "highlighted": false },
+        { "time": 210, "text": "phai tàn thật nhanh Em có bay xa em có", "highlighted": false },
+        { "time": 215, "text": "đi xa mãi tháng tư đôi khi thật mong manh để", "highlighted": false },
+        { "time": 220, "text": "mình nói ra những câu chân thật giá như tôi một lần", "highlighted": false },
+        { "time": 225, "text": "tin em cô gái tôi thương nay hóa theo mây", "highlighted": false },
+        { "time": 230, "text": "gió. Để lại tháng tư ở", "highlighted": false },
+        { "time": 235, "text": "Đó... ", "highlighted": false },
+        { "time": 275, "text": "Và tôi sẽ sống như những gì", "highlighted": false },
+        { "time": 280, "text": "em thầm mơ và tôi sẽ ", "highlighted": false },
+        { "time": 285, "text": "bước tiếp trên con đường mình đã chọn", "highlighted": false },
+        { "time": 290, "text": "Và khi tôi chết sẽ mỉm cười khi", "highlighted": false },
+        { "time": 295, "text": "gặp em. Khẽ chào cô gái tháng tư ", "highlighted": false },
+        { "time": 300, "text": "của tôi. Những kỉ niệm phai tàn", "highlighted": false },
+        { "time": 305, "text": "thật nhanh Em đã bay xa em đã đi xa mãi", "highlighted": false },
+        { "time": 310, "text": "Tháng tư đôi khi thật mong manh để", "highlighted": false },
+        { "time": 315, "text": "mình nói ra... Giá như tôi một lần", "highlighted": false },
+        { "time": 320, "text": "tin em cô gái tôi thương nay hóa theo mây gió", "highlighted": false },
+        { "time": 325, "text": "Để lại tháng tư xa", "highlighted": false },
+        { "time": 330, "text": "Mãi... để lại tháng tư...", "highlighted": false },
+        { "time": 340, "text": "Mình Anh...", "highlighted": false }
+
+
+      ]
     },
     
     {
@@ -1360,7 +1466,79 @@
       "img": "assets/img/erik.jpeg",
       "url": "assets/music/sautatca.mp3",
       "title": "Sau tất cả mang lại sự ấm áp, ngọt ngào của đôi tình nhân. Trải qua nhiều cung bậc cảm xúc trái chiều, họ lựa chọn cách quay về bên nhau bởi khó khăn cũng chỉ là thử thách. Sự văn minh trong ca từ cùng với chất ballad du dương góp phần làm nên thành công cho bản hit này.",
-      "time": "3:54"
+      "time": "3:54",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "… Sau tất cả mình lại trở về",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "với nhau tựa như chưa bắt đầu",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "Tựa như ta vừa mới quen sau tất cả",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "lòng chẳng hề đổi thay từng ngày xa",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "lìa khiến con tim bồi hồi và ta lại",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "gần nhau hơn nữa… Có những lúc",
+          "highlighted": false
+        },
+        { "time": 30, "text": "đôi ta giận hờn thầm trách nhau không một ai nói", "highlighted": false },
+        { "time": 35, "text": "điều gì thời gian cứ chậm", "highlighted": false },
+        { "time": 40, "text": "lại từng giây phút sao quá dài", "highlighted": false },
+        { "time": 45, "text": "Để khiến anh nhận ra mình cần em hơn", "highlighted": false },
+        { "time": 50, "text": "… Tình yêu cứ thế đong đầy trong anh từng ngày", "highlighted": false },
+        { "time": 55, "text": "Vì quá yêu em nên không thể làm ", "highlighted": false },
+        { "time": 60, "text": "gì khác… Chỉ cần ta mãi luôn dành", "highlighted": false },
+        { "time": 65, "text": "Cho nhau những chân thành mọi khó khăn", "highlighted": false },
+        { "time": 70, "text": "cũng chỉ là thử thách vì trái tim", "highlighted": false },
+        { "time": 75, "text": "ta luôn luôn thuộc về nhau", "highlighted": false },
+        { "time": 80, "text": "Uh", "highlighted": false },
+        { "time": 90, "text": "… Sau tất cả mình lại chung lối đi đoạn đường ta có nhau", "highlighted": false },
+        { "time": 95, "text": "Bàn tay nắm chặt bấy lâu", "highlighted": false },
+        { "time": 100, "text": "… Sau tất cả mình cùng nhau sẻ chia", "highlighted": false },
+        { "time": 105, "text": "Muộn phiền không thể khiến đôi tim nhạt nhoà", "highlighted": false },
+        { "time": 110, "text": "Và ta lại gần nhau hơn nữa", "highlighted": false },
+        { "time": 115, "text": "… Có những lúc đôi ta giận hờn thầm trách", "highlighted": false },
+        { "time": 120, "text": "nhau không một ai nói điều gì thời gian", "highlighted": false },
+        { "time": 125, "text": "cứ chậm lại từng giây phút sao quá dài", "highlighted": false },
+        { "time": 130, "text": "Để khiến anh nhận ra mình cần em hơn...", "highlighted": false },
+        { "time": 135, "text": "… Tình yêu cứ thế đong đầy", "highlighted": false },
+        { "time": 140, "text": "trong anh từng ngày vì quá yêu em", "highlighted": false },
+        { "time": 145, "text": "nên không thể làm gì khác chỉ cần ta mãi", "highlighted": false },
+        { "time": 150, "text": "luôn dành cho nhau những chân thành", "highlighted": false },
+        { "time": 155, "text": "Mọi khó khăn cũng chỉ là thử thách", "highlighted": false },
+        { "time": 160, "text": "Vì trái tim ta luôn luôn thuộc về nhau", "highlighted": false },
+        { "time": 165, "text": "… Giữ chặt bàn tay mình cùng", "highlighted": false },
+        { "time": 170, "text": "nhau đi hết bao tháng ngày", "highlighted": false },
+        { "time": 175, "text": "Mọi điều gian khó ta luôn vượt qua", "highlighted": false },
+        { "time": 180, "text": "Để khiến ta nhận ra mình gần nhau hơn", "highlighted": false },
+        { "time": 185, "text": "… Tình yêu cứ thế đong đầy", "highlighted": false },
+        { "time": 190, "text": "Trong anh từng ngày", "highlighted": false },
+        { "time": 195, "text": "Vì quá yêu em nên không thể làm gì khác", "highlighted": false },
+        { "time": 200, "text": "Chỉ cần ta mãi luôn dành cho nhau những", "highlighted": false },
+        { "time": 205, "text": "chân thành mọi khó khăn cũng chỉ là thử thách", "highlighted": false },
+        { "time": 210, "text": "Vì trái tim ta luôn luôn.....", "highlighted": false },
+        { "time": 215, "text": "Thuộc về nhau.....", "highlighted": false }
+      ]
     },
 
     {
@@ -1371,7 +1549,53 @@
       "img": "assets/img/chipu.jpeg",
       "url": "assets/music/anhoiolai.mp3",
       "title": "Anh ơi ở lại là một bài hát được thu âm bởi người mẫu và nữ diễn viên Việt Nam Chi Pu. Được sáng tác bởi Đạt G, phối khí bởi Đoàn Minh Vũ cùng phần mix và mastering do Bố Thỏ Heo đảm nhận.",
-      "time": "4:52"
+      "time": "4:52",
+      "timeplay": [
+        { "time": 30, "text": "Lại là chia tay sau những lần không hiểu nhau", "highlighted": false },
+        { "time": 35, "text": "Tại vì thơ ngây", "highlighted": false },
+        { "time": 40, "text": "bao nhiêu lần yêu vỡ nát nữa rồi", "highlighted": false },
+        { "time": 45, "text": "Tại vì hôm mưa em đưa chiếc ô dã", "highlighted": false },
+        { "time": 50, "text": "làm trái tim em có cầu vồng mà cầu vồng chỉ có khi", "highlighted": false },
+        { "time": 55, "text": "mưa vừa tan anh cũng rời đi khi anh hết yêu", "highlighted": false },
+        { "time": 60, "text": "Vì sợ cô đơn nên em mặc kệ", "highlighted": false },
+        { "time": 65, "text": "đúng sai... mặc kệ anh có", "highlighted": false },
+        { "time": 70, "text": "đưa đôi bàn tay ấm áp cho ai", "highlighted": false },
+        { "time": 75, "text": "Chỉ cầu xin anh em đã rất đau", "highlighted": false },
+        { "time": 80, "text": "Đừng làm mắt em vương vấn thêm buồn", "highlighted": false },
+        { "time": 85, "text": "Dù có yêu trăm người mà trái tim không cười thì vẫn cô đơn", "highlighted": false },
+        { "time": 90, "text": " vậy thôi Anh ơi anh ở lại ", "highlighted": false },
+        { "time": 95, "text": "ở lại với em đi anh ở lại", "highlighted": false },
+        { "time": 100, "text": "Đừng làm áng mây trôi trên bầu trời một mình chơi vơi", "highlighted": false },
+        { "time": 105, "text": "Bông hoa xinh", "highlighted": false },
+        { "time": 110, "text": "ngoài vườn nhà giờ cũng đã xác xơ bông hoa lụi tàn", "highlighted": false },
+        { "time": 115, "text": "Thật nhiều đớn đau mà người lo lắng", "highlighted": false },
+        { "time": 120, "text": "đâu rồi..", "highlighted": false },
+        { "time": 155, "text": "Vì sợ cô đơn nên em mặc kệ đúng sai", "highlighted": false },
+        { "time": 160, "text": "Mặc kệ anh có đưa đôi bàn tay", "highlighted": false },
+        { "time": 165, "text": "ấm áp cho ai chỉ", "highlighted": false },
+        { "time": 170, "text": "cầu xin anh em đang rất đau và đừng làm mắt em vương vấn", "highlighted": false },
+        { "time": 175, "text": "thêm buồn dù có yêu trăm người", "highlighted": false },
+        { "time": 180, "text": "mà trái tim không cười thì vẫn cô đơn thế thôi", "highlighted": false },
+        { "time": 185, "text": "Anh ơi anh ở lại ở lại với em", "highlighted": false },
+        { "time": 190, "text": "đi anh ở lại đừng làm áng mây trôi trên bầu trời", "highlighted": false },
+        { "time": 195, "text": "rồi một mình chơi vơi", "highlighted": false },
+        { "time": 200, "text": "Bông hoa xinh ngoài vườn nhà giờ cũng đã xác xơ", "highlighted": false },
+        { "time": 205, "text": "bông hoa lụi tàn thật nhiều đớn đau", "highlighted": false },
+        { "time": 210, "text": "mà người lo lắng đâu rồi..", "highlighted": false },
+        { "time": 215, "text": "Anh ơi anh ở lại", "highlighted": false },
+        { "time": 220, "text": "Đừng mang cô đơn về lại và anh ơi", "highlighted": false },
+        { "time": 225, "text": "anh anh ơi anh anh đừng đi....", "highlighted": false },
+        { "time": 230, "text": "Anh ơi nên dừng lại dừng lại", "highlighted": false },
+        { "time": 235, "text": "để thấy đôi chân em mỏi mệt vì chạy phía sau", "highlighted": false },
+        { "time": 240, "text": "theo anh trong cuộc đời mà anh đâu hay", "highlighted": false },
+        { "time": 245, "text": "Lấp lánh những ánh đèn đường", "highlighted": false },
+        { "time": 250, "text": "Hoà cùng một chút mưa giông đang kéo về thật nhiều", "highlighted": false },
+        { "time": 255, "text": " đau đớn chẳng còn mạnh mẽ do tình yêu", "highlighted": false },
+        { "time": 260, "text": "Hohhhh.. ", "highlighted": false },
+        { "time": 270, "text": "Lau mi đi em đừng buồn vì chuyện lứa đôi đâu ai hiểu được", "highlighted": false },
+        { "time": 275, "text": "vào một chiều tan vỡ một người khóc", "highlighted": false },
+        { "time": 280, "text": "Một người...đau", "highlighted": false }
+      ]
     },
 
     
@@ -1383,7 +1607,98 @@
       "img": "assets/img/thuychi.jpeg",
       "url": "assets/music/nangthoxuhue.mp3",
       "title": "Nhạc phẩm có cách phối khí âm hưởng dân ca, mở đầu bằng tiếng sáo. Giai điệu chậm rãi, sâu lắng của ca khúc hài hòa với chất giọng của Thùy Chi.",
-      "time": "5:32"
+      "time": "5:32",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "",
+          "highlighted": false
+        },
+        { "time": 30, "text": "", "highlighted": false },
+        { "time": 35, "text": "", "highlighted": false },
+        { "time": 40, "text": "", "highlighted": false },
+        { "time": 45, "text": "", "highlighted": false },
+        { "time": 55, "text": "", "highlighted": false },
+        { "time": 55, "text": "", "highlighted": false },
+        { "time": 60, "text": "", "highlighted": false },
+        { "time": 65, "text": "", "highlighted": false },
+        { "time": 70, "text": "", "highlighted": false },
+        { "time": 75, "text": "", "highlighted": false },
+        { "time": 80, "text": "", "highlighted": false },
+        { "time": 85, "text": "", "highlighted": false },
+        { "time": 90, "text": "", "highlighted": false },
+        { "time": 95, "text": "", "highlighted": false },
+        { "time": 100, "text": "", "highlighted": false },
+        { "time": 105, "text": "", "highlighted": false },
+        { "time": 110, "text": "", "highlighted": false },
+        { "time": 115, "text": "", "highlighted": false },
+        { "time": 120, "text": "", "highlighted": false },
+        { "time": 125, "text": "", "highlighted": false },
+        { "time": 130, "text": "", "highlighted": false },
+        { "time": 135, "text": "", "highlighted": false },
+        { "time": 140, "text": "", "highlighted": false },
+        { "time": 145, "text": "", "highlighted": false },
+        { "time": 150, "text": "", "highlighted": false },
+        { "time": 155, "text": "", "highlighted": false },
+        { "time": 160, "text": "", "highlighted": false },
+        { "time": 165, "text": "", "highlighted": false },
+        { "time": 170, "text": "", "highlighted": false },
+        { "time": 175, "text": "", "highlighted": false },
+        { "time": 180, "text": "", "highlighted": false },
+        { "time": 185, "text": "", "highlighted": false },
+        { "time": 190, "text": "", "highlighted": false },
+        { "time": 195, "text": "", "highlighted": false },
+        { "time": 200, "text": "", "highlighted": false },
+        { "time": 205, "text": "", "highlighted": false },
+        { "time": 210, "text": "", "highlighted": false },
+        { "time": 215, "text": "", "highlighted": false },
+        { "time": 220, "text": "", "highlighted": false },
+        { "time": 225, "text": "", "highlighted": false },
+        { "time": 230, "text": "", "highlighted": false },
+        { "time": 235, "text": "", "highlighted": false },
+        { "time": 240, "text": "", "highlighted": false },
+        { "time": 245, "text": "", "highlighted": false },
+        { "time": 250, "text": "", "highlighted": false },
+        { "time": 255, "text": "", "highlighted": false },
+        { "time": 260, "text": "", "highlighted": false },
+        { "time": 265, "text": "", "highlighted": false },
+        { "time": 270, "text": "", "highlighted": false },
+        { "time": 275, "text": "", "highlighted": false },
+        { "time": 280, "text": "", "highlighted": false },
+        { "time": 285, "text": "", "highlighted": false },
+        { "time": 290, "text": "", "highlighted": false },
+        { "time": 295, "text": "", "highlighted": false },
+        { "time": 300, "text": "", "highlighted": false },
+        { "time": 305, "text": "", "highlighted": false }
+      ]
     },
 
     {
@@ -1394,7 +1709,98 @@
       "img": "assets/img/bichphuong.jpeg",
       "url": "assets/music/guianhxanho.mp3",
       "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Bích Phương đã trở lại thị trường nhạc bằng một ca khúc mới của nhạc sĩ trẻ Tiên Cookie.",
-      "time": "4:42"
+      "time": "4:42",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "",
+          "highlighted": false
+        },
+        { "time": 30, "text": "", "highlighted": false },
+        { "time": 35, "text": "", "highlighted": false },
+        { "time": 40, "text": "", "highlighted": false },
+        { "time": 45, "text": "", "highlighted": false },
+        { "time": 55, "text": "", "highlighted": false },
+        { "time": 55, "text": "", "highlighted": false },
+        { "time": 60, "text": "", "highlighted": false },
+        { "time": 65, "text": "", "highlighted": false },
+        { "time": 70, "text": "", "highlighted": false },
+        { "time": 75, "text": "", "highlighted": false },
+        { "time": 80, "text": "", "highlighted": false },
+        { "time": 85, "text": "", "highlighted": false },
+        { "time": 90, "text": "", "highlighted": false },
+        { "time": 95, "text": "", "highlighted": false },
+        { "time": 100, "text": "", "highlighted": false },
+        { "time": 105, "text": "", "highlighted": false },
+        { "time": 110, "text": "", "highlighted": false },
+        { "time": 115, "text": "", "highlighted": false },
+        { "time": 120, "text": "", "highlighted": false },
+        { "time": 125, "text": "", "highlighted": false },
+        { "time": 130, "text": "", "highlighted": false },
+        { "time": 135, "text": "", "highlighted": false },
+        { "time": 140, "text": "", "highlighted": false },
+        { "time": 145, "text": "", "highlighted": false },
+        { "time": 150, "text": "", "highlighted": false },
+        { "time": 155, "text": "", "highlighted": false },
+        { "time": 160, "text": "", "highlighted": false },
+        { "time": 165, "text": "", "highlighted": false },
+        { "time": 170, "text": "", "highlighted": false },
+        { "time": 175, "text": "", "highlighted": false },
+        { "time": 180, "text": "", "highlighted": false },
+        { "time": 185, "text": "", "highlighted": false },
+        { "time": 190, "text": "", "highlighted": false },
+        { "time": 195, "text": "", "highlighted": false },
+        { "time": 200, "text": "", "highlighted": false },
+        { "time": 205, "text": "", "highlighted": false },
+        { "time": 210, "text": "", "highlighted": false },
+        { "time": 215, "text": "", "highlighted": false },
+        { "time": 220, "text": "", "highlighted": false },
+        { "time": 225, "text": "", "highlighted": false },
+        { "time": 230, "text": "", "highlighted": false },
+        { "time": 235, "text": "", "highlighted": false },
+        { "time": 240, "text": "", "highlighted": false },
+        { "time": 245, "text": "", "highlighted": false },
+        { "time": 250, "text": "", "highlighted": false },
+        { "time": 255, "text": "", "highlighted": false },
+        { "time": 260, "text": "", "highlighted": false },
+        { "time": 265, "text": "", "highlighted": false },
+        { "time": 270, "text": "", "highlighted": false },
+        { "time": 275, "text": "", "highlighted": false },
+        { "time": 280, "text": "", "highlighted": false },
+        { "time": 285, "text": "", "highlighted": false },
+        { "time": 290, "text": "", "highlighted": false },
+        { "time": 295, "text": "", "highlighted": false },
+        { "time": 300, "text": "", "highlighted": false },
+        { "time": 305, "text": "", "highlighted": false }
+      ]
     },
 
     {
@@ -1405,7 +1811,98 @@
       "img": "assets/img/quanap.jpeg",
       "url": "assets/music/bonghoadepnhat.mp3",
       "title": "Ca khúc có phần giai điệu nhẹ nhàng, da diết. Chất giọng dày, trầm khàn đặc trưng của Quân A.P giúp anh xử lý tốt những đoạn trầm, thể hiện tinh thần sâu lắng của tác phẩm.",
-      "time": "3:32"
+      "time": "3:32",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "",
+          "highlighted": false
+        },
+        { "time": 30, "text": "", "highlighted": false },
+        { "time": 35, "text": "", "highlighted": false },
+        { "time": 40, "text": "", "highlighted": false },
+        { "time": 45, "text": "", "highlighted": false },
+        { "time": 55, "text": "", "highlighted": false },
+        { "time": 55, "text": "", "highlighted": false },
+        { "time": 60, "text": "", "highlighted": false },
+        { "time": 65, "text": "", "highlighted": false },
+        { "time": 70, "text": "", "highlighted": false },
+        { "time": 75, "text": "", "highlighted": false },
+        { "time": 80, "text": "", "highlighted": false },
+        { "time": 85, "text": "", "highlighted": false },
+        { "time": 90, "text": "", "highlighted": false },
+        { "time": 95, "text": "", "highlighted": false },
+        { "time": 100, "text": "", "highlighted": false },
+        { "time": 105, "text": "", "highlighted": false },
+        { "time": 110, "text": "", "highlighted": false },
+        { "time": 115, "text": "", "highlighted": false },
+        { "time": 120, "text": "", "highlighted": false },
+        { "time": 125, "text": "", "highlighted": false },
+        { "time": 130, "text": "", "highlighted": false },
+        { "time": 135, "text": "", "highlighted": false },
+        { "time": 140, "text": "", "highlighted": false },
+        { "time": 145, "text": "", "highlighted": false },
+        { "time": 150, "text": "", "highlighted": false },
+        { "time": 155, "text": "", "highlighted": false },
+        { "time": 160, "text": "", "highlighted": false },
+        { "time": 165, "text": "", "highlighted": false },
+        { "time": 170, "text": "", "highlighted": false },
+        { "time": 175, "text": "", "highlighted": false },
+        { "time": 180, "text": "", "highlighted": false },
+        { "time": 185, "text": "", "highlighted": false },
+        { "time": 190, "text": "", "highlighted": false },
+        { "time": 195, "text": "", "highlighted": false },
+        { "time": 200, "text": "", "highlighted": false },
+        { "time": 205, "text": "", "highlighted": false },
+        { "time": 210, "text": "", "highlighted": false },
+        { "time": 215, "text": "", "highlighted": false },
+        { "time": 220, "text": "", "highlighted": false },
+        { "time": 225, "text": "", "highlighted": false },
+        { "time": 230, "text": "", "highlighted": false },
+        { "time": 235, "text": "", "highlighted": false },
+        { "time": 240, "text": "", "highlighted": false },
+        { "time": 245, "text": "", "highlighted": false },
+        { "time": 250, "text": "", "highlighted": false },
+        { "time": 255, "text": "", "highlighted": false },
+        { "time": 260, "text": "", "highlighted": false },
+        { "time": 265, "text": "", "highlighted": false },
+        { "time": 270, "text": "", "highlighted": false },
+        { "time": 275, "text": "", "highlighted": false },
+        { "time": 280, "text": "", "highlighted": false },
+        { "time": 285, "text": "", "highlighted": false },
+        { "time": 290, "text": "", "highlighted": false },
+        { "time": 295, "text": "", "highlighted": false },
+        { "time": 300, "text": "", "highlighted": false },
+        { "time": 305, "text": "", "highlighted": false }
+      ]
     },
 
     {
@@ -1416,7 +1913,98 @@
       "img": "assets/img/soobin.jpeg",
       "url": "assets/music/phiasaumotcogai.mp3",
       "title": "Ca khúc Phía sau một cô gái được đánh giá là hiện tượng nổi bật của Vpop trong thời điểm cuối năm 2016. Sự kết hợp đầu tiên giữa Soobin Hoàng Sơn và Tiên Cookie nhanh chóng thu hút sự quan tâm của truyền thông lẫn đông đảo công chúng.",
-      "time": "5:29"
+      "time": "5:29",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "",
+          "highlighted": false
+        },
+        { "time": 30, "text": "", "highlighted": false },
+        { "time": 35, "text": "", "highlighted": false },
+        { "time": 40, "text": "", "highlighted": false },
+        { "time": 45, "text": "", "highlighted": false },
+        { "time": 55, "text": "", "highlighted": false },
+        { "time": 55, "text": "", "highlighted": false },
+        { "time": 60, "text": "", "highlighted": false },
+        { "time": 65, "text": "", "highlighted": false },
+        { "time": 70, "text": "", "highlighted": false },
+        { "time": 75, "text": "", "highlighted": false },
+        { "time": 80, "text": "", "highlighted": false },
+        { "time": 85, "text": "", "highlighted": false },
+        { "time": 90, "text": "", "highlighted": false },
+        { "time": 95, "text": "", "highlighted": false },
+        { "time": 100, "text": "", "highlighted": false },
+        { "time": 105, "text": "", "highlighted": false },
+        { "time": 110, "text": "", "highlighted": false },
+        { "time": 115, "text": "", "highlighted": false },
+        { "time": 120, "text": "", "highlighted": false },
+        { "time": 125, "text": "", "highlighted": false },
+        { "time": 130, "text": "", "highlighted": false },
+        { "time": 135, "text": "", "highlighted": false },
+        { "time": 140, "text": "", "highlighted": false },
+        { "time": 145, "text": "", "highlighted": false },
+        { "time": 150, "text": "", "highlighted": false },
+        { "time": 155, "text": "", "highlighted": false },
+        { "time": 160, "text": "", "highlighted": false },
+        { "time": 165, "text": "", "highlighted": false },
+        { "time": 170, "text": "", "highlighted": false },
+        { "time": 175, "text": "", "highlighted": false },
+        { "time": 180, "text": "", "highlighted": false },
+        { "time": 185, "text": "", "highlighted": false },
+        { "time": 190, "text": "", "highlighted": false },
+        { "time": 195, "text": "", "highlighted": false },
+        { "time": 200, "text": "", "highlighted": false },
+        { "time": 205, "text": "", "highlighted": false },
+        { "time": 210, "text": "", "highlighted": false },
+        { "time": 215, "text": "", "highlighted": false },
+        { "time": 220, "text": "", "highlighted": false },
+        { "time": 225, "text": "", "highlighted": false },
+        { "time": 230, "text": "", "highlighted": false },
+        { "time": 235, "text": "", "highlighted": false },
+        { "time": 240, "text": "", "highlighted": false },
+        { "time": 245, "text": "", "highlighted": false },
+        { "time": 250, "text": "", "highlighted": false },
+        { "time": 255, "text": "", "highlighted": false },
+        { "time": 260, "text": "", "highlighted": false },
+        { "time": 265, "text": "", "highlighted": false },
+        { "time": 270, "text": "", "highlighted": false },
+        { "time": 275, "text": "", "highlighted": false },
+        { "time": 280, "text": "", "highlighted": false },
+        { "time": 285, "text": "", "highlighted": false },
+        { "time": 290, "text": "", "highlighted": false },
+        { "time": 295, "text": "", "highlighted": false },
+        { "time": 300, "text": "", "highlighted": false },
+        { "time": 305, "text": "", "highlighted": false }
+      ]
     },
 
     {
@@ -1427,7 +2015,55 @@
       "img": "assets/img/huongtram.jpeg",
       "url": "assets/music/emgaimua.mp3",
       "title": "Ca khúc Em gái mưa được đánh giá là hiện tượng nổi bật của Vpop trong thời điểm cuối năm 2016. Sự kết hợp đầu tiên giữa Soobin Hoàng Sơn và Tiên Cookie nhanh chóng thu hút sự quan tâm của truyền thông lẫn đông đảo công chúng.",
-      "time": "5:30"
+      "time": "5:30",
+      "timeplay": [
+        { "time": 30, "text": "Mưa trôi cả bầu trời nắng trượt theo những nỗi buồn", "highlighted": false },
+        { "time": 35, "text": "Thấm ướt lệ sầu môi đắng vì đánh mất hy vọng", "highlighted": false },
+        { "time": 40, "text": "Lần đầu gặp nhau dưới mưa", "highlighted": false },
+        { "time": 45, "text": "Trái tim rộn ràng bởi ánh nhìn tình cảm", "highlighted": false },
+        { "time": 55, "text": "dầm mưa thấm lâu em nào ngờ", "highlighted": false },
+        { "time": 55, "text": "Mình hợp nhau đến như vậy thế nhưng không phải là yêu", "highlighted": false },
+        { "time": 60, "text": "Và em muốn hỏi anh rằng chúng ta là thế nào", "highlighted": false },
+        { "time": 65, "text": "Rồi lặng người đến vô tận", "highlighted": false },
+        { "time": 70, "text": "trách sao được sự tàn nhẫn anh trót vô tình", "highlighted": false },
+        { "time": 75, "text": " thương em như là em gái", "highlighted": false },
+        { "time": 80, "text": "Đừng lo lắng về em khi mà em vẫn còn yêu anh", "highlighted": false },
+        { "time": 85, "text": "Càng xa lánh càng trống vắng", "highlighted": false },
+        { "time": 90, "text": "tim cứ đau và nhớ lắm đành phải buông hết tất cả thôi", "highlighted": false },
+        { "time": 95, "text": "nụ cười mỉm sau bờ môi ấm áp", "highlighted": false },
+        { "time": 100, "text": "dịu dàng vai anh em đã bao lần yên giấc", "highlighted": false },
+        { "time": 105, "text": "Nhìn trên cao khoảng trời yêu mà em lỡ dành cho", "highlighted": false },
+        { "time": 110, "text": "anh giờ mây đen quyện thành bão giông tố", "highlighted": false },
+        { "time": 115, "text": "đang dần kéo đến chồi non háo hức", "highlighted": false },
+        { "time": 120, "text": "đang đợi mưa rất giống em ngày xưa mưa trôi", "highlighted": false },
+        { "time": 125, "text": "để lại ngây thơ trong giấc mơ buốt lạnh", "highlighted": false },
+        { "time": 155, "text": "Mình hợp nhau đến như vậy thế nhưng không phải là", "highlighted": false },
+        { "time": 160, "text": "yêu Và em muốn hỏi anh rằng ", "highlighted": false },
+        { "time": 165, "text": " chúng ta là thế nào rồi lặng người đến vô tận", "highlighted": false },
+        { "time": 170, "text": "vô tận trách sao được sự tàn nhẫn", "highlighted": false },
+        { "time": 175, "text": "Anh trót vô tình thương em như là em gái", "highlighted": false },
+        { "time": 180, "text": "Đừng lo lắng về em khi mà em vẫn", "highlighted": false },
+        { "time": 185, "text": "còn yêu anh càng xa lánh càng trống vắng", "highlighted": false },
+        { "time": 190, "text": "tim cứ đau và nhớ lắm đành phải buông hết", "highlighted": false },
+        { "time": 195, "text": "tất cả thôi nụ cười mỉm sau bờ môi", "highlighted": false },
+        { "time": 200, "text": "Ấm áp dịu dàng vai anh em đã bao lần yên giấc", "highlighted": false },
+        { "time": 205, "text": "Nhìn trên cao khoảng trời yêu mà em", "highlighted": false },
+        { "time": 210, "text": "lỡ dành cho anh giờ mây đen quyện thành bão", "highlighted": false },
+        { "time": 215, "text": "giông tố đang dần kéo đến chồi non háo hức", "highlighted": false },
+        { "time": 220, "text": "đang đợi mưa rất giống em ngày xưa", "highlighted": false },
+        { "time": 225, "text": "Mưa trôi để lại ngây thơ trong giấc mơ buốt lạnh", "highlighted": false },
+        { "time": 230, "text": "Đừng lo lắng về em khi mà em vẫn", "highlighted": false },
+        { "time": 235, "text": "còn yêu anh càng xa lánh", "highlighted": false },
+        { "time": 240, "text": "càng trống vắng tim cứ đau và nhớ lắm đành phải buông", "highlighted": false },
+        { "time": 245, "text": "hết tất cả thôi nụ cười mỉm sau bờ môi", "highlighted": false },
+        { "time": 250, "text": "Ấm áp dịu dàng vai anh em đã bao lần ", "highlighted": false },
+        { "time": 255, "text": "yên giấc nhìn trên cao khoảng trời yêu", "highlighted": false },
+        { "time": 260, "text": "mà em lỡ dành cho anh giờ mây đen", "highlighted": false },
+        { "time": 265, "text": "quyện thành bão giông tố đang dần kéo đến", "highlighted": false },
+        { "time": 270, "text": "Chồi non háo hức đang đợi mưa rất giống em ngày xưa ", "highlighted": false },
+        { "time": 275, "text": "Mưa trôi để lại ngây thơ trong giấc mơ", "highlighted": false },
+        { "time": 280, "text": "Buốt lạnh...", "highlighted": false }
+      ]
     },
 
     {
@@ -1438,7 +2074,98 @@
       "img": "assets/img/trungquan.jpeg",
       "url": "assets/music/daumua.mp3",
       "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
-      "time": "4:03"
+      "time": "4:03",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "",
+          "highlighted": false
+        },
+        { "time": 30, "text": "", "highlighted": false },
+        { "time": 35, "text": "", "highlighted": false },
+        { "time": 40, "text": "", "highlighted": false },
+        { "time": 45, "text": "", "highlighted": false },
+        { "time": 55, "text": "", "highlighted": false },
+        { "time": 55, "text": "", "highlighted": false },
+        { "time": 60, "text": "", "highlighted": false },
+        { "time": 65, "text": "", "highlighted": false },
+        { "time": 70, "text": "", "highlighted": false },
+        { "time": 75, "text": "", "highlighted": false },
+        { "time": 80, "text": "", "highlighted": false },
+        { "time": 85, "text": "", "highlighted": false },
+        { "time": 90, "text": "", "highlighted": false },
+        { "time": 95, "text": "", "highlighted": false },
+        { "time": 100, "text": "", "highlighted": false },
+        { "time": 105, "text": "", "highlighted": false },
+        { "time": 110, "text": "", "highlighted": false },
+        { "time": 115, "text": "", "highlighted": false },
+        { "time": 120, "text": "", "highlighted": false },
+        { "time": 125, "text": "", "highlighted": false },
+        { "time": 130, "text": "", "highlighted": false },
+        { "time": 135, "text": "", "highlighted": false },
+        { "time": 140, "text": "", "highlighted": false },
+        { "time": 145, "text": "", "highlighted": false },
+        { "time": 150, "text": "", "highlighted": false },
+        { "time": 155, "text": "", "highlighted": false },
+        { "time": 160, "text": "", "highlighted": false },
+        { "time": 165, "text": "", "highlighted": false },
+        { "time": 170, "text": "", "highlighted": false },
+        { "time": 175, "text": "", "highlighted": false },
+        { "time": 180, "text": "", "highlighted": false },
+        { "time": 185, "text": "", "highlighted": false },
+        { "time": 190, "text": "", "highlighted": false },
+        { "time": 195, "text": "", "highlighted": false },
+        { "time": 200, "text": "", "highlighted": false },
+        { "time": 205, "text": "", "highlighted": false },
+        { "time": 210, "text": "", "highlighted": false },
+        { "time": 215, "text": "", "highlighted": false },
+        { "time": 220, "text": "", "highlighted": false },
+        { "time": 225, "text": "", "highlighted": false },
+        { "time": 230, "text": "", "highlighted": false },
+        { "time": 235, "text": "", "highlighted": false },
+        { "time": 240, "text": "", "highlighted": false },
+        { "time": 245, "text": "", "highlighted": false },
+        { "time": 250, "text": "", "highlighted": false },
+        { "time": 255, "text": "", "highlighted": false },
+        { "time": 260, "text": "", "highlighted": false },
+        { "time": 265, "text": "", "highlighted": false },
+        { "time": 270, "text": "", "highlighted": false },
+        { "time": 275, "text": "", "highlighted": false },
+        { "time": 280, "text": "", "highlighted": false },
+        { "time": 285, "text": "", "highlighted": false },
+        { "time": 290, "text": "", "highlighted": false },
+        { "time": 295, "text": "", "highlighted": false },
+        { "time": 300, "text": "", "highlighted": false },
+        { "time": 305, "text": "", "highlighted": false }
+      ]
     }
   ],
 
@@ -1500,7 +2227,7 @@
     }
   ],
 
-  "list1":
+ "list1":
   [
     {
       "id": 1,
@@ -1510,8 +2237,50 @@
       "img": "assets/img/gaidocthan.jpeg",
       "url": "assets/music/gaidocthan.mp3",
       "title": "Tlinh là rapper trẻ năng động và tài giỏi chỉ trong vòng một thời gian ngắn gia nhập rap, Tlinh đã có bước tiến đáng kinh ngạc. Cô có cách gieo vần, chơi chữ khá thông minh, rap hay hát cô điều thể hiện rất mượt và cuốn hút.",
-      "time": "5:43"
+      "time": "5:43",
+        "timeplay": [
+   
+
+    {
+      "time": 20,
+      "text": "Tối thứ 6, chị em đi chơi Váy xúng xính, make up mơi mơi Perfume on, son đỏ bờ môi",
+
+      "highlighted": false
     },
+    {
+      "time": 25,
+      "text": "Single ladies cứ thế gọi mời Đi vào bar, lấp lánh kiêu sa",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Tequilla, lại tô hồng má Ai cũng ngước nhìn khi đi qua", "highlighted": false },
+    { "time": 35, "text": "Single ladies we going hard Ooh la ooh la la", "highlighted": false },
+    { "time": 40, "text": "Nhạc hay sao không lắc yeah", "highlighted": false },
+    { "time": 45, "text": "Ooh la ooh la la Đang biêng vịn cho chắc vào Ooh la ooh la la", "highlighted": false },
+    { "time": 55, "text": "Chị em trông hơi gắt nhề Ooh la ooh la la", "highlighted": false },
+    { "time": 55, "text": "And the drinks are on us yeah Độc toàn cả thân đê", "highlighted": false },
+    { "time": 60, "text": "Don't need nobody yeah yeah yeah Tiệc tùng và nâng ly yeah yeah yeah", "highlighted": false },
+    { "time": 65, "text": "All the single ladies party yeah Độc toàn cả thân đê yeah yeah yeah on't need nobody yeah yeah yeah", "highlighted": false },
+    { "time": 70, "text": "Tiệc tùng và nâng ly hooooo ", "highlighted": false },
+    { "time": 75, "text": "All the single ladies party yeah", "highlighted": false },
+    { "time": 85, "text": "You can come grip on my waist And I might let you get a taste", "highlighted": false },
+    { "time": 90, "text": "But you won't come far of a way Đừng nghĩ em non tay lại táy máy yeah", "highlighted": false },
+    { "time": 95, "text": "Anh chàng bàn bên lại qua mời nước Nhẹ nhàng cầm tay mời em cùng bước", "highlighted": false },
+    { "time": 100, "text": "Tận dụng men say để em lả lướt Ooh ooh la la ", "highlighted": false },
+    { "time": 105, "text": "Ooh la ooh la la Nhạc hay sao không lắc yeah", "highlighted": false },
+    { "time": 110, "text": "Ooh la ooh la la We make dem go nuts yeah", "highlighted": false },
+    { "time": 115, "text": "Ooh la ooh la la We're just having fun yeah", "highlighted": false },
+    { "time": 120, "text": "Ooh la ooh la la And the drinks are on us yeah", "highlighted": false },
+    { "time": 125, "text": "Độc toàn cả thân đê yeah yeah yeah Don't need nobody yeah yeah yeah Tiệc tùng và nâng ly yeah yeah yeah", "highlighted": false },
+    { "time": 130, "text": "All the single ladies party yeah Độc toàn cả thân đê yeah yeah yeah", "highlighted": false },
+    { "time": 135, "text": "Don't need nobody yeah yeah yeah Tiệc tùng và nâng ly hooooo", "highlighted": false },
+    { "time": 140, "text": "All the single ladies party yeah", "highlighted": false },
+    { "time": 155, "text": "All the single ladies party", "highlighted": false },
+    { "time": 160, "text": "All the single ladies party", "highlighted": false },
+    { "time": 170, "text": "And the drinks are on us, yeah The drinks are on us, yeah", "highlighted": false },
+    { "time": 175, "text": "And the drinks are on us, yeah", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 2,
@@ -1521,8 +2290,64 @@
       "img": "assets/img/missingu.jpeg",
       "url": "assets/music/missingyou.mp3",
       "title": "Ca khúc mang âm hưởng Pop nhẹ nhàng, với ca từ lãng mạn, đầy chất thơ, được thể hiện qua giọng ca mộc mạc, giàu chất tự sự của Hà Anh Tuấn.",
-      "time": "6:10"
+      "time": "6:10",
+        "timeplay": [
+   
+    {
+      "time": 15,
+      "text": "Chẳng biết anh đang thế nào",
+      "highlighted": false
     },
+
+    {
+      "time": 20,
+      "text": "Hôm nay của anh ra sao Chẳng biết anh đang nghĩ gì Có nghĩ về em không",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "Có lúc em tự hỏi mình Anh có thật sự yêu em",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Như lời anh nói Hay tan thành mây khói", "highlighted": false },
+    { "time": 35, "text": "Em sợ anh đôi khi vô tâm quên mất em", "highlighted": false },
+    { "time": 40, "text": "Đôi khi quên nhung nhớ về em Còn em", "highlighted": false },
+    { "time": 45, "text": "Em thấy nhớ anh, em Em thấy rất nhớ anh thôi", "highlighted": false },
+    { "time": 55, "text": "Ngày đêm cứ loay hoay Trong suy nghĩ về anh", "highlighted": false },
+    { "time": 55, "text": "Anh có nhớ em không? Anh có thấy nhớ em không?", "highlighted": false },
+    { "time": 60, "text": "Riêng em thì cứ mong chờ phút giây được nắm tay người", "highlighted": false },
+    { "time": 65, "text": "Một tin nhắn vu vơ cũng làm tim em thẫn thờ", "highlighted": false },
+    { "time": 70, "text": "Lục tung những cơn mơ Toàn hình bóng của anh", "highlighted": false },
+    { "time": 75, "text": "Chỉ vì em quá yêu anh Hỡi anh Yêu anh", "highlighted": false },
+    { "time": 90, "text": "Có lúc em cứ thẫn thờ", "highlighted": false },
+    { "time": 95, "text": "Đôi khi giận hờn vu vơ Có lúc em lại e sợ", "highlighted": false },
+    { "time": 100, "text": "Đời không đẹp như mơ Có lúc em tự hỏi mình", "highlighted": false },
+    { "time": 105, "text": "Anh có thực sự yêu em Như lời anh nói Hay tan thành mây khói", "highlighted": false },
+    { "time": 110, "text": "Em sợ anh đôi khi vô tâm quên mất em", "highlighted": false },
+    { "time": 115, "text": "Đôi khi quên nhung nhớ về em Còn em", "highlighted": false },
+    { "time": 120, "text": "Em thấy nhớ anh, em", "highlighted": false },
+    { "time": 125, "text": "Em thấy rất nhớ anh thôi Ngày đêm cứ loay hoay Trong suy nghĩ về anh", "highlighted": false },
+    { "time": 130, "text": "Anh có nhớ em không? Anh có thấy nhớ em không?", "highlighted": false },
+    { "time": 135, "text": "Riêng em thì cứ mong chờ phút giây được nắm tay người", "highlighted": false },
+    { "time": 140, "text": "Một tin nhắn vu vơ Cũng làm tim em thẫn thờ", "highlighted": false },
+    { "time": 145, "text": "Lục tung những cơn mơ Toàn hình bóng của anh", "highlighted": false },
+    { "time": 150, "text": "Vì em quá yêu anh Chỉ vì em quá yêu anh Hỡi anh Yêu anh", "highlighted": false },
+    { "time": 155, "text": "Em không còn mơ", "highlighted": false },
+    { "time": 160, "text": "Về một người nào ngoài anh Chỉ cần một người là anh", "highlighted": false },
+    { "time": 165, "text": "Trái tim em đã lấp đầy Và anh không được mơ", "highlighted": false },
+    { "time": 170, "text": "Về một người nào ngoài em Chỉ được gần một mình em", "highlighted": false },
+    { "time": 175, "text": "Đừng đi đâu xa Em thấy nhớ anh, em", "highlighted": false },
+    { "time": 180, "text": "Em thấy rất nhớ anh thôi Ngày đêm cứ loay hoay Trong suy nghĩ về anh", "highlighted": false },
+    { "time": 185, "text": "Anh có nhớ em không? Anh có thấy nhớ em không?", "highlighted": false },
+    { "time": 190, "text": "Riêng em thì cứ mong chờ phút giây được nắm tay người", "highlighted": false },
+    { "time": 195, "text": "Một tin nhắn vu vơ Cũng làm tim em thẫn thờ", "highlighted": false },
+    { "time": 200, "text": "Lục tung những cơn mơ Toàn hình bóng của anh", "highlighted": false },
+    { "time": 205, "text": "Vì em quá yêu anh Chỉ vì em quá yêu anh Hỡi anh Yêu anh", "highlighted": false },
+    { "time": 210, "text": "Em cũng nhớ anh", "highlighted": false }
+  ]
+    }
+    ,
     
     {
       "id": 3,
@@ -1532,8 +2357,51 @@
       "img": "assets/img/thichemhoinhieu.jpeg",
       "url": "assets/music/thichemhoinhieu.mp3",
       "title": "Sau tất cả mang lại sự ấm áp, ngọt ngào của đôi tình nhân. Trải qua nhiều cung bậc cảm xúc trái chiều, họ lựa chọn cách quay về bên nhau bởi khó khăn cũng chỉ là thử thách. Sự văn minh trong ca từ cùng với chất ballad du dương góp phần làm nên thành công cho bản hit này.",
-      "time": "3:54"
+      "time": "3:54",
+        "timeplay": [
+    
+
+    {
+      "time": 20,
+      "text": "Biết là mình thích nhau Còn chuyện xa hơn thôi để tính sau",
+
+      "highlighted": false
     },
+    {
+      "time": 25,
+      "text": "Họ vờn nhau thôi không đúng đâu Dân chơi thì chơi là phải trúng Còn anh chỉ muốn chậm thôi ",
+      "highlighted": false
+    },
+    { "time": 30, "text": "không cần quá liều oh anh chưa muốn đâm đầu vậy đâu", "highlighted": false },
+    { "time": 35, "text": "Anh chưa thiết tha nghĩ tới chuyện sau nàyDù ba mẹ chờ mong", "highlighted": false },
+    { "time": 40, "text": "em biết không? Họ muốn có cháu bồng  ", "highlighted": false },
+    { "time": 45, "text": "Chỉ cần ngồi với em chút thôi", "highlighted": false },
+    { "time": 55, "text": "Được không? Nhìn vào đôi mắt em", "highlighted": false },
+    { "time": 55, "text": "Thấy sao một thế giới màu hồng Dù môi đang cách nhau, cách nhau", "highlighted": false },
+    { "time": 60, "text": "Một chút Nhưng mà vì", "highlighted": false },
+    { "time": 65, "text": "anh chưa muốn phiêu, muốn phiêu Dù thích em hơi nhiều", "highlighted": false },
+    { "time": 70, "text": "Alo Baby anh đang đâu thế?", "highlighted": false },
+    { "time": 75, "text": "Anh ngồi sofa ở Tống Duy Tân Ngay cạnh Puku ok Với mấy đồng bọn nó rủ rê", "highlighted": false },
+    { "time": 80, "text": "Qua nhà thằng Minh Khai Không Thật Cơ mà có hẹn với em anh bảo tối nay tao đi sinh nhật Thế nhá", "highlighted": false },
+    { "time": 85, "text": "Nói thật anh đang bối rối khi nghĩ về ai Công việc dang dở chắc anh", "highlighted": false },
+    { "time": 90, "text": "phải chia ông Hiếu làm hai (Hiếu Thứ Hai) Thích em hơi nhiều nên anh phải nghĩ sao nói vừa tai", "highlighted": false },
+    { "time": 95, "text": "Tại vì most of the time em ở trong tâm trí anh hết thời gian Chỉ cần ngồi với em chút thôi", "highlighted": false },
+    { "time": 100, "text": "Được không?", "highlighted": false },
+    { "time": 105, "text": "Nhìn vào đôi mắt em Thấy sao một thế giới màu hồng", "highlighted": false },
+    { "time": 110, "text": "Dù môi đang cách nhau, cách nhau Một chút", "highlighted": false },
+    { "time": 115, "text": "Nhưng mà vì anh chưa muốn phiêu, muốn phiêu", "highlighted": false },
+    { "time": 120, "text": "Dù thích em hơi nhiều", "highlighted": false },
+    { "time": 125, "text": "Chỉ cần ngồi với em chút thôi Được không? ", "highlighted": false },
+    { "time": 130, "text": "hìn vào đôi mắt em", "highlighted": false },
+    { "time": 135, "text": "Thấy sao một thế giới màu hồng Dù môi đang cách nhau, cách nhau", "highlighted": false },
+    { "time": 140, "text": "Một chút", "highlighted": false },
+    { "time": 145, "text": "Nhưng mà vì anh chưa muốn phiêu, muốn phiêu", "highlighted": false },
+    { "time": 150, "text": "Dù thích em hơi nhiều", "highlighted": false },
+    { "time": 155, "text": "Baby anh muốn thấy em trong tương lai gần", "highlighted": false },
+    { "time": 160, "text": "Baby anh muốn thấy em trong tương lai gần", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 4,
@@ -1543,8 +2411,66 @@
       "img": "assets/img/emla.jpeg",
       "url": "assets/music/emla.mp3",
       "title": "Nguyễn Việt Hoàng, thường được biết đến với nghệ danh Mono, là một nam ca sĩ kiêm sáng tác nhạc người Việt Nam, sinh ra và lớn lên tại tỉnh Thái Bình. Mono là em trai của ca, nhạc sĩ Sơn Tùng M-TP.",
-      "time": "4:52"
+      "time": "4:52",
+        "timeplay": [
+   
+    {
+      "time": 10,
+      "text": "Yeah Oh oh Muốn mãi ở bên em",
+      "highlighted": false
     },
+    {
+      "time": 15,
+      "text": "đôi ta chẳng xa rời yah",
+      "highlighted": false
+    },
+
+    {
+      "time": 20,
+      "text": "Những góc phố nơi đôi ta từng qua",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "Sẽ vẫn mãi nơi đây không rời xa",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Liệu bình minh sớm mai", "highlighted": false },
+    { "time": 35, "text": "ánh mặt trời lên có em kề bên cùng ấm êm", "highlighted": false },
+    { "time": 40, "text": "Cứ nghĩ sau này", "highlighted": false },
+    { "time": 45, "text": "em và anh sẽ yên bình đến già", "highlighted": false },
+    { "time": 55, "text": "Kiếp sống vô thường", "highlighted": false },
+    { "time": 55, "text": "em đã hoá tro tàn eh woh", "highlighted": false },
+    { "time": 65, "text": "Em nơi kia mỉm cười đầy thiết tha  Anh nơi đây ngồi đàn và hát ca", "highlighted": false },
+    { "time": 70, "text": "Ngay gần mà đâu có xa Linh hồn mình thuộc về nhau", "highlighted": false },
+    { "time": 75, "text": "Đôi tay anh luôn giữ em chặt dù cho cơn giông đã cuốn em đi ", "highlighted": false },
+    { "time": 80, "text": "woh Uh", "highlighted": false },
+    { "time": 85, "text": "em là tia tia tia nắng trong anh", "highlighted": false },
+    { "time": 90, "text": "Uh em là tiên tiên tiên nữ trong anh", "highlighted": false },
+    { "time": 95, "text": "Dẫu nắng hay mưa ta vẫn mãi như xưa", "highlighted": false },
+    { "time": 100, "text": "Uh woh uh woh yeah", "highlighted": false },
+    { "time": 105, "text": "Baby em là bông hoa xinh tươi ", "highlighted": false },
+    { "time": 110, "text": " lung linh giữa trời bao la Đôi môi êm dịu ngọt ngào như đoá hồng", "highlighted": false },
+    { "time": 115, "text": "Trao cho anh đi một nụ hôn thắm nồng yeah lá thư yêu thương ngập tràn", "highlighted": false },
+    { "time": 120, "text": "Nhờ gió mây mang qua cho nàng Gửi đến nơi mênh mông muôn ngàn", "highlighted": false },
+    { "time": 125, "text": "Tình mình tình mình (tình mình đẹp như trong giấc mơ) Em nơi kia mỉm cười đầy thiết tha", "highlighted": false },
+    { "time": 130, "text": "Anh nơi đây ngồi đàn và hát ca", "highlighted": false },
+    { "time": 135, "text": "Ngay gần mà đâu có xa Linh hồn mình thuộc về nhau", "highlighted": false },
+    { "time": 140, "text": "Đôi tay anh luôn giữ em chặt Dù cho cơn giông đã cuốn em đi ", "highlighted": false },
+    { "time": 145, "text": "uh woh", "highlighted": false },
+    { "time": 150, "text": "Uh em là tia tia tia nắng trong anh", "highlighted": false },
+    { "time": 155, "text": "Uh em là tiên tiên tiên nữ trong anh", "highlighted": false },
+    { "time": 160, "text": "Dẫu nắng hay mưa ta vẫn mãi như xưa", "highlighted": false },
+    { "time": 165, "text": "Uh woh uh woh", "highlighted": false },
+    { "time": 170, "text": "Uh em là tia tia tia nắng trong anh", "highlighted": false },
+    { "time": 175, "text": "Uh em là tiên tiên tiên nữ trong anh", "highlighted": false },
+    { "time": 180, "text": "Dẫu nắng hay mưa ta sẽ vẫn mãi như xưa", "highlighted": false },
+    { "time": 185, "text": "Uh woh uh woh oh yeah", "highlighted": false },
+    { "time": 190, "text": "", "highlighted": false }
+  ]
+    }
+    ,
 
     
     {
@@ -1555,8 +2481,63 @@
       "img": "assets/img/embohutthuocchua.jpeg",
       "url": "assets/music/embohutthuocchua.mp3",
       "title": "Nhạc phẩm có cách phối khí âm hưởng dân ca, mở đầu bằng tiếng sáo. Giai điệu chậm rãi, sâu lắng của ca khúc hài hòa với chất giọng của Thùy Chi.",
-      "time": "4:42"
+      "time": "4:42",
+        "timeplay": [
+    
+    {
+      "time": 10,
+      "text": "Em lâu nay ra sao? Đang yêu ai quen ai?",
+      "highlighted": false
     },
+    {
+      "time": 15,
+      "text": "Anh nhìn em trông gầy hơn trước đấy",
+      "highlighted": false
+    },
+
+    {
+      "time": 20,
+      "text": "Anh cứ thắc mắc mãi Sao nghe câu chia tay",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "Em bình tâm như người đi trên dây Bởi vì anh luôn nghĩ ",
+      "highlighted": false
+    },
+    { "time": 30, "text": "em ở đó, luôn ở đó", "highlighted": false },
+    { "time": 35, "text": "Mà trong khi em biết ", "highlighted": false },
+    { "time": 40, "text": "anh thì muốn được tự do", "highlighted": false },
+    { "time": 45, "text": "Đến khi nào anh mới bớt", "highlighted": false },
+    { "time": 55, "text": "suy nghĩ nhở?", "highlighted": false },
+    { "time": 55, "text": "Đến khi nào em mới biết", "highlighted": false },
+    { "time": 60, "text": " bỏ thuốc nhở?", "highlighted": false },
+    { "time": 65, "text": "Người mà em yêu em còn chia tay được theo anh thuốc lá đã là gì?", "highlighted": false },
+    { "time": 75, "text": "Thì chẳng qua em đang chưa muốn thôi anh, anh đâu cần quan tâm làm gì?", "highlighted": false },
+    { "time": 80, "text": "Đừng bận lòng rồi thức khuya", "highlighted": false },
+    { "time": 85, "text": "Chỉ là vài dòng nhắn tin Cần gì lạnh lùng như thế?", "highlighted": false },
+    { "time": 90, "text": "Vài dòng vu vơ hay thật ra", "highlighted": false },
+    { "time": 95, "text": "anh đang cô đơn nên nhắn tin giờ này?", "highlighted": false },
+    { "time": 100, "text": "Đúng anh đang cô đơn", "highlighted": false },
+    { "time": 105, "text": "Biết bao đêm anh mơ, mơ về em nghĩa là gì hả em?", "highlighted": false },
+    { "time": 110, "text": "Giấc mơ hay lặp lại Tối đen con đường về, ", "highlighted": false },
+    { "time": 115, "text": "anh và em đang cười đùa trên xe", "highlighted": false },
+    { "time": 120, "text": "Thực ra anh đang nhớ em hay chỉ nhớ một cảm giác?", "highlighted": false },
+    { "time": 130, "text": "Tại sao anh yêu biết bao người mà vẫn không hiểu tình yêu?", "highlighted": false },
+    { "time": 135, "text": "Đến khi nào anh mới bớt", "highlighted": false },
+    { "time": 140, "text": "suy nghĩ nhở?", "highlighted": false },
+    { "time": 145, "text": "Đến khi nào em mới biết", "highlighted": false },
+    { "time": 150, "text": "bỏ thuốc nhở?", "highlighted": false },
+    { "time": 155, "text": "Người mà em yêu em còn chia tay", "highlighted": false },
+    { "time": 160, "text": "được theo anh thuốc lá đã là gì?", "highlighted": false },
+    { "time": 165, "text": "Thì chẳng qua em đang chưa muốn thôi anh", "highlighted": false },
+    { "time": 170, "text": "anh đâu cần quan tâm làm gì", "highlighted": false },
+    { "time": 175, "text": "Điều mình cần phải nói ra Một sự thật là chúng ta Chẳng còn gì ngoài quá khứ", "highlighted": false },
+    { "time": 180, "text": "Ngày còn yêu sao không lo lắng cho nhau, chia tay rồi quan tâm làm gì?", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 6,
@@ -1566,8 +2547,55 @@
       "img": "assets/img/boxibo.jpeg",
       "url": "assets/music/boxibo.mp3",
       "title": "Hoàng Thùy Linh cho ra mắt đĩa đơn Gieo quẻ trên các nền tảng nghe nhạc trực tuyến tại Việt Nam.[14] Sau vài ngày phát hành, bài hát đạt Top 1 Trending trên YouTube,",
-      "time": "4:42"
+      "time": "4:42",
+        "timeplay": [
+   
+    {
+      "time": 15,
+      "text": "Trời trong xanh nhưng thấy anh vẫn cau mày Thật lòng em chắc có lẽ nên cầu may",
+      "highlighted": false
     },
+
+    {
+      "time": 20,
+      "text": "Làm cho em cứ nghĩ suy đến hao gầy Cũng là do tính anh hay gào do tính anh hay gào",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "Từng ngày qua cuộc chiến anh đang khơi mào Hẳn là anh thắc mắc em sẽ làm sao",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Vậy thì thôi bữa tối nay em khao mời", "highlighted": false },
+    { "time": 35, "text": "Rồi ngày mai em buông lơi cho anh bơi luôn ah yeah yeah", "highlighted": false },
+    { "time": 40, "text": "Anh nói anh hiểu em", "highlighted": false },
+    { "time": 45, "text": "cứ như một chuyên gia à Yah yah yah anh là chúa tể mà", "highlighted": false },
+    { "time": 55, "text": "Anh chốt đơn người anh kết hôn là em à Nah nah nah em không chơi", "highlighted": false },
+    { "time": 55, "text": "em không chơi thế nhá Huh hey", "highlighted": false },
+    { "time": 60, "text": "Có lẽ anh chỉ yêu mỗi anh và mình anh Huh hey", "highlighted": false },
+    { "time": 65, "text": "Anh nói ra toàn sách giáo khoa em thường đọc rồi Trời trong xanh nhưng thấy anh vẫn cau mày", "highlighted": false },
+    { "time": 70, "text": "Thật lòng em chắc có lẽ nên cầu may Làm cho em cứ nghĩ suy đến hao gầy", "highlighted": false },
+    { "time": 75, "text": "Cũng là do tính anh hay gào do tính anh hay gào", "highlighted": false },
+    { "time": 80, "text": "Từng ngày qua cuộc chiến anh đang khơi mào Hẳn là anh thắc mắc em sẽ làm sao", "highlighted": false },
+    { "time": 85, "text": "Vậy thì thôi bữa tối nay em khao mời Rồi ngày mai em buông lơi", "highlighted": false },
+    { "time": 90, "text": "cho anh bơi luôn ah yeah yeah Vậy thôi bo xì bo bo xì bo thôi", "highlighted": false },
+    { "time": 95, "text": "Nghỉ chơi bo xì luôn nghỉ chơi Đừng cò quay khiến em hụt hơi", "highlighted": false },
+    { "time": 100, "text": "Đừng đừng trèo cao hoá ra lại rơi Đừng dừng xe trước ngay nhà em Đừng đừng tìm em mỗi khi say mèm (yah) Nhà đầu tư này đến từ đâu (where)", "highlighted": false },
+    { "time": 105, "text": "Đọc lệnh như thế sao mà quay đầu Hiểu em tất cả toàn là hiểu sai Cộng trừ nhân giỏi trước khi hiểu ai", "highlighted": false },
+    { "time": 110, "text": "Vậy thôi bo xì bo bo xì bo thôi Nghỉ chơi bo xì luôn nghỉ chơi", "highlighted": false },
+    { "time": 115, "text": "Huh hey", "highlighted": false },
+    { "time": 120, "text": "Có lẽ anh chỉ yêu mỗi anh và mình anh thôi Huh hey", "highlighted": false },
+    { "time": 125, "text": "Anh nói ra toàn sách giáo khoa em thường đọc rồi Trời trong xanh nhưng thấy anh vẫn cau mày", "highlighted": false },
+    { "time": 130, "text": "Thật lòng em chắc có lẽ nên cầu may Làm cho em cứ nghĩ suy đến hao gầy", "highlighted": false },
+    { "time": 135, "text": "Cũng là do tính anh hay gào do tính anh hay gào", "highlighted": false },
+    { "time": 140, "text": "Từng ngày qua cuộc chiến anh đang khơi mào Hẳn là anh thắc mắc em sẽ làm sao", "highlighted": false },
+    { "time": 145, "text": "Vậy thì thôi bữa tối nay em khao mời Rồi ngày mai em buông lơi cho anh bơi luôn ah yeah", "highlighted": false },
+    { "time": 155, "text": "Trời trong xanh nhưng thấy anh vẫn cau mày", "highlighted": false },
+    { "time": 160, "text": "Thật lòng em chắc có lẽ nên cầu may", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 7,
@@ -1577,8 +2605,58 @@
       "img": "assets/img/seetinh.jpeg",
       "url": "assets/music/seetinh.mp3",
       "title": "Hoàng Thùy Linh cho ra mắt đĩa đơn Gieo quẻ trên các nền tảng nghe nhạc trực tuyến tại Việt Nam.[14] Sau vài ngày phát hành, bài hát đạt Top 1 Trending trên YouTube,",
-      "time": "3:32"
+      "time": "3:32",
+        "timeplay": [
+    
+    {
+      "time": 10,
+      "text": "Uây uây uây uây Sao mới gặp lần đầu mà đầu mình quay quay",
+      "highlighted": false
     },
+    {
+      "time": 15,
+      "text": "Anh ơi anh à Anh bỏ bùa gì mà lại làm em yêu vậy",
+      "highlighted": false
+    },
+
+    {
+      "time": 20,
+      "text": "Bae bae bae bae Em nói từ đầu baby can you stay",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "Mai đi coi ngày Xem cưới ngày nào thì nhà mình đông con vậy",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Nếu như một câu nói có thể khiến anh vui", "highlighted": false },
+    { "time": 35, "text": "Sẽ suốt ngày luôn nói không ngừng để anh cười", "highlighted": false },
+    { "time": 40, "text": "Nếu em làm như thế trông em có hâm không ", "highlighted": false },
+    { "time": 45, "text": "Đem ngay vô nhà thương đem ngay vô nhà thương Đem ngay vô nhà anh để thương", "highlighted": false },
+    { "time": 55, "text": "Giây phút em gặp anh là em biết em see tình ", "highlighted": false },
+    { "time": 55, "text": "Tình tình tình tang tang tính tang Tình tình tình tang tang tang", "highlighted": false },
+    { "time": 60, "text": "Giây phút em gặp anh là em biết em see tình", "highlighted": false },
+    { "time": 65, "text": "Tình đừng tình toan toan tính toan Tình mình tình tang tang tang tình", "highlighted": false },
+    { "time": 75, "text": "Anh tính sao giờ đây anh tính sao", "highlighted": false },
+    { "time": 80, "text": "Anh tính sao giờ đây anh tính sao", "highlighted": false },
+    { "time": 85, "text": "Tới đâu thì tới tới đâu thì tới Em cũng chẳng biết tới đâu ", "highlighted": false },
+    { "time": 90, "text": "Nếu yêu là khó không yêu cũng khó Em cũng chẳng biết thế nào ", "highlighted": false },
+    { "time": 95, "text": "Hôm nay tia cực tím xuyên qua trời đêm (nhưng) Anh như tia cực hiếm xuyên ngay vào tim", "highlighted": false },
+    { "time": 100, "text": "Ấy ấy ấy chết em rồi Ấy ấy chết thật thôi", "highlighted": false },
+    { "time": 105, "text": "Nếu như một câu nói có thể khiến anh vui", "highlighted": false },
+    { "time": 110, "text": "Nói thêm một câu nữa có khi khiến anh buồn", "highlighted": false },
+    { "time": 115, "text": "Nếu em làm như thế trông em có hâm không ", "highlighted": false },
+    { "time": 120, "text": "Đem ngay vô nhà thương đem ngay vô nhà thương Đem ngay vô nhà anh để thương", "highlighted": false },
+    { "time": 125, "text": "Giây phút em gặp anh là em biết em see tình", "highlighted": false },
+    { "time": 130, "text": "Tình tình tình tang tang tính tang Tình tình tình tang tang tang", "highlighted": false },
+    { "time": 135, "text": "Giây phút em gặp anh là em biết em see tình", "highlighted": false },
+    { "time": 140, "text": "Tình đừng tình toan toan tính toan Tình mình tình tang tang tang tình", "highlighted": false },
+    { "time": 150, "text": "Anh tính sao giờ đây anh tính sao", "highlighted": false },
+    { "time": 160, "text": "Anh tính sao giờ đây anh tính sao", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 8,
@@ -1588,8 +2666,67 @@
       "img": "assets/img/kecapgapbagia.jpeg",
       "url": "assets/music/kecapgapbagia.mp3",
       "title": "Hoàng Thùy Linh cho ra mắt đĩa đơn Gieo quẻ trên các nền tảng nghe nhạc trực tuyến tại Việt Nam.[14] Sau vài ngày phát hành, bài hát đạt Top 1 Trending trên YouTube,",
-      "time": "4:49"
+      "time": "4:49",
+        "timeplay": [
+    
+    {
+      "time": 15,
+      "text": "Anh viết đôi bài tình ca Cùng đôi mắt long lanh",
+      "highlighted": false
     },
+
+    {
+      "time": 20,
+      "text": "Cầm guitar hát vang la là",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "Anh biết sau bài tình ca Là bao cô đắm say",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Mà chuyện đâu giản đơn thế này Có phải anh ", "highlighted": false },
+    { "time": 35, "text": "đang trêu đùa em đấy không? Thả thính khiến bao nhiêu cô cùng rung động", "highlighted": false },
+    { "time": 40, "text": "Chỉ muốn em say anh vậy thôi đúng không?", "highlighted": false },
+    { "time": 45, "text": "Sự thật đây nhiều khi làm anh sẽ mất lòng", "highlighted": false },
+    { "time": 55, "text": "Đừng cứ im lặng rồi đi anh ơi anh ơi", "highlighted": false },
+    { "time": 55, "text": "Tình em chẳng như trò chơi", "highlighted": false },
+    { "time": 60, "text": "Mà anh đến đây lả lơi Vì chính em sẽ làm anh chơi vơi chơi vơi", "highlighted": false },
+    { "time": 65, "text": "Trò chơi hết rồi Trò chơi hết rồi", "highlighted": false },
+    { "time": 70, "text": "Kẻ đi gieo tương tư giờ thành kẻ đi ôm tương tư", "highlighted": false },
+    { "time": 75, "text": " ngược lại, ngược lại", "highlighted": false },
+    { "time": 80, "text": "Kẻ đi gieo tương tư giờ thành kẻ đi ôm tương", "highlighted": false },
+    { "time": 85, "text": "ngược lại, ngược lại", "highlighted": false },
+    { "time": 90, "text": "Em lúc nào cũng kiêu sa (kiêu lắm) Y như lời người ta nói (không sai)", "highlighted": false },
+    { "time": 95, "text": "Nhan sắc là drama queen Nên quanh em đầy người soi mói", "highlighted": false },
+    { "time": 100, "text": "Nhìn kìa đôi mi cong Anh cần một người đi song song", "highlighted": false },
+    { "time": 105, "text": "Tim anh đây em cứ việc lấy đi Giờ, ngoài em anh không còn thấy gì Hay vì, em vội, luôn khoe sắc", "highlighted": false },
+    { "time": 110, "text": "Huyền bí như một đoá quỳnh Tiếp cận được em là cả một quá trình", "highlighted": false },
+    { "time": 115, "text": "Knock! Knock! Em ơi, đừng tự khoá mình  Vì em, kẻ điên, anh nguyện hoá thành woo", "highlighted": false },
+    { "time": 120, "text": "All black như em chưa từng yêu màu trắng Cafe của anh cũng thường là đen và nâu Nếu tim của anh là mục tiêu thì em đừng bắn", "highlighted": false },
+    { "time": 125, "text": "Động vào anh làm gì không dễ để quên được đâu Nói anh nghe nào", "highlighted": false },
+    { "time": 130, "text": "Có phải anh đang trêu đùa em đấy không? Thả thính khiến bao nhiêu cô ", "highlighted": false },
+    { "time": 135, "text": "cùng rung động", "highlighted": false },
+    { "time": 140, "text": "Chỉ muốn em say anh vậy thôi đúng không? Sự thật đây nhiều khi làm anh sẽ mất lòng", "highlighted": false },
+    { "time": 145, "text": "Đừng cứ im lặng rồi đi anh ơi, anh ơi Tình em chẳng như trò chơi", "highlighted": false },
+    { "time": 150, "text": "Mà anh đến đây lả lơi Vì chính em sẽ làm anh chơi vơi chơi vơi", "highlighted": false },
+    { "time": 155, "text": "Trò chơi hết rồi Trò chơi hết rồi", "highlighted": false },
+    { "time": 160, "text": "Ông bà ta nói đâu có sai đâu anh à!", "highlighted": false },
+    { "time": 165, "text": "Kẻ cắp sẽ gặp bà già, bà già sẽ cho biết là", "highlighted": false },
+    { "time": 170, "text": "Ông bà ta nói đâu có sai đâu anh à!", "highlighted": false },
+    { "time": 175, "text": "Đời anh đi gieo tương tư rồi anh thấy là", "highlighted": false },
+    { "time": 180, "text": "Kẻ đi gieo tương tư giờ thành kẻ đi ôm tương tư ", "highlighted": false },
+    { "time": 185, "text": "ngược lại, ngược lại", "highlighted": false },
+    { "time": 190, "text": "Môi này cho anh mơ Straight-up không văn thơ", "highlighted": false },
+    { "time": 195, "text": "Em là vực sâu oh Anh đã rơi lúc nào rồi chẳng nhớ", "highlighted": false },
+    { "time": 200, "text": "Tin đi, anh không điêu Dù đã dặn mình không thương, không yêu", "highlighted": false },
+    { "time": 205, "text": "Giờ này, anh là người ôm tương tư Tại vì anh, hay do em hư?", "highlighted": false },
+    { "time": 210, "text": "Giờ này anh là Kẻ đi gieo tương tư giờ thành kẻ đi ôm tương tư ", "highlighted": false },
+    { "time": 215, "text": "ngược lại, ngược lại", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 9,
@@ -1599,8 +2736,68 @@
       "img": "assets/img/saocungduoc.jpeg",
       "url": "assets/music/saocungduoc.mp3",
       "title": "Ca khúc Sao Cũng Được được đánh giá là hiện tượng nổi bật của Vpop. Và nhanh chóng thu hút sự quan tâm của truyền thông lẫn đông đảo công chúng.",
-      "time": "5:30"
+      "time": "5:30",
+        "timeplay": [
+    
+
+    {
+      "time": 20,
+      "text": "Anh ca không hay , anh đàn nghe cũng dỡ",
+
+      "highlighted": false
     },
+    {
+      "time": 25,
+      "text": "Nhưng vẫn hát cho em , hát thật lòng nghe cũng đỡ",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Bất kể khi nào em muốn về, cửa trái tim anh vẫn mở", "highlighted": false },
+    { "time": 35, "text": "Người ta nói người con gái đi bên cạnh", "highlighted": false },
+    { "time": 40, "text": "Là món trang sức quý nhất Thế nên anh lấp lánh", "highlighted": false },
+    { "time": 45, "text": "Nhưng không thể nào bằng mắt em Có lẽ điều tệ nhất là mất em", "highlighted": false },
+    { "time": 55, "text": "Nhưng mà anh sẽ ko ngu ngốc vậy  Ít nhất là ngay trong lúc này", "highlighted": false },
+    { "time": 55, "text": "Cổ áo anh luôn nghe mùi thuốc lá Hòa với một chút mùi nước hoa", "highlighted": false },
+    { "time": 60, "text": "Đôi khi là dấu môi em trên đó Đôi khi là hương tóc em tối qua", "highlighted": false },
+    { "time": 65, "text": "Em thường nói anh ơi đi chậm lại Khi ngang qua con đường nhỏ có hoa Để tay anh siết em ôm chặt lại", "highlighted": false },
+    { "time": 70, "text": "Sài Gòn này như chỉ có ta… Anh có thể chờ em từ sáng đến tối.", "highlighted": false },
+    { "time": 75, "text": "Chỉ thấy em trong bộ đồ anh yêu.", "highlighted": false },
+    { "time": 80, "text": "Có em ngồi phía sau. Đi đâu cũng được.", "highlighted": false },
+    { "time": 90, "text": "Em không cần mang son môi mỗi khi gặp anh.", "highlighted": false },
+    { "time": 95, "text": "5 phút sau son sẽ mờ ngay thôi. Vì em thích anh hôn lên môi.", "highlighted": false },
+    { "time": 100, "text": "Yeah, đâu cũng được.", "highlighted": false },
+    { "time": 105, "text": "Em không phải mang makeup từ sáng đến tối.", "highlighted": false },
+    { "time": 110, "text": "Anh trót yêu luôn mộc mạc nơi em.", "highlighted": false },
+    { "time": 115, "text": "Em vẫn lung linh khi cần.", "highlighted": false },
+    { "time": 120, "text": "Em sao cũng đẹp.", "highlighted": false },
+    { "time": 125, "text": "Rồi mai này ta già đi.", "highlighted": false },
+    { "time": 130, "text": "Em muốn trước sân nhà đầy hoa. Anh nói em còn bên anh.", "highlighted": false },
+    { "time": 135, "text": "Thì anh sao cũng được", "highlighted": false },
+    { "time": 140, "text": "em nói em không thích lời vô tâm", "highlighted": false },
+    { "time": 145, "text": "nhưng em sao cũng được là con gái ai không muốn được quan tâm", "highlighted": false },
+    { "time": 150, "text": "nhưng anh sao cũng được và anh sẽ không làm em đau", "highlighted": false },
+    { "time": 155, "text": "và nếu em khóc em sẽ không cần anh lau và nếu phải đi em sẽ không quay trở lại", "highlighted": false },
+    { "time": 160, "text": "và nếu em làm yên bình anh sẽ chẳng cần đi đâu", "highlighted": false },
+    { "time": 165, "text": "yeah nhưng anh thích điều đó e có biết điều đó", "highlighted": false },
+    { "time": 170, "text": "sorry  nảy giờ em nói gì sorry nảy giờ không để ý", "highlighted": false },
+    { "time": 175, "text": "cả cái cách em nhìn anh rất hiền", "highlighted": false },
+    { "time": 180, "text": "khi cười làm rớt tim anh khi buồn làm tim anh", "highlighted": false },
+    { "time": 185, "text": "anh có thể chờ em từ sáng đến tối chỉ được nhìn thấy em thôi bayby", "highlighted": false },
+    { "time": 190, "text": "có em ngồi phía sau", "highlighted": false },
+    { "time": 195, "text": "đi đâu cũng được", "highlighted": false },
+    { "time": 200, "text": "Em không cần mang son môi mỗi khi gặp anh.", "highlighted": false },
+    { "time": 205, "text": "5 phút sau son sẽ mờ ngay thôi.", "highlighted": false },
+    { "time": 210, "text": "Vì em thích anh hôn lên môi.", "highlighted": false },
+    { "time": 215, "text": "hôn rất nhiều", "highlighted": false },
+    { "time": 220, "text": "Em không phải mang makeup từ sáng đến tối.", "highlighted": false },
+    { "time": 225, "text": "Em vẫn lung linh khi cần.", "highlighted": false },
+    { "time": 230, "text": "Em sao cũng đẹp.", "highlighted": false },
+    { "time": 235, "text": "Rồi mai này ta già đi.", "highlighted": false },
+    { "time": 240, "text": "Em muốn trước sân nhà đầy hoa.", "highlighted": false },
+    { "time": 250, "text": "Thì anh sao cũng được", "highlighted": false }
+   
+  ]
+    }
+    ,
 
     {
       "id": 10,
@@ -1610,8 +2807,56 @@
       "img": "assets/img/bigcityboi.jpeg",
       "url": "assets/music/bigcityboi.mp3",
       "title": "Binz với ca khúc Big City Boi đã tạo nên một trào lưu với giai điệu bắt tai, hiện đại. Sự kết hợp khéo léo của Touliver đã góp phần không nhỏ vào sự thành công của bài hát.",
-      "time": "4:03"
+      "time": "4:03",
+        "timeplay": [
+
+    {
+      "time": 20,
+      "text": "Em on top, không phải trending Không phải YouTube, không phải trên Zing  Anh on top, em ở trên anh",
+
+      "highlighted": false
     },
+    {
+      "time": 25,
+      "text": "Beat Touliver drop người ta gọi tên anh Big city Big city boi",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Big city Big city boi Big city Big city boi Big city Big city-Spacespeakers in da house make some mother fucker noise ay", "highlighted": false },
+    { "time": 35, "text": "Thả tim đầy story em (thả)", "highlighted": false },
+    { "time": 40, "text": "Nhắn tin đầy trong DM (slide) Có phiền thì sorry em (sorry)", "highlighted": false },
+    { "time": 45, "text": "Đón, 10 giờ pm? (ten) Yea em thích coi sea game (dô)", "highlighted": false },
+    { "time": 55, "text": "Hợp âm anh thích là Cm (đô) Xe em thích BM", "highlighted": false },
+    { "time": 55, "text": "Việc anh thích là see em Trói em bằng cà vạt (trói)", "highlighted": false },
+    { "time": 60, "text": "Penhouse trên Đà Lạt (đồi) Nếu mà ngoan em sẽ bị thương (đôi) Nếu mà hư em sẽ được phạt", "highlighted": false },
+    { "time": 65, "text": "K-r-a-z-y about u Hay là mang thêm friend đi không sao đâu", "highlighted": false },
+    { "time": 70, "text": "Yea anh không thường say yes Với em không thể say no Nhìn anh lúc nào cũng fresh Make them haters say wow", "highlighted": false },
+    { "time": 75, "text": "Big city Big city boi Big city Big city boi", "highlighted": false },
+    { "time": 80, "text": "Big city Big city-Spacespeakers in da house make some mother fucker noise", "highlighted": false },
+    { "time": 85, "text": "Shall we up all night, what u gonna do Ngay sát DJ, what u gonna do", "highlighted": false },
+    { "time": 90, "text": "Them bottles keep coming, what u gonna do Thành phố này không ngủ, tell me what u gonna do, ay", "highlighted": false },
+    { "time": 95, "text": "Từ lầu cao cho tới cuối ngõ Mang chất đường phố về tận lối nhỏ", "highlighted": false },
+    { "time": 100, "text": "Đáy quần vẫn dưới gối oh Rap game này anh đại diện không thể chối bỏ", "highlighted": false },
+    { "time": 105, "text": "Nhạc đơn giản, không phải cầu kì Đừng hỏi anh tình yêu màu gì", "highlighted": false },
+    { "time": 110, "text": "Mấy thằng ghét anh muốn spotlight Sorry anh là cầu chì", "highlighted": false },
+    { "time": 115, "text": "Không lòng vòng anh như Hải Phòng (gang gang) Thích anh rồi phải không?", "highlighted": false },
+    { "time": 120, "text": "Không cần vội em như Hà Nội (trưởng) Cần thêm thời gian em mới trải lòng Cần em như anh Cần Thơ", "highlighted": false },
+    { "time": 125, "text": "Thật ra anh chỉ muốn em gần hơn (gần chút) thật ra anh chỉ muốn ta tương tác", "highlighted": false },
+    { "time": 130, "text": "Anh còn chưa ngủ, em nói ngừng mơ Không chịu ngủ anh như Sài Gòn", "highlighted": false },
+    { "time": 135, "text": "Party với bạn all night long (all night)  Nếu mà đó là, đó là thứ em muốn", "highlighted": false },
+    { "time": 140, "text": "Anh có thể làm cho em, cho em hài lòng Nghiện thuốc có thể Lào Cai", "highlighted": false },
+    { "time": 145, "text": "Nhưng nghiện em không thể nào cai (không cần) Trai hư anh không phải diễn", "highlighted": false },
+    { "time": 150, "text": "Nhưng trai tốt anh phải vào vai Big city Big city boi", "highlighted": false },
+    { "time": 155, "text": "Big city Big city boi Big city Big city-Spacespeakers in da house make some mother fucker noise", "highlighted": false },
+    { "time": 160, "text": "Shall we up all night, what u gonna do Ngay sát DJ, what u gonna do", "highlighted": false },
+    { "time": 165, "text": "Them bottles keep coming, what u gonna do", "highlighted": false },
+    { "time": 170, "text": "Thành phố này không ngủ, tell me what u gonna do, ay Big city Big city boi", "highlighted": false },
+    { "time": 175, "text": "Big city Big city boi Big city Big city-Spacespeakers in da house make some mother fucker noise", "highlighted": false },
+    { "time": 180, "text": "Shall we up all night, what u gonna do Ngay sát DJ, what u gonna do", "highlighted": false },
+    { "time": 185, "text": "Them bottles keep coming, what u gonna do", "highlighted": false },
+    { "time": 190, "text": "Thành phố này không ngủ, tell me what u gonna do, ay", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 11,
@@ -1621,8 +2866,36 @@
       "img": "assets/img/ungquachung.jpeg",
       "url": "assets/music/ungquachung.mp3",
       "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Trung Quân đã trở lại thị trường nhạc bằng một ca khúc mới.",
-      "time": "5:03"
+      "time": "5:03",
+        "timeplay": [
+    
+    {
+      "time": 15,
+      "text": "Sao hôm nay lại cứ ngẩn ngơ thế này",
+      "highlighted": false
     },
+
+    {
+      "time": 20,
+      "text": "Sao mà bây giờ đây vũ trụ em chỉ thấy anh thôi đấy",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "Bắt đền đi trả lại tâm trí đây Meo meo meo meo trả lại tâm trí tôi đây",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Cứ như mèo con tắm nắng trong khu vườn nhà", "highlighted": false },
+    { "time": 35, "text": "Rất trong lành có ong lòng em có anh", "highlighted": false },
+    { "time": 40, "text": "Mới chỉ được gặp anh mỗi lúc ban chiều là ưng Quá chừng lòng em cứ tưng tứng tưng tưng", "highlighted": false },
+    { "time": 55, "text": "Cứ như mèo con tắm nắng trong khu vườn nhà", "highlighted": false },
+    { "time": 60, "text": "Rất trong lành có ong lòng em có anh", "highlighted": false },
+    { "time": 65, "text": "Mới chỉ được gặp anh mỗi lúc ban chiều là ưng", "highlighted": false },
+    { "time": 70, "text": "Quá chừng lòng em cứ tưng tứng tưng tưng", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 12,
@@ -1632,8 +2905,69 @@
       "img": "assets/img/22.jpeg",
       "url": "assets/music/22.mp3",
       "title": "Những câu từ trong bài hát như những lời nhắn nhủ nhẹ nhàng và sâu lắng thể hiện sự yêu thương của người mẹ dành cho con gái của mình khi từng bược trưởng thành.",
-      "time": "4:03"
+      "time": "4:03",
+        "timeplay": [
+
+    {
+      "time": 10,
+      "text": "“Cuộc đời này là màu hồng” – mẹ nói lúc con ra đời",
+      "highlighted": false
     },
+    {
+      "time": 15,
+      "text": "“Mỉm cười là điều tuyệt vời” – mẹ nói lúc con lên 5",
+      "highlighted": false
+    },
+
+    {
+      "time": 20,
+      "text": "Dù răng con sún",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "chân không dài, vai chẳng thon Mặt Trời còn dẹt một phần ",
+      "highlighted": false
+    },
+    { "time": 30, "text": "mà sao thế gian luôn cần? “Hãy làm điều mình tự hào”", "highlighted": false },
+    { "time": 35, "text": " mẹ nói lúc con lên 10", "highlighted": false },
+    { "time": 40, "text": "“Đừng làm điều mình ngần ngại” – mẹ nói lúc con 12", "highlighted": false },
+    { "time": 45, "text": "Dù cho đôi lúc, con sai đường và quên lối đi", "highlighted": false },
+    { "time": 55, "text": "Trưởng thành là điều tuyệt vời để từ sai ta học cho đúng.", "highlighted": false },
+    { "time": 55, "text": "Sau này năm con 22 sẽ thấy màu mắt của con thật xinh", "highlighted": false },
+    { "time": 60, "text": "Thấy giọng ca ngân nga trong vắt có khi lại khiến con rất đặc biệt", "highlighted": false },
+    { "time": 65, "text": "Và hãy nhớ rằng trên đời này", "highlighted": false },
+    { "time": 70, "text": "Không ai phải giống ai Nên là năm con 22", "highlighted": false },
+    { "time": 75, "text": "Hãy sống hồn nhiên giống như mười hai", "highlighted": false },
+    { "time": 80, "text": "Tình đầu là điều tuyệt vời mà con khắc ghi suốt đời.", "highlighted": false },
+    { "time": 85, "text": "Từng chạm và từng dịu dàng làm tim của con rối bời", "highlighted": false },
+    { "time": 90, "text": "Đừng quan tâm quá con sẽ cùng cậu ta đến đâu", "highlighted": false },
+    { "time": 95, "text": "Kỉ niệm là điều ở lại", "highlighted": false },
+    { "time": 100, "text": "dù ai có đi xa mãi. Sau này năm con 22", "highlighted": false },
+    { "time": 105, "text": " sẽ thấy màu mắt của con thật xinh", "highlighted": false },
+    { "time": 110, "text": "Thấy giọng ca ngân nga trong vắt có khi lại khiến con rất đặc biệt", "highlighted": false },
+    { "time": 115, "text": "Và hãy nhớ rằng trên đời này Không ai phải giống ai", "highlighted": false },
+    { "time": 120, "text": "Nên là năm con 22 Hãy sống hồn nhiên giống như mười hai", "highlighted": false },
+    { "time": 145, "text": "Sau này năm con 22", "highlighted": false },
+    { "time": 150, "text": "hãy vang lời ca của con muôn nơi Mang tình yêu thương con đang giữ", "highlighted": false },
+    { "time": 155, "text": "nhân ra tỏa khắp muôn phương chân trời. sẽ thật khó", "highlighted": false },
+    { "time": 160, "text": "vì có đôi lần con sẽ cảm thấy chơi vơi Nhưng chẳng sao", "highlighted": false },
+    { "time": 165, "text": "khi con cho đi Phía sau đừng nghĩ sẽ nhận lại gì.", "highlighted": false },
+    { "time": 170, "text": "Hai mươi hai", "highlighted": false },
+    { "time": 175, "text": "Hai mươi hai", "highlighted": false },
+    { "time": 180, "text": "Sẽ thật khó vì có đôi lần con sẽ cảm thấy chơi vơi", "highlighted": false },
+    { "time": 185, "text": "Nhưng chẳng sao khi con cho đi Phía sau đừng nghĩ sẽ nhận lại gì.", "highlighted": false },
+    { "time": 190, "text": "Hai mươi hai", "highlighted": false },
+    { "time": 195, "text": "hai mươi hai", "highlighted": false },
+    { "time": 200, "text": "hai mươi hai, hai mươi hai", "highlighted": false },
+    { "time": 205, "text": "Địa cầu là một hình tròn vậy nên thế gian xoay vòng", "highlighted": false },
+    { "time": 210, "text": "Điều mình nhận được là điều mình vô thức đã cho đi", "highlighted": false },
+    { "time": 215, "text": "Vậy nên sau nếu con có rời xa chốn đây", "highlighted": false },
+    { "time": 220, "text": "Đừng sợ và đừng chần chừ vì đi cũng là để trở về.", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 13,
@@ -1643,8 +2977,52 @@
       "img": "assets/img/nenvahoa.jpeg",
       "url": "assets/music/nenvahoa.mp3",
       "title": "Sau nhiều bản tình ca buồn đến nao lòng trước đây, Rhymastic đã trở lại thị trường nhạc bằng một ca khúc mới.",
-      "time": "4:03"
+      "time": "4:03",
+        "timeplay": [
+
+    {
+      "time": 15,
+      "text": "Buccellati lấp lánh ươm lên vai với nét mặt rạng ngời",
+      "highlighted": false
     },
+
+    {
+      "time": 20,
+      "text": "Maserati hai cánh ngăn cho em tách biệt đường đời Lướt xuống phố không phanh ",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "băng qua nhanh khuôn viên mỗi tối Dinh cơ dang tay sẵn lối nơi xa hoa lộng lẫy gọi mời",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Đố ai bằng em buông dăm ba câu yêu thương bao anh xin chết", "highlighted": false },
+    { "time": 35, "text": "Ngắm em mà xem đôi chân thon khoe ra đâu ai chịu được nhiệt Ngấm hơn cả men", "highlighted": false },
+    { "time": 40, "text": "em gieo cơn say nên lâu nay không ai tiếc Hàng đống quà tặng em cho từng đêm đặc biệt", "highlighted": false },
+    { "time": 45, "text": "Em chỉ cần nếm mùi tiền là quên hết muộn phiền", "highlighted": false },
+    { "time": 55, "text": "Thế nên anh làm em xao xuyến", "highlighted": false },
+    { "time": 55, "text": "Một lời em nói trong đêm mang tới mây đen", "highlighted": false },
+    { "time": 60, "text": "Vùi lấp đi cho em mất tầm nhìn Vậy thì cần gì nến và hoa", "highlighted": false },
+    { "time": 65, "text": "Vì em cũng chỉ đến rồi xa", "highlighted": false },
+    { "time": 70, "text": "Vậy thì cần gì nến và hoa", "highlighted": false },
+    { "time": 75, "text": "Khi chính em là một món quà", "highlighted": false },
+    { "time": 80, "text": "Và ngọn đèn khuya cũng đã tắt Từng lời đắm đuối cũng đã mệt Chỉ còn hơi men lay lắt", "highlighted": false },
+    { "time": 85, "text": "Gọi mời hắn tới sát bên em Ôi phong thái này quần áo này ", "highlighted": false },
+    { "time": 90, "text": "lại ngập đầy mùi giàu sang Cho em đắm say em ngất ngây và rồi đôi mắt ấy lịm dần", "highlighted": false },
+    { "time": 95, "text": "Chợt giật mình nhìn quanh khi tỉnh giấc Em bị trói chặt không mảnh vải che thân", "highlighted": false },
+    { "time": 100, "text": "Cố gắng tìm thật nhanh một lối thoát nhưng dường như hơi thở của hắn đã xán đến lại gần Những vết cứa trên da vết tím bầm ", "highlighted": false },
+    { "time": 105, "text": "nói lên điều nhắc nhở về sự thật tàn nhẫn Em bây giờ chỉ còn là chiến lợi phẩm trong một kiếp đời hoang dâm", "highlighted": false },
+    { "time": 110, "text": "Em chỉ cần nếm mùi tiền là quên hết muộn phiền", "highlighted": false },
+    { "time": 115, "text": "Thế nên anh làm em xao xuyến", "highlighted": false },
+    { "time": 120, "text": "Một lời em nói trong đêm mang tới mây đen Vùi lấp đi cho em mất tầm nhìn", "highlighted": false },
+    { "time": 125, "text": "Giờ thì cần gì ", "highlighted": false },
+    { "time": 130, "text": "nến và hoa Vì em cũng chỉ đến rồi xa", "highlighted": false },
+    { "time": 135, "text": "Giờ thì cần gì nến và hoa", "highlighted": false },
+    { "time": 140, "text": "Khi chính em là một món quà", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 14,
@@ -1654,8 +3032,100 @@
       "img": "assets/img/xtc.jpeg",
       "url": "assets/music/xtc.mp3",
       "title": "Tlinh là rapper trẻ năng động và tài giỏi chỉ trong vòng một thời gian ngắn gia nhập rap, Tlinh đã có bước tiến đáng kinh ngạc. Cô có cách gieo vần, chơi chữ khá thông minh, rap hay hát cô điều thể hiện rất mượt và cuốn hút..",
-      "time": "4:03"
+      "time": "4:03",
+        "timeplay": [
+    {
+      "time": 0,
+      "text": "",
+      "highlighted": false
     },
+
+    {
+      "time": 5,
+      "text": "",
+      "highlighted": false
+    },
+    {
+      "time": 10,
+      "text": "",
+      "highlighted": false
+    },
+    {
+      "time": 15,
+      "text": "",
+      "highlighted": false
+    },
+
+    {
+      "time": 20,
+      "text": "",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "",
+      "highlighted": false
+    },
+    { "time": 30, "text": "", "highlighted": false },
+    { "time": 35, "text": "", "highlighted": false },
+    { "time": 40, "text": "", "highlighted": false },
+    { "time": 45, "text": "", "highlighted": false },
+    { "time": 55, "text": "", "highlighted": false },
+    { "time": 55, "text": "", "highlighted": false },
+    { "time": 60, "text": "", "highlighted": false },
+    { "time": 65, "text": "", "highlighted": false },
+    { "time": 70, "text": "", "highlighted": false },
+    { "time": 75, "text": "", "highlighted": false },
+    { "time": 80, "text": "", "highlighted": false },
+    { "time": 85, "text": "", "highlighted": false },
+    { "time": 90, "text": "", "highlighted": false },
+    { "time": 95, "text": "", "highlighted": false },
+    { "time": 100, "text": "", "highlighted": false },
+    { "time": 105, "text": "", "highlighted": false },
+    { "time": 110, "text": "", "highlighted": false },
+    { "time": 115, "text": "", "highlighted": false },
+    { "time": 120, "text": "", "highlighted": false },
+    { "time": 125, "text": "", "highlighted": false },
+    { "time": 130, "text": "", "highlighted": false },
+    { "time": 135, "text": "", "highlighted": false },
+    { "time": 140, "text": "", "highlighted": false },
+    { "time": 145, "text": "", "highlighted": false },
+    { "time": 150, "text": "", "highlighted": false },
+    { "time": 155, "text": "", "highlighted": false },
+    { "time": 160, "text": "", "highlighted": false },
+    { "time": 165, "text": "", "highlighted": false },
+    { "time": 170, "text": "", "highlighted": false },
+    { "time": 175, "text": "", "highlighted": false },
+    { "time": 180, "text": "", "highlighted": false },
+    { "time": 185, "text": "", "highlighted": false },
+    { "time": 190, "text": "", "highlighted": false },
+    { "time": 195, "text": "", "highlighted": false },
+    { "time": 200, "text": "", "highlighted": false },
+    { "time": 205, "text": "", "highlighted": false },
+    { "time": 210, "text": "", "highlighted": false },
+    { "time": 215, "text": "", "highlighted": false },
+    { "time": 220, "text": "", "highlighted": false },
+    { "time": 225, "text": "", "highlighted": false },
+    { "time": 230, "text": "", "highlighted": false },
+    { "time": 235, "text": "", "highlighted": false },
+    { "time": 240, "text": "", "highlighted": false },
+    { "time": 245, "text": "", "highlighted": false },
+    { "time": 250, "text": "", "highlighted": false },
+    { "time": 255, "text": "", "highlighted": false },
+    { "time": 260, "text": "", "highlighted": false },
+    { "time": 265, "text": "", "highlighted": false },
+    { "time": 270, "text": "", "highlighted": false },
+    { "time": 275, "text": "", "highlighted": false },
+    { "time": 280, "text": "", "highlighted": false },
+    { "time": 285, "text": "", "highlighted": false },
+    { "time": 290, "text": "", "highlighted": false },
+    { "time": 295, "text": "", "highlighted": false },
+    { "time": 300, "text": "", "highlighted": false },
+    { "time": 305, "text": "", "highlighted": false }
+  ]
+    }
+    ,
 
     {
       "id": 15,
@@ -1665,7 +3135,55 @@
       "img": "assets/img/duyenam.jpeg",
       "url": "assets/music/duyenam.mp3",
       "title": "Hoàng Thùy Linh cho ra mắt đĩa đơn Gieo quẻ trên các nền tảng nghe nhạc trực tuyến tại Việt Nam.[14] Sau vài ngày phát hành, bài hát đạt Top 1 Trending trên YouTube,",
-      "time": "4:52"
+      "time": "4:52",
+        "timeplay": [
+ 
+    {
+      "time": 10,
+      "text": "Từng đêm mơ Con tim em luôn đợi chờ",
+      "highlighted": false
+    },
+    {
+      "time": 15,
+      "text": "Chàng nhà thơ Làm cho lòng em vui ngẩn ngơ",
+      "highlighted": false
+    },
+
+    {
+      "time": 20,
+      "text": "Mùa thu sang đông qua Xuân ngắn hạ tàn",
+
+      "highlighted": false
+    },
+    {
+      "time": 25,
+      "text": "Tình tịch tang  Tình yêu nào đâu dễ dàng",
+      "highlighted": false
+    },
+    { "time": 30, "text": "Người ta hoài đưa đón  Trong khi em chẳng hề yêu", "highlighted": false },
+    { "time": 35, "text": "Đừng nên làm như thế  A í a anh à", "highlighted": false },
+    { "time": 40, "text": "Tại sao phiền như thế Yêu em anh được gì đâu", "highlighted": false },
+    { "time": 45, "text": "Điều anh hằng mong muốn Ba má em sẽ buồn", "highlighted": false },
+    { "time": 55, "text": "Anh ơi anh về đi Thiên linh linh a địa linh linh Anh đừng linh tinh Xin hãy đi về", "highlighted": false },
+    { "time": 55, "text": "Hai bên thông gia nhà em la Em vừa vu quy sáng nay rồi mà", "highlighted": false },
+    { "time": 60, "text": "Anh ơi anh gì ơi Anh đi về đi anh ơi Đứng đây làm gì", "highlighted": false },
+    { "time": 65, "text": "Bao lâu em chưa hề yêu anh Anh về đi anh Quay đầu là bờ", "highlighted": false },
+    { "time": 90, "text": "Em có chồng rồi anh ơi Đây nắm xôi cộng thêm con gà Em mời anh xơi", "highlighted": false },
+    { "time": 95, "text": "Nhà em có thổ địa rồi Này anh về đi nhá Đâu phải muốn gì cũng được Nên anh đừng làm như thế", "highlighted": false },
+    { "time": 100, "text": "Nhà em không còn dư ghế Cho anh ngồi đâu Chó dữ đã vào tư thế Anh ơi anh về mau Từ nay và về sau", "highlighted": false },
+    { "time": 105, "text": "Anh đừng ghé nữa nhá Ba hồn bảy vía Xin anh đừng ghé nữa nhá", "highlighted": false },
+    { "time": 110, "text": "Người ta thường hay nói  Khó quá không được thì thôi Nhiều khi tình duyên tới", "highlighted": false },
+    { "time": 115, "text": "Là ý do ông trời Đừng nên hoài trông ngóng", "highlighted": false },
+    { "time": 120, "text": "Theo em không được gì đâu Điều anh hằng mong muốn", "highlighted": false },
+    { "time": 125, "text": "Ba má em sẽ buồn Anh ơi anh về đi", "highlighted": false },
+    { "time": 130, "text": "Thiên linh linh a địa linh linh", "highlighted": false },
+    { "time": 135, "text": "Thiên linh linh a địa linh linh Anh đừng linh tinh Xin hãy đi về", "highlighted": false },
+    { "time": 140, "text": "Hai bên thông gia nhà em la Em vừa vu quy sáng nay rồi mà", "highlighted": false },
+    { "time": 145, "text": "Anh ơi anh gì ơi Anh đi về đi anh ơi Đứng đây làm gì", "highlighted": false },
+    { "time": 150, "text": "Bao lâu em chưa hề yêu anh Anh về đi anh Quay đầu là bờ", "highlighted": false },
+    { "time": 155, "text": "", "highlighted": false }
+  ]
+    
     }
   ],
 
