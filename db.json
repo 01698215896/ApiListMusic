@@ -1576,7 +1576,69 @@
       "img": "assets/img/dieforyou.jpeg",
       "url": "assets/music/dieforyou.mp3",
       "title": "Bài hát Die For You do ca sĩ The Weeknd trình bày là một tác phẩm âm nhạc đầy cảm xúc và sâu lắng. Giai điệu và lời bài hát chất chứa tình yêu và sự cam kết mạnh mẽ của người yêu. Die For You truyền tải thông điệp về sự sẵn lòng hy sinh và đồng hành với người mình yêu đến tận cùng. Giọng hát đặc trưng và phong cách biểu diễn đầy tâm huyết của The Weeknd đã mang đến một trải nghiệm âm nhạc sôi động và đáng nhớ. Ca khúc này thường được nhận định cao trong sự nghiệp của The Weeknd và có sự ảnh hưởng mạnh mẽ đối với người nghe. Die For You là một bài hát đáng nghe và đặc biệt để truyền tải sự tận tâm và cống hiến trong tình yêu.",
-      "time": "3:53"
+      "time": "3:53",
+      "timeplay": [
+        
+        {
+          "time": 10,
+          "text": "I'm findin' ways to articulate the feelin' I'm goin' through",
+          "highlighted": false
+        },
+    
+        {
+          "time": 15,
+          "text": "I just can't say I don't love you",
+    
+          "highlighted": false
+        },
+        {
+          "time": 20,
+          "text": "'Cause I love you, yeah",
+          "highlighted": false
+        },
+        { "time": 25, "text": "It's hard for me to communicate the thoughts that I hold", "highlighted": false },
+        { "time": 30, "text": "But tonight, I'm gon' let you know", "highlighted": false },
+        { "time": 35, "text": "Let me tell the truth Baby, let me tell the truth, yeah", "highlighted": false },
+        { "time": 40, "text": "You know what I'm thinkin', see it in your eyes", "highlighted": false },
+        { "time": 45, "text": "You hate that you want me, hate it when you cry You're scared to be lonely, 'specially in the night", "highlighted": false },
+        { "time": 50, "text": "I'm scared that I'll miss you, happens every time", "highlighted": false },
+        { "time": 55, "text": "I don't want this feelin', I can't afford love", "highlighted": false },
+        { "time": 60, "text": "I try to find a reason to pull us apart It ain't workin' 'cause you're perfect", "highlighted": false },
+        { "time": 65, "text": "And I know that you're worth it I can't walk away, oh", "highlighted": false },
+        { "time": 70, "text": "Even though we're goin' through it (Ah) And it makes you feel alone", "highlighted": false },
+        { "time": 75, "text": "Just know that I would die for you (Ooh, ooh)", "highlighted": false },
+        { "time": 80, "text": "Baby, I would die for you, yeah", "highlighted": false },
+        { "time": 85, "text": "The distance and the time between us ( Distance and the time)", "highlighted": false },
+        { "time": 90, "text": "It'll never change my mind 'cause Baby, I would die for you (I would die for you)", "highlighted": false },
+        { "time": 95, "text": "Baby, I would die for you, yeah", "highlighted": false },
+        { "time": 100, "text": "I'm findin' ways to stay concentrated on what I gotta do", "highlighted": false },
+        { "time": 105, "text": "Baby boy, it's so hard 'round you", "highlighted": false },
+        { "time": 110, "text": "And yes, I'm blaming you And you know I can't fake it, now or never", "highlighted": false },
+        { "time": 115, "text": "And you insinuating that you think we might be better", "highlighted": false },
+        { "time": 120, "text": "Better me and you Yeah, I know you do (Ooh, oh)", "highlighted": false },
+        { "time": 125, "text": "You know what I'm thinkin', see it in your eyes", "highlighted": false },
+        { "time": 130, "text": "You hate that you want me, hate it when you cry", "highlighted": false },
+        { "time": 135, "text": "It ain't workin', 'cause you're perfect And I know you deserve it", "highlighted": false },
+        { "time": 139, "text": "I can't walk away", "highlighted": false },
+        { "time": 145, "text": "Even though we're goin' through it(Even though) And it makes you feel alone Just know that I would die for you(I would die for you)", "highlighted": false },
+        { "time": 150, "text": "Baby, I would die for you, yeah", "highlighted": false },
+        { "time": 155, "text": "The distance and the time between us", "highlighted": false },
+        { "time": 160, "text": "It'll never change my mind 'Cause baby, I would die for you, uh(I would die for you)", "highlighted": false },
+        { "time": 165, "text": "Baby, I would die for you, yeah(I would die for you)", "highlighted": false },
+        { "time": 170, "text": "I would die for you, I would lie for you", "highlighted": false },
+        { "time": 175, "text": "Keep it real with you, I would kill for you, my baby", "highlighted": false },
+        { "time": 180, "text": "I'm just sayin', yeah", "highlighted": false },
+        { "time": 185, "text": "I would die for you, I would lie for you", "highlighted": false },
+        { "time": 190, "text": "Keep it real with you, I would kill for you, my baby", "highlighted": false },
+        { "time": 195, "text": "Na-na-na, na-na-na, na-na", "highlighted": false },
+        { "time": 200, "text": "Even though we're goin' through it(Ooh, oh, boy) And it makes you feel alone", "highlighted": false },
+        { "time": 205, "text": "Just know that I would die for you", "highlighted": false },
+        { "time": 210, "text": "Baby, I would die for you, yeah", "highlighted": false },
+        { "time": 215, "text": "The distance and the time between us It'll never change my mind", "highlighted": false },
+        { "time": 220, "text": "'Cause baby, I would die for you", "highlighted": false },
+        { "time": 225, "text": "Baby, I would die for you, yeah Oh, babe", "highlighted": false }
+      ]
+    
     },
     {
       "id": 2,
@@ -1586,7 +1648,62 @@
       "img": "assets/img/ari.jpeg",
       "url": "assets/music/motive.mp3",
       "title": "Bài hát Motive do ca sĩ Ariana Grande trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình yêu. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Ariana Grande đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực.",
-      "time": "2:49"
+      "time": "2:49",
+      "timeplay": [
+        {
+          "time": 3,
+          "text": "Mu-mu-mu-murda",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "Tell me why I get this feeling",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "That you really wanna turn me on",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Tell me why I get this feeling That you really wanna make me yours, ah",
+          "highlighted": false
+        },
+        {
+          "time": 20,
+          "text": "'Cause I see you tryin', subliminally tryin'",
+          "highlighted": false
+        },
+        { "time": 25, "text": "To see if I'm gon' be the one to sing along", "highlighted": false },
+        { "time": 30, "text": "I admit it's exciting, parts of me kinda like it", "highlighted": false },
+        { "time": 35, "text": "But before I lead you on", "highlighted": false },
+        { "time": 40, "text": "Baby, tell me, what's your motive? (Motive) What's your motive? (Ah) What's your motive?", "highlighted": false },
+        { "time": 45, "text": "So tell me, what's your motive? (What's your motive?)", "highlighted": false },
+        { "time": 50, "text": "What's your motive? What's your motive? (Ah)", "highlighted": false },
+        { "time": 55, "text": "I could call bullshit all from a mile away (don't say)", "highlighted": false },
+        { "time": 60, "text": "You want me if you can't keep comin' back for me", "highlighted": false },
+        { "time": 65, "text": "Might have to curve you if you just can't talk straight (just say)", "highlighted": false },
+        { "time": 70, "text": "Say what you mean 'cause you might get it 'Cause I see you tryin', subliminally tryin'", "highlighted": false },
+        { "time": 75, "text": "To see if I'm gon' be the one to sing along", "highlighted": false },
+        { "time": 80, "text": "I admit it's exciting, parts of me kinda like it", "highlighted": false },
+        { "time": 85, "text": "But before I lead you on Tell me, what's your motive?", "highlighted": false },
+        { "time": 90, "text": "What's your motive?", "highlighted": false },
+        { "time": 95, "text": "What's your motive? (Ah) So tell me, what's your motive?", "highlighted": false },
+        { "time": 100, "text": "What's your motive? What's your motive? (Ayy, yeah, yeah, ayy, ah)", "highlighted": false },
+        { "time": 105, "text": "You treat me like gold, baby Now you wanna spoil me Did you want a trophy or you wanna sport me, baby?", "highlighted": false },
+        { "time": 110, "text": "Want me on your neck 'cause you wanted respect", "highlighted": false },
+        { "time": 115, "text": "'Cause you fightin' some war, baby Well, I had to bring the fists out, had to put a wall up I don't trust phonies, baby (yeah, yeah, yeah, yeah)", "highlighted": false },
+        { "time": 120, "text": "You gotta tell me, what's your motive, baby? Cause you got your candy (yeah) on your arm (yeah)", "highlighted": false },
+        { "time": 125, "text": "No need to sugarcoat a lie (yeah) Say what you want, I needed a real bona fide G (come on)", "highlighted": false },
+        { "time": 130, "text": "Can you promise me you'll bring it all tonight? (Give it to me)", "highlighted": false },
+        { "time": 135, "text": "Cause I need you to be wise Tell me everything that's on your mind, come on", "highlighted": false },
+        { "time": 140, "text": "What's your motive? (What's your motive? What's your motive? (What's your motive? Ah)", "highlighted": false },
+        { "time": 145, "text": "So tell me, what's your motive? (Better tell me, baby)", "highlighted": false },
+        { "time": 150, "text": "What's your motive? (What's your motive? Better tell me, baby) What's your motive? (Yeah, ayy, ah)", "highlighted": false }
+      ]
+    
     },
     {
       "id": 3,
@@ -1596,7 +1713,71 @@
       "img": "assets/img/camilla.jpeg",
       "url": "assets/music/realfriends.mp3",
       "title": "Bài hát Real Friends do ca sĩ Camilla Cabello trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Real Friends là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình bạn. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Camilla Cabello đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực.",
-      "time": "3:36"
+      "time": "3:36",
+      "timeplay": [
+        {
+          "time": 10,
+          "text": "No, I think I'll stay in tonight",
+          "highlighted": false
+        },
+    
+        {
+          "time": 15,
+          "text": "Skip the conversations and the, oh, I'm fine's",
+          "highlighted": false
+        },
+        {
+          "time": 20,
+          "text": "No, I'm no stranger to surprise",
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "This paper town has let me down too many times",
+          "highlighted": false
+        },
+    
+        {
+          "time": 30,
+          "text": "Why do I even try? Give me a reason why",
+
+          "highlighted": false
+        },
+        { "time": 35, "text": "I thought that I could trust you, nevermind", "highlighted": false },
+        { "time": 40, "text": "Why all the switching sides?", "highlighted": false },
+        { "time": 45, "text": "Where do I draw the line? I guess I'm too naive to read the signs", "highlighted": false },
+        { "time": 50, "text": "I'm just lookin' for some real friends All they ever do is let me down", "highlighted": false },
+        { "time": 55, "text": "Every time I let somebody in Then I find out what they're all about", "highlighted": false },
+        { "time": 60, "text": "I'm just lookin' for some real friends Wonder where they're all hidin' out", "highlighted": false },
+        { "time": 65, "text": "I'm just lookin' for some real friends", "highlighted": false },
+        { "time": 70, "text": "Gotta get up out of this town (Oh, ooh)", "highlighted": false },
+        { "time": 80, "text": "Just slow for a reason", "highlighted": false },
+        { "time": 85, "text": "Sit down afraid, pretty easy Stayin' down 'till the world ends", "highlighted": false },
+        { "time": 90, "text": "Kill trips on the weekend", "highlighted": false },
+        { "time": 95, "text": "I pack more than suits in my suitcases All this cash, that's friendly faces", "highlighted": false },
+        { "time": 100, "text": "Been movin' fast, I'm racin' Get up, you're going places", "highlighted": false },
+        { "time": 105, "text": "Every day, tryna maintain Same old me, ain't a damn thing change", "highlighted": false },
+        { "time": 110, "text": "Real friends screaming, Gang, gang, gang", "highlighted": false },
+        { "time": 115, "text": "I'm just lookin' for some real friends (Real friends) All they ever do is let me down", "highlighted": false },
+        { "time": 120, "text": "Every time I let somebody in Then I find out what they're all about (all about)", "highlighted": false },
+        { "time": 125, "text": "I'm just lookin' for some real friends (real friends) Wonder where they're all hidin' out (hidin' out)", "highlighted": false },
+        { "time": 130, "text": "I'm just lookin' for some real friends (real friends) ", "highlighted": false },
+        { "time": 135, "text": "...", "highlighted": false },
+        { "time": 155, "text": "I just wanna talk about nothin' with somebody that means something", "highlighted": false },
+        { "time": 160, "text": "Spell the names of all our dreams and demons For the times that I don't understand", "highlighted": false },
+        { "time": 165, "text": "Tell me what's the point of a moon like this When I'm alone again", "highlighted": false },
+        { "time": 170, "text": "Can I run away to somewhere beautiful Where nobody knows my name?", "highlighted": false },
+        { "time": 175, "text": "I'm just lookin' for some real friends All they ever do is let me down", "highlighted": false },
+        { "time": 180, "text": "And I let somebody in", "highlighted": false },
+        { "time": 185, "text": "But I find out what they're all about I'm just lookin' for some real friends (real friends)", "highlighted": false },
+        { "time": 190, "text": "All they ever do is let me down I'm just lookin' for some real friends (real friends)", "highlighted": false },
+        { "time": 195, "text": "Gotta get up out of this town, yeah Spend a fortune with my real friends", "highlighted": false },
+        { "time": 200, "text": "Good gas, what we breathe in (oh, ohhh) Pop corns with some real friends", "highlighted": false },
+        { "time": 205, "text": "Killin' the scene, yeah (ohhh, ah)", "highlighted": false },
+        { "time": 210, "text": " with my real friends Gotta surround myself with (ohhh, ah)", "highlighted": false },
+        { "time": 215, "text": "You have to have my back (ah) Lookin' like my real friends", "highlighted": false }
+      ]
+    
     },
     {
       "id": 4,
@@ -1606,7 +1787,61 @@
       "img": "assets/img/jax.jpeg",
       "url": "assets/music/likemyfather.mp3",
       "title": "Bài hát Like My Father do ca sĩ Jax trình bày là một tác phẩm âm nhạc cảm động và đầy ý nghĩa. Giai điệu nhẹ nhàng và lời bài hát chất chứa những suy nghĩ về tình yêu và lòng biết ơn đối với người cha. Like My Father mô tả một câu chuyện về sự lớn lên và học hỏi từ người cha, với thông điệp về sự khao khát trở thành người mạnh mẽ và đáng tự hào như cha mình. Giọng hát đầy cảm xúc và sự trình diễn chân thành của Jax đã mang đến một trải nghiệm âm nhạc chân thành và xúc động. Like My Father là bài hát thích hợp để tưởng nhớ và tôn vinh tình cha mẹ và những giá trị gia đình.",
-      "time": "3:08"
+      "time": "3:08",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "...",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "I wanna come home to roses",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "And dirty little notes on Post-its",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "And when my hair starts turning gray He'll say I'm like a fine wine, better with age",
+          "highlighted": false
+        },
+        { "time": 30, "text": "I guess I learned it from my parents", "highlighted": false },
+        { "time": 35, "text": "That true love starts with friendship", "highlighted": false },
+        { "time": 40, "text": "A kiss on the forehead, a date night Fake an apology after a fight", "highlighted": false },
+        { "time": 45, "text": "I need a man who's patient and kind Gets out of the car and holds the door", "highlighted": false },
+        { "time": 55, "text": "I wanna slow dance in the living room like We're 18 at senior prom and grow", "highlighted": false },
+        { "time": 60, "text": "Old with someone who makes me feel young I need a man who loves me like", "highlighted": false },
+        { "time": 65, "text": "My father loves my mom", "highlighted": false },
+        { "time": 70, "text": "...", "highlighted": false },
+        { "time": 80, "text": "I want a road trip in the summers", "highlighted": false },
+        { "time": 85, "text": "I wanna make fun of each other", "highlighted": false },
+        { "time": 90, "text": "I wanna rock out to Billy Joe And flip our kids off when they call us old", "highlighted": false },
+        { "time": 95, "text": "He'll accidentally burn our dinner", "highlighted": false },
+        { "time": 100, "text": "And let me be the scrabble winner", "highlighted": false },
+        { "time": 105, "text": "And when my body changes shapesHe'll say, Oh my God, you look hot today ", "highlighted": false },
+        { "time": 110, "text": "I need a man who's patient and kind", "highlighted": false },
+        { "time": 115, "text": "Gets out of the car and holds the door", "highlighted": false },
+        { "time": 120, "text": "I wanna slow dance in the living room like We're 18 at senior prom and grow", "highlighted": false },
+        { "time": 125, "text": "Old with someone who makes me feel young", "highlighted": false },
+        { "time": 130, "text": "I need a man who loves me like My father loves my mom", "highlighted": false },
+        { "time": 135, "text": "And if he lives up to my father Maybe he could teach our daughter", "highlighted": false },
+        { "time": 140, "text": "What it takes to love a queen", "highlighted": false },
+        { "time": 145, "text": "She should know she's royalty", "highlighted": false },
+        { "time": 150, "text": "I need a man who's patient and kind Gets out of the car and holds the door", "highlighted": false },
+        { "time": 155, "text": "I wanna slow dance in the living room like", "highlighted": false },
+        { "time": 160, "text": "We're 18 at senior prom and grow Old with someone who makes me feel young", "highlighted": false },
+        { "time": 165, "text": "I need a man who loves me like", "highlighted": false },
+        { "time": 170, "text": "My father loves my mom", "highlighted": false },
+        { "time": 175, "text": "I need a man who loves me like", "highlighted": false },
+        { "time": 180, "text": "My father loves my mom", "highlighted": false }
+      ]
+    
     },
     {
       "id": 5,
@@ -1616,7 +1851,41 @@
       "img": "assets/img/keshi.jpeg",
       "url": "assets/music/limbo.mp3",
       "title": "Bài hát LIMBO do ca sĩ keshi trình bày là một tác phẩm âm nhạc mang tính chất tâm trạng và sâu lắng. Giai điệu nhẹ nhàng và hòa âm điệp khúc đã tạo ra một không gian âm nhạc mơ màng và tương tác với cảm xúc của người nghe. LIMBO lời bài hát thể hiện sự khắc khoải và tìm kiếm sự định hướng trong cuộc sống, nhưng cũng mang đến hy vọng và sự lạc quan. Giọng hát tinh tế và phong cách biểu diễn sâu lắng của keshi đã mang đến một trải nghiệm âm nhạc đầy cảm xúc và sâu sắc. LIMBO là bài hát thích hợp để lắng nghe và thấu hiểu về những tâm trạng và suy ngẫm trong cuộc sống.",
-      "time": "3:33"
+      "time": "3:33",
+      "timeplay": [
+      
+        {
+          "time": 25,
+          "text": "I just been goin' through motions back and forth like a ocean I am a fraud, I am the shit hoping that nobody notice",
+          "highlighted": false
+        },
+        { "time": 30, "text": "Bang chest in the morning Head down in the night Drink less if I wanted", "highlighted": false },
+        { "time": 35, "text": "Strike up with the light", "highlighted": false },
+        { "time": 40, "text": "And square up, I'm the mightiest, myself in the fight Hurt twice, but I tried it", "highlighted": false },
+        { "time": 45, "text": "No advice for this shit, might die for this shit", "highlighted": false },
+        { "time": 50, "text": "Do I feel alive, feel alive, feel alive? Feel more like limbo, hands out my window", "highlighted": false },
+        { "time": 55, "text": "Chasin' that sunset, that's more my tempo", "highlighted": false },
+        { "time": 60, "text": "Yeah, that's more my tempo", "highlighted": false },
+        { "time": 65, "text": "Ooh, but this is all that I am ", "highlighted": false },
+        { "time": 70, "text": "I only show you the best of me ", "highlighted": false },
+        { "time": 75, "text": "The best of me", "highlighted": false },
+        { "time": 80, "text": "Looked in my demons and saw myself", "highlighted": false },
+        { "time": 85, "text": "Put all my meaning in someone else", "highlighted": false },
+        { "time": 90, "text": "Outta sight, outta mind, don't know where to find it", "highlighted": false },
+        { "time": 95, "text": "Don't know where to hide, but I still Eat good, drink good, feel good, it's all good", "highlighted": false },
+        { "time": 100, "text": "Can't hear my head when I'm sat beside ya", "highlighted": false },
+        { "time": 105, "text": "Fucked lungs and a liver, good looks in the mirror", "highlighted": false },
+        { "time": 110, "text": "Do I feel alive, feel alive, feel alive? Feel more like limbo, hands out my window", "highlighted": false },
+        { "time": 115, "text": "Chasin' that sunset, that's more my tempo", "highlighted": false },
+        { "time": 120, "text": "That's more my tempo", "highlighted": false },
+        { "time": 125, "text": "Keshi", "highlighted": false },
+        { "time": 130, "text": "ooh, but this is all that I am", "highlighted": false },
+        { "time": 135, "text": "I only show you the best of me", "highlighted": false },
+        { "time": 140, "text": "The best of me", "highlighted": false },
+        { "time": 145, "text": "Ooh, tryin', but I'm just a man", "highlighted": false },
+        { "time": 150, "text": "Hopin' it won't get the best of me, the best of me", "highlighted": false }
+      ]
+    
     },
     {
       "id": 6,
@@ -1626,7 +1895,63 @@
       "img": "assets/img/niki.jpeg",
       "url": "assets/music/everysummertime.mp3",
       "title": "Bài hát 'Every Summertime' của ca sĩ niki là một tác phẩm âm nhạc phóng tác từ một bản nhạc cổ điển nổi tiếng. Giai điệu vui tươi và nhịp điệu bắt tai tạo ra một không khí mừng rỡ và lạc quan cho mỗi mùa hè. Lời bài hát ca ngợi vẻ đẹp và cảm nhận của mùa hè, nhưng cũng thể hiện tình yêu và niềm vui trong những khoảnh khắc đáng nhớ của chúng ta. Giọng hát trong trẻo và phong cách biểu diễn đầy sự hồn nhiên của niki mang đến một trải nghiệm âm nhạc tươi mới và thú vị. 'Every Summertime' là một bài hát lý tưởng để thưởng thức và cảm nhận những cung bậc cảm xúc trong mỗi mùa hè của chúng ta",
-      "time": "3:56"
+      "time": "3:56",
+      "timeplay": [
+        
+        {
+          "time": 10,
+          "text": "18, we were undergrads",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Stayed out late, never made it to class, uh",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "Outer Richmond in a taxi cab You were sweating bullets on the way to my dad's and oh",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "You said, Baby, think we're moving too fast, ah-ah",
+          "highlighted": false
+        },
+        { "time": 30, "text": "...", "highlighted": false },
+        { "time": 35, "text": "", "highlighted": false },
+        { "time": 40, "text": "And I swear the magnolias", "highlighted": false },
+        { "time": 45, "text": "Flashed a smile (flashed a smile)", "highlighted": false },
+        { "time": 50, "text": "And that's when I caught me hoping you'd stay a while (stay a while)", "highlighted": false },
+        { "time": 55, "text": "...", "highlighted": false },
+        { "time": 60, "text": "Baby, I'd give up anything to travel inside your mind", "highlighted": false },
+        { "time": 65, "text": "Baby, I fall in love again come every summertime", "highlighted": false },
+        { "time": 70, "text": "My daddy taught me to choose 'em wisely ", "highlighted": false },
+        { "time": 75, "text": "But you don't have to try", "highlighted": false },
+        { "time": 80, "text": "'Cause, baby, I fall in love every summertime", "highlighted": false },
+        { "time": 85, "text": "25, man we're missing church", "highlighted": false },
+        { "time": 90, "text": "Laugh 'bout everyone we're hating at work", "highlighted": false },
+        { "time": 95, "text": "Dinner with your sister and the jokes kinda hurt", "highlighted": false },
+        { "time": 100, "text": "Cry the way home, and you're putting me first, oh Yeah, we just always know what to say (mh, ah, yeah)", "highlighted": false },
+        { "time": 105, "text": "We're strolling down the boulevard", "highlighted": false },
+        { "time": 110, "text": "And dancing under streetlights ", "highlighted": false },
+        { "time": 115, "text": "(oh, the lights)", "highlighted": false },
+        { "time": 120, "text": "Every year we get older, and I'm still on your side", "highlighted": false },
+        { "time": 125, "text": " (oh, I)", "highlighted": false },
+        { "time": 130, "text": "Baby, I'd give up anything ", "highlighted": false },
+        { "time": 135, "text": "to travel inside your mind", "highlighted": false },
+        { "time": 140, "text": "Baby, I fall in love again come every summertime", "highlighted": false },
+        { "time": 145, "text": "My daddy taught me to choose 'em wisely", "highlighted": false },
+        { "time": 150, "text": "but you don't have to try", "highlighted": false },
+        { "time": 155, "text": "'Cause, baby, I fall in love every summertime", "highlighted": false },
+        { "time": 160, "text": "Every day is summertime", "highlighted": false },
+        { "time": 165, "text": "Every day is summertime with you", "highlighted": false },
+        { "time": 170, "text": "Every day is summertime", "highlighted": false },
+        { "time": 175, "text": "Every day is summertime with you", "highlighted": false }
+      ]
+    
     },
     {
       "id": 7,
@@ -1636,7 +1961,65 @@
       "img": "assets/img/players.png",
       "url": "assets/music/players.mp3",
       "title": "Bài hát 'Players' của ca sĩ LeRay là một tác phẩm âm nhạc đầy năng lượng và phong cách. Giai điệu sôi động và nhịp điệu bắt tai tạo ra một không khí sôi nổi và đầy cảm hứng cho những người nghe. Lời bài hát kể về cuộc sống và tinh thần của những người chơi, những người không ngại thể hiện bản thân và sống cuộc đời một cách tự do và phóng khoáng. Giọng hát mạnh mẽ và phong cách biểu diễn táo bạo của LeRay đã mang đến một trải nghiệm âm nhạc đầy sự hưng phấn và sôi động. 'Players' là một bài hát lý tưởng để thưởng thức và cảm nhận tinh thần của những người tự do và sáng tạo",
-      "time": "2:20"
+      "time": "2:20",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "Yeah 'Cause girls is players too, uh",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Yeah, yeah 'Cause girls is players too (keep it player, baby)",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "'Cause girls is players too Bitches gettin' money all around the world",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "'Cause girls is players too What you know 'bout livin' on the top Penthouse suites, lookin' down on the opps?",
+          "highlighted": false
+        },
+        { "time": 30, "text": "Took him for a test drive, left him on the lot Time is money so I spent it on a watch, hol' on", "highlighted": false },
+        { "time": 35, "text": "Lil' titties showin' through the white tee You can see the thong bussin' out my tight jeans (okay)", "highlighted": false },
+        { "time": 40, "text": "Rocks on my fingers like a nigga wifed me Got another shorty? She ain't nothin' like me (yeah)", "highlighted": false },
+        { "time": 45, "text": "'Bout to catch another flight (yeah) The apple bottom make 'em wanna bite (yeah)", "highlighted": false },
+        { "time": 55, "text": "I just wanna have a good night I just wanna have a good night (hold up)", "highlighted": false },
+        { "time": 55, "text": "If you don't know now you know If he broke then you gotta let him go You could have anybody, eeny, miny, moe ", "highlighted": false },
+        { "time": 60, "text": "'Cause when you a boss, you could do what you want", "highlighted": false },
+        { "time": 65, "text": "Yeah 'Cause girls is players too, uh", "highlighted": false },
+        { "time": 70, "text": "Yeah, yeah 'Cause girls is players too (keep it player, baby)", "highlighted": false },
+        { "time": 75, "text": "'Cause girls is players too Bitches gettin' money all around the world", "highlighted": false },
+        { "time": 80, "text": "'Cause girls is players too I go, on and on and on again", "highlighted": false },
+        { "time": 85, "text": "He blowin' up my phone but I'm ignorin' him He thinkin' he the one, I got like four of him", "highlighted": false },
+        { "time": 90, "text": "Yeah, I'm sittin' first class like Valedictorian, uh Came a long way from rag to riches Five-star bitch, yeah, I taste so delicious ", "highlighted": false },
+        { "time": 95, "text": "Let him lick the plate, yeah, I make him do the dishes Now he on news talk 'cause a bitch went missin', sheesh", "highlighted": false },
+        { "time": 100, "text": "'Bout to catch another flight (yeah) The apple bottom make 'em wanna bite (yeah)", "highlighted": false },
+        { "time": 105, "text": "I just wanna have a good night I just wanna have a good night (hold up)", "highlighted": false },
+        { "time": 110, "text": "If you don't know now you know If he broke then you gotta let him go", "highlighted": false },
+        { "time": 115, "text": "You could have anybody, eeny, miny, moe 'Cause when you a boss, you could do what you want", "highlighted": false },
+        { "time": 120, "text": "Yeah 'Cause girls is players too, uh (And it's time that we let 'em know that)", "highlighted": false },
+        { "time": 125, "text": "'Cause girls is players too (keep it player, baby)", "highlighted": false },
+        { "time": 130, "text": "'Cause girls is players too Bitches gettin' money all around the world", "highlighted": false },
+        { "time": 135, "text": "'Cause girls is players too", "highlighted": false }
+      ]
+    
     },
     {
       "id": 8,
@@ -1646,7 +2029,75 @@
       "img": "assets/img/postmalone.jpeg",
       "url": "assets/music/ilikeyou.mp3",
       "title": "I Like You (A Happier Song) là một bài hát vui tươi và lạc quan của ca sĩ Post Malone. Giai điệu sôi động và nhịp điệu bắt tai sẽ khiến bạn không thể ngồi yên. Lời bài hát mô tả tình yêu và sự hạnh phúc khi gặp gỡ người yêu thương. Bài hát truyền tải thông điệp về niềm vui, sự lạc quan và tình cảm trong một môi trường tươi sáng và lạc quan. Giọng hát phong cách và sự trình diễn tài năng của Post Malone đã mang đến một trải nghiệm âm nhạc sôi động và đáng yêu. I Like You (A Happier Song) là bài hát hoàn hảo để tạo cảm giác hạnh phúc và nâng cao tinh thần của bạn",
-      "time": "3:18"
+      "time": "3:18",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "Ooh, ooh, ooh",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "Ooh, ooh Ooh, girl, I like you, I do",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "I wanna be your friend, go shoppin' in a Benz",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "I like you, I do I'll hit you when I land, can you fit me in your plans? I like you, I do",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "We went over to France and we woke up in Japan I like you, I do (I do, mm, mm)",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "Oh, girl, I know you only like it fancy (fancy)",
+          "highlighted": false
+        },
+        { "time": 30, "text": "So I pull up in that Maybach Candy Yeah, your boyfriend'll never understand me (understand me)", "highlighted": false },
+        { "time": 35, "text": "'Cause I'm 'bout to pull this girl like a hammy, hammy (wow) Let's take a lil' dip, lil' lady", "highlighted": false },
+        { "time": 40, "text": "Hit PCH, one-eighty Hey, I've been thinkin' lately", "highlighted": false },
+        { "time": 45, "text": "That I need someone to save me Now that I'm famous, I got hoes all around me", "highlighted": false },
+        { "time": 50, "text": "But I need a good girl, I need someone to ground me", "highlighted": false },
+        { "time": 55, "text": "So please be true, don't fuck around with me I need someone to share this heart with me", "highlighted": false },
+        { "time": 60, "text": "Feel you up, then run it back again (run it back again)", "highlighted": false },
+        { "time": 65, "text": "Ooh, girl, I like you, I do (I do)", "highlighted": false },
+        { "time": 70, "text": "I wanna be your friend, go shoppin' in a Benz (woo) I like you, I do (I do)", "highlighted": false },
+        { "time": 75, "text": "I'll hit you when I land, can you fit me in your plans? I like you, I do (mm, I do)", "highlighted": false },
+        { "time": 80, "text": "We went over to France and we woke up in Japan I like you, I do (mm, mm, I do)", "highlighted": false },
+        { "time": 85, "text": "Let me know when you're free 'Cause I've been tryna hit it all week, babe", "highlighted": false },
+        { "time": 90, "text": "Why you actin' all sweet? I know that you want lil' on me", "highlighted": false },
+        { "time": 95, "text": "I get a little OD But ain't shit new to a freak", "highlighted": false },
+        { "time": 100, "text": "Lemme drop bands, put a jewel in your teeth He love the way I drip, turn that pool to the beach And I coulda copped the Birkin but I cop Céline", "highlighted": false },
+        { "time": 105, "text": "Why we got the same taste for the finer things? Brand new nigga with the same old team", "highlighted": false },
+        { "time": 110, "text": "Now he got me on a leash 'cause we said no strings You know I'm cool with that", "highlighted": false },
+        { "time": 115, "text": "Stole the pussy, you ain't get sued for that (get sued, sued) Wonder what a nigga might do for that (do, might do)", "highlighted": false },
+        { "time": 120, "text": "I could be your Chaka, where Rufus at? (Where?) Eighty in the Benz when the roof go back, ayy", "highlighted": false },
+        { "time": 125, "text": "They don't wanna see us get too attached, ayy I just got a feelin' that we might be friends for a long, long time", "highlighted": false },
+        { "time": 130, "text": "You're mine, and you know I like you for that Ooh, girl, I like you, I do (I do)", "highlighted": false },
+        { "time": 135, "text": "I wanna be your friend, go shoppin' in a Benz I like you, I do (I do)", "highlighted": false },
+        { "time": 140, "text": "I'll hit you when I land, can you fit me in your plans? (Fit me in your plans) I like you, I do (I do)", "highlighted": false },
+        { "time": 145, "text": "We went over to France and we woke up in Japan I like you, I do (I do, mm, I do)", "highlighted": false },
+        { "time": 150, "text": "I just want you, I just want you Your heart's so big but that ass is huge", "highlighted": false },
+        { "time": 155, "text": "Just want you, oh baby Do you like me too? (Yeah, I like you too)", "highlighted": false },
+        { "time": 160, "text": "Ooh, girl, I like you, I do (I do)", "highlighted": false },
+        { "time": 165, "text": "I wanna be your friend, go shoppin' in a Benz I like you, I do (I do, mm, I do)", "highlighted": false },
+        { "time": 170, "text": "...", "highlighted": false },
+        { "time": 175, "text": "I like you", "highlighted": false },
+        { "time": 180, "text": "...", "highlighted": false },
+        { "time": 185, "text": "I wanna be your girlfriend, baby", "highlighted": false }
+      ]
+    
     },
     {
       "id": 9,
@@ -1656,7 +2107,64 @@
       "img": "assets/img/staceyryan.jpeg",
       "url": "assets/music/fallinlovealone.mp3",
       "title": "Bài hát 'Fall In Love Alone' của ca sĩ Stacey Ryan là một tác phẩm âm nhạc lãng mạn và sâu lắng. Giai điệu nhẹ nhàng và lời bài hát chân thành thể hiện tình yêu và cảm xúc của một người đang trải qua một cuộc tình không được đáp lại. Bài hát kể về một người đơn lẻ và cô đơn trong tình yêu, đồng thời thể hiện sự tình tứ và hy vọng về một tình yêu thực sự. Giọng hát tình cảm và phong cách biểu diễn sâu lắng của Stacey Ryan mang đến một trải nghiệm âm nhạc đầy cảm xúc và xúc động. 'Fall In Love Alone' là một bài hát lý tưởng để lắng nghe trong những khoảnh khắc cô đơn và suy ngẫm về tình yêu",
-      "time": "3:42"
+      "time": "3:42",
+      "timeplay": [
+      
+    
+        {
+          "time": 5,
+          "text": "I'm familiar with unrequited",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "I know you got a heart that's undecided Just like mine",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "It takes its sweet time I've been shy to dive into the deep end",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "'Cause I don't really wanna lose a good friend But I might find something divine",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "It's electric every time we touch I've been livin' for this head rush",
+          "highlighted": false
+        },
+        { "time": 30, "text": "But sometimes it's too much", "highlighted": false },
+        { "time": 35, "text": "If we never try? How will we know", "highlighted": false },
+        { "time": 40, "text": "Baby, how far this thing could go? Give me a sign", "highlighted": false },
+        { "time": 45, "text": "If I'm on your mind ", "highlighted": false },
+        { "time": 50, "text": "I don't wanna fall in love alone", "highlighted": false },
+        { "time": 55, "text": "I wish that I could tell what you were thinkin' I hate that I slip up when I've been drinkin'", "highlighted": false },
+        { "time": 60, "text": "But oh well, I can't help myself I'm gettin' really tired of this back and forth", "highlighted": false },
+        { "time": 65, "text": "Why don't we just give in to this driving force? I mean, there's somethin' between us", "highlighted": false },
+        { "time": 70, "text": "It's electric every time we touch I've been livin' for this head rush", "highlighted": false },
+        { "time": 75, "text": "But sometimes it's too much", "highlighted": false },
+        { "time": 80, "text": "If we never try? How would we know?", "highlighted": false },
+        { "time": 85, "text": "Baby, how far this thing could go?", "highlighted": false },
+        { "time": 90, "text": "Give me a sign If I'm on your mind (you know that you're on my mind)", "highlighted": false },
+        { "time": 95, "text": "I don't want to fall in love alone (I don't wanna fall in love alone)", "highlighted": false },
+        { "time": 100, "text": "If we never try (I don't want to fall in love alone) How will we know (without you)", "highlighted": false },
+        { "time": 105, "text": "Baby, how far this thing could go? (Just how far this thing will go) Give me a sign (give me a sign, give me a sign)", "highlighted": false },
+        { "time": 110, "text": "If I'm on your mind I don't wanna fall in love alone, ooh", "highlighted": false },
+        { "time": 115, "text": "...", "highlighted": false },
+        { "time": 120, "text": "Fall, I don't wanna fall", "highlighted": false },
+        { "time": 125, "text": "I don't wanna fall in love alone ", "highlighted": false },
+        { "time": 130, "text": "(you just need to be right here next to me)", "highlighted": false },
+        { "time": 135, "text": "Fall, I don't wanna fall (next to me, next to me)", "highlighted": false },
+        { "time": 140, "text": "I don't wanna fall in love alone (I don't wanna live without you baby, anymore) Fall, I don't wanna fall (anymore)", "highlighted": false },
+        { "time": 145, "text": "I don't wanna fall in love alone (I, I, I can't be alone)", "highlighted": false },
+        { "time": 150, "text": "Fall, I don't wanna fall I don't wanna fall in love alone", "highlighted": false }
+      ]
+    
     },
     {
       "id": 10,
@@ -1666,7 +2174,80 @@
       "img": "assets/img/troyesivan.jpeg",
       "url": "assets/music/angelbaby.mp3",
       "title": "Bài hát 'Angel Baby' của ca sĩ Troye Sivan là một tác phẩm âm nhạc đầy tình cảm và sự lãng mạn. Giai điệu êm dịu và lời bài hát ngọt ngào tạo nên một không gian mộng mơ và tình yêu. Bài hát kể về một tình yêu đẹp và trong sáng, như một thiên thần hiện hữu trong cuộc sống của người khác. Lời bài hát ca ngợi vẻ đẹp và sự tinh khiết của người yêu, đồng thời thể hiện tình cảm sâu sắc và sự khao khát bên cạnh người mình yêu. Giọng hát tinh tế và phong cách biểu diễn tâm huyết của Troye Sivan mang đến một trải nghiệm âm nhạc đậm chất tình yêu. 'Angel Baby' là một bài hát lý tưởng để nghe trong những khoảnh khắc lãng mạn và tràn đầy cảm xúc.",
-      "time": "3:41"
+      "time": "3:41",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "I need a lover to keep me sane ",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "Pull me from hell, bring me back again",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "Play me the classics Something romantic Give him my all when I don't even have it",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "I always dreamed of a solemn face",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "Someone who feels like a holiday But now I'm in pieces",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "Barely believing Starting to think that I've lost all feeling",
+          "highlighted": false
+        },
+        { "time": 30, "text": "You came out the blue on a rainy night No lie", "highlighted": false },
+        { "time": 35, "text": "I'll tell you how I almost died While you're bringing me back to life", "highlighted": false },
+        { "time": 40, "text": "I just wanna live ", "highlighted": false },
+        { "time": 45, "text": "in this moment forever", "highlighted": false },
+        { "time": 50, "text": "'Cause I'm afraid that living couldn't get any better", "highlighted": false },
+        { "time": 55, "text": "Started giving up on the word forever", "highlighted": false },
+        { "time": 60, "text": "Until you gave up heaven,", "highlighted": false },
+        { "time": 65, "text": " so we could be together", "highlighted": false },
+        { "time": 70, "text": "You're my angel Angel baby, angel", "highlighted": false },
+        { "time": 75, "text": "You're my angel, baby Baby, you're my angel", "highlighted": false },
+        { "time": 80, "text": "Angel baby I fall in love with the little things", "highlighted": false },
+        { "time": 85, "text": "Counting the tattoos on your skin", "highlighted": false },
+        { "time": 90, "text": "Tell me a secret And baby, I'll keep it And maybe we could play house for the weekend", "highlighted": false },
+        { "time": 95, "text": "You came out the blue on a rainy night No lie", "highlighted": false },
+        { "time": 100, "text": "I'll tell you how I almost died ", "highlighted": false },
+        { "time": 105, "text": "While you're bringing me back to life", "highlighted": false },
+        { "time": 110, "text": "I just wanna live in this moment forever", "highlighted": false },
+        { "time": 115, "text": "'Cause I'm afraid that living couldn't get any better", "highlighted": false },
+        { "time": 120, "text": "Started giving up ", "highlighted": false },
+        { "time": 125, "text": "on the word forever ", "highlighted": false },
+        { "time": 130, "text": "Until you gave up heaven, so we could be together", "highlighted": false },
+        { "time": 135, "text": "You're my angel Angel baby, angel", "highlighted": false },
+        { "time": 140, "text": "You're my angel, baby Baby, you're my angel", "highlighted": false },
+        { "time": 145, "text": "Angel baby", "highlighted": false },
+        { "time": 150, "text": "All the sick and twisted nights that I've been waiting for ya", "highlighted": false },
+        { "time": 155, "text": "They were worth it all along, yeah", "highlighted": false },
+        { "time": 160, "text": "I just wanna live in this moment forever", "highlighted": false },
+        { "time": 165, "text": "'Cause I'm afraid that", "highlighted": false },
+        { "time": 170, "text": " living couldn't get any better", "highlighted": false },
+        { "time": 175, "text": "Started giving up on the word forever (on the word forever)", "highlighted": false },
+        { "time": 180, "text": "Until you gave up heaven, so we could be together", "highlighted": false },
+        { "time": 185, "text": "You're my angel Angel baby, angel", "highlighted": false },
+        { "time": 190, "text": "You're my angel, baby ", "highlighted": false },
+        { "time": 195, "text": "Baby, you're my angel", "highlighted": false },
+        { "time": 200, "text": "Angel baby Angel", "highlighted": false },
+        { "time": 205, "text": "Angel baby, angel (you're my angel, baby) You're my angel, baby (you're my angel, baby)", "highlighted": false },
+        { "time": 210, "text": "Baby, you're my angel Angel baby", "highlighted": false }
+      ]
+    
     }
   ],
   "tatca": [
@@ -2295,7 +2876,7 @@
         ]
   
       },
-    {
+     {
       "id": 11,
       "sort": "Global",
       "name": "Die For You",
@@ -2303,7 +2884,69 @@
       "img": "assets/img/dieforyou.jpeg",
       "url": "assets/music/dieforyou.mp3",
       "title": "Bài hát Die For You do ca sĩ The Weeknd trình bày là một tác phẩm âm nhạc đầy cảm xúc và sâu lắng. Giai điệu và lời bài hát chất chứa tình yêu và sự cam kết mạnh mẽ của người yêu. Die For You truyền tải thông điệp về sự sẵn lòng hy sinh và đồng hành với người mình yêu đến tận cùng. Giọng hát đặc trưng và phong cách biểu diễn đầy tâm huyết của The Weeknd đã mang đến một trải nghiệm âm nhạc sôi động và đáng nhớ. Ca khúc này thường được nhận định cao trong sự nghiệp của The Weeknd và có sự ảnh hưởng mạnh mẽ đối với người nghe. Die For You là một bài hát đáng nghe và đặc biệt để truyền tải sự tận tâm và cống hiến trong tình yêu.",
-      "time": "3:53"
+      "time": "3:53",
+      "timeplay": [
+        
+        {
+          "time": 10,
+          "text": "I'm findin' ways to articulate the feelin' I'm goin' through",
+          "highlighted": false
+        },
+    
+        {
+          "time": 15,
+          "text": "I just can't say I don't love you",
+    
+          "highlighted": false
+        },
+        {
+          "time": 20,
+          "text": "'Cause I love you, yeah",
+          "highlighted": false
+        },
+        { "time": 25, "text": "It's hard for me to communicate the thoughts that I hold", "highlighted": false },
+        { "time": 30, "text": "But tonight, I'm gon' let you know", "highlighted": false },
+        { "time": 35, "text": "Let me tell the truth Baby, let me tell the truth, yeah", "highlighted": false },
+        { "time": 40, "text": "You know what I'm thinkin', see it in your eyes", "highlighted": false },
+        { "time": 45, "text": "You hate that you want me, hate it when you cry You're scared to be lonely, 'specially in the night", "highlighted": false },
+        { "time": 50, "text": "I'm scared that I'll miss you, happens every time", "highlighted": false },
+        { "time": 55, "text": "I don't want this feelin', I can't afford love", "highlighted": false },
+        { "time": 60, "text": "I try to find a reason to pull us apart It ain't workin' 'cause you're perfect", "highlighted": false },
+        { "time": 65, "text": "And I know that you're worth it I can't walk away, oh", "highlighted": false },
+        { "time": 70, "text": "Even though we're goin' through it (Ah) And it makes you feel alone", "highlighted": false },
+        { "time": 75, "text": "Just know that I would die for you (Ooh, ooh)", "highlighted": false },
+        { "time": 80, "text": "Baby, I would die for you, yeah", "highlighted": false },
+        { "time": 85, "text": "The distance and the time between us ( Distance and the time)", "highlighted": false },
+        { "time": 90, "text": "It'll never change my mind 'cause Baby, I would die for you (I would die for you)", "highlighted": false },
+        { "time": 95, "text": "Baby, I would die for you, yeah", "highlighted": false },
+        { "time": 100, "text": "I'm findin' ways to stay concentrated on what I gotta do", "highlighted": false },
+        { "time": 105, "text": "Baby boy, it's so hard 'round you", "highlighted": false },
+        { "time": 110, "text": "And yes, I'm blaming you And you know I can't fake it, now or never", "highlighted": false },
+        { "time": 115, "text": "And you insinuating that you think we might be better", "highlighted": false },
+        { "time": 120, "text": "Better me and you Yeah, I know you do (Ooh, oh)", "highlighted": false },
+        { "time": 125, "text": "You know what I'm thinkin', see it in your eyes", "highlighted": false },
+        { "time": 130, "text": "You hate that you want me, hate it when you cry", "highlighted": false },
+        { "time": 135, "text": "It ain't workin', 'cause you're perfect And I know you deserve it", "highlighted": false },
+        { "time": 139, "text": "I can't walk away", "highlighted": false },
+        { "time": 145, "text": "Even though we're goin' through it(Even though) And it makes you feel alone Just know that I would die for you(I would die for you)", "highlighted": false },
+        { "time": 150, "text": "Baby, I would die for you, yeah", "highlighted": false },
+        { "time": 155, "text": "The distance and the time between us", "highlighted": false },
+        { "time": 160, "text": "It'll never change my mind 'Cause baby, I would die for you, uh(I would die for you)", "highlighted": false },
+        { "time": 165, "text": "Baby, I would die for you, yeah(I would die for you)", "highlighted": false },
+        { "time": 170, "text": "I would die for you, I would lie for you", "highlighted": false },
+        { "time": 175, "text": "Keep it real with you, I would kill for you, my baby", "highlighted": false },
+        { "time": 180, "text": "I'm just sayin', yeah", "highlighted": false },
+        { "time": 185, "text": "I would die for you, I would lie for you", "highlighted": false },
+        { "time": 190, "text": "Keep it real with you, I would kill for you, my baby", "highlighted": false },
+        { "time": 195, "text": "Na-na-na, na-na-na, na-na", "highlighted": false },
+        { "time": 200, "text": "Even though we're goin' through it(Ooh, oh, boy) And it makes you feel alone", "highlighted": false },
+        { "time": 205, "text": "Just know that I would die for you", "highlighted": false },
+        { "time": 210, "text": "Baby, I would die for you, yeah", "highlighted": false },
+        { "time": 215, "text": "The distance and the time between us It'll never change my mind", "highlighted": false },
+        { "time": 220, "text": "'Cause baby, I would die for you", "highlighted": false },
+        { "time": 225, "text": "Baby, I would die for you, yeah Oh, babe", "highlighted": false }
+      ]
+    
     },
     {
       "id": 12,
@@ -2313,7 +2956,62 @@
       "img": "assets/img/ari.jpeg",
       "url": "assets/music/motive.mp3",
       "title": "Bài hát Motive do ca sĩ Ariana Grande trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình yêu. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Ariana Grande đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực.",
-      "time": "2:49"
+      "time": "2:49",
+      "timeplay": [
+        {
+          "time": 3,
+          "text": "Mu-mu-mu-murda",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "Tell me why I get this feeling",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "That you really wanna turn me on",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Tell me why I get this feeling That you really wanna make me yours, ah",
+          "highlighted": false
+        },
+        {
+          "time": 20,
+          "text": "'Cause I see you tryin', subliminally tryin'",
+          "highlighted": false
+        },
+        { "time": 25, "text": "To see if I'm gon' be the one to sing along", "highlighted": false },
+        { "time": 30, "text": "I admit it's exciting, parts of me kinda like it", "highlighted": false },
+        { "time": 35, "text": "But before I lead you on", "highlighted": false },
+        { "time": 40, "text": "Baby, tell me, what's your motive? (Motive) What's your motive? (Ah) What's your motive?", "highlighted": false },
+        { "time": 45, "text": "So tell me, what's your motive? (What's your motive?)", "highlighted": false },
+        { "time": 50, "text": "What's your motive? What's your motive? (Ah)", "highlighted": false },
+        { "time": 55, "text": "I could call bullshit all from a mile away (don't say)", "highlighted": false },
+        { "time": 60, "text": "You want me if you can't keep comin' back for me", "highlighted": false },
+        { "time": 65, "text": "Might have to curve you if you just can't talk straight (just say)", "highlighted": false },
+        { "time": 70, "text": "Say what you mean 'cause you might get it 'Cause I see you tryin', subliminally tryin'", "highlighted": false },
+        { "time": 75, "text": "To see if I'm gon' be the one to sing along", "highlighted": false },
+        { "time": 80, "text": "I admit it's exciting, parts of me kinda like it", "highlighted": false },
+        { "time": 85, "text": "But before I lead you on Tell me, what's your motive?", "highlighted": false },
+        { "time": 90, "text": "What's your motive?", "highlighted": false },
+        { "time": 95, "text": "What's your motive? (Ah) So tell me, what's your motive?", "highlighted": false },
+        { "time": 100, "text": "What's your motive? What's your motive? (Ayy, yeah, yeah, ayy, ah)", "highlighted": false },
+        { "time": 105, "text": "You treat me like gold, baby Now you wanna spoil me Did you want a trophy or you wanna sport me, baby?", "highlighted": false },
+        { "time": 110, "text": "Want me on your neck 'cause you wanted respect", "highlighted": false },
+        { "time": 115, "text": "'Cause you fightin' some war, baby Well, I had to bring the fists out, had to put a wall up I don't trust phonies, baby (yeah, yeah, yeah, yeah)", "highlighted": false },
+        { "time": 120, "text": "You gotta tell me, what's your motive, baby? Cause you got your candy (yeah) on your arm (yeah)", "highlighted": false },
+        { "time": 125, "text": "No need to sugarcoat a lie (yeah) Say what you want, I needed a real bona fide G (come on)", "highlighted": false },
+        { "time": 130, "text": "Can you promise me you'll bring it all tonight? (Give it to me)", "highlighted": false },
+        { "time": 135, "text": "Cause I need you to be wise Tell me everything that's on your mind, come on", "highlighted": false },
+        { "time": 140, "text": "What's your motive? (What's your motive? What's your motive? (What's your motive? Ah)", "highlighted": false },
+        { "time": 145, "text": "So tell me, what's your motive? (Better tell me, baby)", "highlighted": false },
+        { "time": 150, "text": "What's your motive? (What's your motive? Better tell me, baby) What's your motive? (Yeah, ayy, ah)", "highlighted": false }
+      ]
+    
     },
     {
       "id": 13,
@@ -2322,8 +3020,72 @@
       "casy": "Camilla Cabello",
       "img": "assets/img/camilla.jpeg",
       "url": "assets/music/realfriends.mp3",
-      "title": "Bài hát Real Friends do ca sĩ Camilla Cabello trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Motive là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình bạn. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Camilla Cabello đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực.",
-      "time": "3:36"
+      "title": "Bài hát Real Friends do ca sĩ Camilla Cabello trình bày là một tác phẩm âm nhạc sôi động và cuốn hút. Giai điệu bắt tai và nhịp điệu nhanh đã tạo ra một không gian âm nhạc năng động và thú vị cho ca khúc này. Real Friends là một bản nhạc pop có tiếng rap và hợp tác với một nghệ sĩ khác. Ca khúc này truyền tải thông điệp về việc có động lực và mục tiêu trong cuộc sống và tình bạn. Giọng hát đầy sức mạnh và phong cách biểu diễn độc đáo của Camilla Cabello đã mang đến một trải nghiệm âm nhạc đầy sự phấn khích và sôi động. Motive là một bài hát thú vị để thưởng thức và cảm nhận không gian âm nhạc đầy năng lượng và cảm xúc tích cực.",
+      "time": "3:36",
+      "timeplay": [
+        {
+          "time": 10,
+          "text": "No, I think I'll stay in tonight",
+          "highlighted": false
+        },
+    
+        {
+          "time": 15,
+          "text": "Skip the conversations and the, oh, I'm fine's",
+          "highlighted": false
+        },
+        {
+          "time": 20,
+          "text": "No, I'm no stranger to surprise",
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "This paper town has let me down too many times",
+          "highlighted": false
+        },
+    
+        {
+          "time": 30,
+          "text": "Why do I even try? Give me a reason why",
+
+          "highlighted": false
+        },
+        { "time": 35, "text": "I thought that I could trust you, nevermind", "highlighted": false },
+        { "time": 40, "text": "Why all the switching sides?", "highlighted": false },
+        { "time": 45, "text": "Where do I draw the line? I guess I'm too naive to read the signs", "highlighted": false },
+        { "time": 50, "text": "I'm just lookin' for some real friends All they ever do is let me down", "highlighted": false },
+        { "time": 55, "text": "Every time I let somebody in Then I find out what they're all about", "highlighted": false },
+        { "time": 60, "text": "I'm just lookin' for some real friends Wonder where they're all hidin' out", "highlighted": false },
+        { "time": 65, "text": "I'm just lookin' for some real friends", "highlighted": false },
+        { "time": 70, "text": "Gotta get up out of this town (Oh, ooh)", "highlighted": false },
+        { "time": 80, "text": "Just slow for a reason", "highlighted": false },
+        { "time": 85, "text": "Sit down afraid, pretty easy Stayin' down 'till the world ends", "highlighted": false },
+        { "time": 90, "text": "Kill trips on the weekend", "highlighted": false },
+        { "time": 95, "text": "I pack more than suits in my suitcases All this cash, that's friendly faces", "highlighted": false },
+        { "time": 100, "text": "Been movin' fast, I'm racin' Get up, you're going places", "highlighted": false },
+        { "time": 105, "text": "Every day, tryna maintain Same old me, ain't a damn thing change", "highlighted": false },
+        { "time": 110, "text": "Real friends screaming, Gang, gang, gang", "highlighted": false },
+        { "time": 115, "text": "I'm just lookin' for some real friends (Real friends) All they ever do is let me down", "highlighted": false },
+        { "time": 120, "text": "Every time I let somebody in Then I find out what they're all about (all about)", "highlighted": false },
+        { "time": 125, "text": "I'm just lookin' for some real friends (real friends) Wonder where they're all hidin' out (hidin' out)", "highlighted": false },
+        { "time": 130, "text": "I'm just lookin' for some real friends (real friends) ", "highlighted": false },
+        { "time": 135, "text": "...", "highlighted": false },
+        { "time": 155, "text": "I just wanna talk about nothin' with somebody that means something", "highlighted": false },
+        { "time": 160, "text": "Spell the names of all our dreams and demons For the times that I don't understand", "highlighted": false },
+        { "time": 165, "text": "Tell me what's the point of a moon like this When I'm alone again", "highlighted": false },
+        { "time": 170, "text": "Can I run away to somewhere beautiful Where nobody knows my name?", "highlighted": false },
+        { "time": 175, "text": "I'm just lookin' for some real friends All they ever do is let me down", "highlighted": false },
+        { "time": 180, "text": "And I let somebody in", "highlighted": false },
+        { "time": 185, "text": "But I find out what they're all about I'm just lookin' for some real friends (real friends)", "highlighted": false },
+        { "time": 190, "text": "All they ever do is let me down I'm just lookin' for some real friends (real friends)", "highlighted": false },
+        { "time": 195, "text": "Gotta get up out of this town, yeah Spend a fortune with my real friends", "highlighted": false },
+        { "time": 200, "text": "Good gas, what we breathe in (oh, ohhh) Pop corns with some real friends", "highlighted": false },
+        { "time": 205, "text": "Killin' the scene, yeah (ohhh, ah)", "highlighted": false },
+        { "time": 210, "text": " with my real friends Gotta surround myself with (ohhh, ah)", "highlighted": false },
+        { "time": 215, "text": "You have to have my back (ah) Lookin' like my real friends", "highlighted": false }
+      ]
+    
     },
     {
       "id": 14,
@@ -2333,7 +3095,61 @@
       "img": "assets/img/jax.jpeg",
       "url": "assets/music/likemyfather.mp3",
       "title": "Bài hát Like My Father do ca sĩ Jax trình bày là một tác phẩm âm nhạc cảm động và đầy ý nghĩa. Giai điệu nhẹ nhàng và lời bài hát chất chứa những suy nghĩ về tình yêu và lòng biết ơn đối với người cha. Like My Father mô tả một câu chuyện về sự lớn lên và học hỏi từ người cha, với thông điệp về sự khao khát trở thành người mạnh mẽ và đáng tự hào như cha mình. Giọng hát đầy cảm xúc và sự trình diễn chân thành của Jax đã mang đến một trải nghiệm âm nhạc chân thành và xúc động. Like My Father là bài hát thích hợp để tưởng nhớ và tôn vinh tình cha mẹ và những giá trị gia đình.",
-      "time": "3:08"
+      "time": "3:08",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "...",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "I wanna come home to roses",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "And dirty little notes on Post-its",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "And when my hair starts turning gray He'll say I'm like a fine wine, better with age",
+          "highlighted": false
+        },
+        { "time": 30, "text": "I guess I learned it from my parents", "highlighted": false },
+        { "time": 35, "text": "That true love starts with friendship", "highlighted": false },
+        { "time": 40, "text": "A kiss on the forehead, a date night Fake an apology after a fight", "highlighted": false },
+        { "time": 45, "text": "I need a man who's patient and kind Gets out of the car and holds the door", "highlighted": false },
+        { "time": 55, "text": "I wanna slow dance in the living room like We're 18 at senior prom and grow", "highlighted": false },
+        { "time": 60, "text": "Old with someone who makes me feel young I need a man who loves me like", "highlighted": false },
+        { "time": 65, "text": "My father loves my mom", "highlighted": false },
+        { "time": 70, "text": "...", "highlighted": false },
+        { "time": 80, "text": "I want a road trip in the summers", "highlighted": false },
+        { "time": 85, "text": "I wanna make fun of each other", "highlighted": false },
+        { "time": 90, "text": "I wanna rock out to Billy Joe And flip our kids off when they call us old", "highlighted": false },
+        { "time": 95, "text": "He'll accidentally burn our dinner", "highlighted": false },
+        { "time": 100, "text": "And let me be the scrabble winner", "highlighted": false },
+        { "time": 105, "text": "And when my body changes shapesHe'll say, Oh my God, you look hot today ", "highlighted": false },
+        { "time": 110, "text": "I need a man who's patient and kind", "highlighted": false },
+        { "time": 115, "text": "Gets out of the car and holds the door", "highlighted": false },
+        { "time": 120, "text": "I wanna slow dance in the living room like We're 18 at senior prom and grow", "highlighted": false },
+        { "time": 125, "text": "Old with someone who makes me feel young", "highlighted": false },
+        { "time": 130, "text": "I need a man who loves me like My father loves my mom", "highlighted": false },
+        { "time": 135, "text": "And if he lives up to my father Maybe he could teach our daughter", "highlighted": false },
+        { "time": 140, "text": "What it takes to love a queen", "highlighted": false },
+        { "time": 145, "text": "She should know she's royalty", "highlighted": false },
+        { "time": 150, "text": "I need a man who's patient and kind Gets out of the car and holds the door", "highlighted": false },
+        { "time": 155, "text": "I wanna slow dance in the living room like", "highlighted": false },
+        { "time": 160, "text": "We're 18 at senior prom and grow Old with someone who makes me feel young", "highlighted": false },
+        { "time": 165, "text": "I need a man who loves me like", "highlighted": false },
+        { "time": 170, "text": "My father loves my mom", "highlighted": false },
+        { "time": 175, "text": "I need a man who loves me like", "highlighted": false },
+        { "time": 180, "text": "My father loves my mom", "highlighted": false }
+      ]
+    
     },
     {
       "id": 15,
@@ -2343,7 +3159,41 @@
       "img": "assets/img/keshi.jpeg",
       "url": "assets/music/limbo.mp3",
       "title": "Bài hát LIMBO do ca sĩ keshi trình bày là một tác phẩm âm nhạc mang tính chất tâm trạng và sâu lắng. Giai điệu nhẹ nhàng và hòa âm điệp khúc đã tạo ra một không gian âm nhạc mơ màng và tương tác với cảm xúc của người nghe. LIMBO lời bài hát thể hiện sự khắc khoải và tìm kiếm sự định hướng trong cuộc sống, nhưng cũng mang đến hy vọng và sự lạc quan. Giọng hát tinh tế và phong cách biểu diễn sâu lắng của keshi đã mang đến một trải nghiệm âm nhạc đầy cảm xúc và sâu sắc. LIMBO là bài hát thích hợp để lắng nghe và thấu hiểu về những tâm trạng và suy ngẫm trong cuộc sống.",
-      "time": "3:33"
+      "time": "3:33",
+      "timeplay": [
+      
+        {
+          "time": 25,
+          "text": "I just been goin' through motions back and forth like a ocean I am a fraud, I am the shit hoping that nobody notice",
+          "highlighted": false
+        },
+        { "time": 30, "text": "Bang chest in the morning Head down in the night Drink less if I wanted", "highlighted": false },
+        { "time": 35, "text": "Strike up with the light", "highlighted": false },
+        { "time": 40, "text": "And square up, I'm the mightiest, myself in the fight Hurt twice, but I tried it", "highlighted": false },
+        { "time": 45, "text": "No advice for this shit, might die for this shit", "highlighted": false },
+        { "time": 50, "text": "Do I feel alive, feel alive, feel alive? Feel more like limbo, hands out my window", "highlighted": false },
+        { "time": 55, "text": "Chasin' that sunset, that's more my tempo", "highlighted": false },
+        { "time": 60, "text": "Yeah, that's more my tempo", "highlighted": false },
+        { "time": 65, "text": "Ooh, but this is all that I am ", "highlighted": false },
+        { "time": 70, "text": "I only show you the best of me ", "highlighted": false },
+        { "time": 75, "text": "The best of me", "highlighted": false },
+        { "time": 80, "text": "Looked in my demons and saw myself", "highlighted": false },
+        { "time": 85, "text": "Put all my meaning in someone else", "highlighted": false },
+        { "time": 90, "text": "Outta sight, outta mind, don't know where to find it", "highlighted": false },
+        { "time": 95, "text": "Don't know where to hide, but I still Eat good, drink good, feel good, it's all good", "highlighted": false },
+        { "time": 100, "text": "Can't hear my head when I'm sat beside ya", "highlighted": false },
+        { "time": 105, "text": "Fucked lungs and a liver, good looks in the mirror", "highlighted": false },
+        { "time": 110, "text": "Do I feel alive, feel alive, feel alive? Feel more like limbo, hands out my window", "highlighted": false },
+        { "time": 115, "text": "Chasin' that sunset, that's more my tempo", "highlighted": false },
+        { "time": 120, "text": "That's more my tempo", "highlighted": false },
+        { "time": 125, "text": "Keshi", "highlighted": false },
+        { "time": 130, "text": "ooh, but this is all that I am", "highlighted": false },
+        { "time": 135, "text": "I only show you the best of me", "highlighted": false },
+        { "time": 140, "text": "The best of me", "highlighted": false },
+        { "time": 145, "text": "Ooh, tryin', but I'm just a man", "highlighted": false },
+        { "time": 150, "text": "Hopin' it won't get the best of me, the best of me", "highlighted": false }
+      ]
+    
     },
     {
       "id": 16,
@@ -2353,7 +3203,63 @@
       "img": "assets/img/niki.jpeg",
       "url": "assets/music/everysummertime.mp3",
       "title": "Bài hát 'Every Summertime' của ca sĩ niki là một tác phẩm âm nhạc phóng tác từ một bản nhạc cổ điển nổi tiếng. Giai điệu vui tươi và nhịp điệu bắt tai tạo ra một không khí mừng rỡ và lạc quan cho mỗi mùa hè. Lời bài hát ca ngợi vẻ đẹp và cảm nhận của mùa hè, nhưng cũng thể hiện tình yêu và niềm vui trong những khoảnh khắc đáng nhớ của chúng ta. Giọng hát trong trẻo và phong cách biểu diễn đầy sự hồn nhiên của niki mang đến một trải nghiệm âm nhạc tươi mới và thú vị. 'Every Summertime' là một bài hát lý tưởng để thưởng thức và cảm nhận những cung bậc cảm xúc trong mỗi mùa hè của chúng ta",
-      "time": "3:56"
+      "time": "3:56",
+      "timeplay": [
+        
+        {
+          "time": 10,
+          "text": "18, we were undergrads",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Stayed out late, never made it to class, uh",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "Outer Richmond in a taxi cab You were sweating bullets on the way to my dad's and oh",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "You said, Baby, think we're moving too fast, ah-ah",
+          "highlighted": false
+        },
+        { "time": 30, "text": "...", "highlighted": false },
+        { "time": 35, "text": "", "highlighted": false },
+        { "time": 40, "text": "And I swear the magnolias", "highlighted": false },
+        { "time": 45, "text": "Flashed a smile (flashed a smile)", "highlighted": false },
+        { "time": 50, "text": "And that's when I caught me hoping you'd stay a while (stay a while)", "highlighted": false },
+        { "time": 55, "text": "...", "highlighted": false },
+        { "time": 60, "text": "Baby, I'd give up anything to travel inside your mind", "highlighted": false },
+        { "time": 65, "text": "Baby, I fall in love again come every summertime", "highlighted": false },
+        { "time": 70, "text": "My daddy taught me to choose 'em wisely ", "highlighted": false },
+        { "time": 75, "text": "But you don't have to try", "highlighted": false },
+        { "time": 80, "text": "'Cause, baby, I fall in love every summertime", "highlighted": false },
+        { "time": 85, "text": "25, man we're missing church", "highlighted": false },
+        { "time": 90, "text": "Laugh 'bout everyone we're hating at work", "highlighted": false },
+        { "time": 95, "text": "Dinner with your sister and the jokes kinda hurt", "highlighted": false },
+        { "time": 100, "text": "Cry the way home, and you're putting me first, oh Yeah, we just always know what to say (mh, ah, yeah)", "highlighted": false },
+        { "time": 105, "text": "We're strolling down the boulevard", "highlighted": false },
+        { "time": 110, "text": "And dancing under streetlights ", "highlighted": false },
+        { "time": 115, "text": "(oh, the lights)", "highlighted": false },
+        { "time": 120, "text": "Every year we get older, and I'm still on your side", "highlighted": false },
+        { "time": 125, "text": " (oh, I)", "highlighted": false },
+        { "time": 130, "text": "Baby, I'd give up anything ", "highlighted": false },
+        { "time": 135, "text": "to travel inside your mind", "highlighted": false },
+        { "time": 140, "text": "Baby, I fall in love again come every summertime", "highlighted": false },
+        { "time": 145, "text": "My daddy taught me to choose 'em wisely", "highlighted": false },
+        { "time": 150, "text": "but you don't have to try", "highlighted": false },
+        { "time": 155, "text": "'Cause, baby, I fall in love every summertime", "highlighted": false },
+        { "time": 160, "text": "Every day is summertime", "highlighted": false },
+        { "time": 165, "text": "Every day is summertime with you", "highlighted": false },
+        { "time": 170, "text": "Every day is summertime", "highlighted": false },
+        { "time": 175, "text": "Every day is summertime with you", "highlighted": false }
+      ]
+    
     },
     {
       "id": 17,
@@ -2363,7 +3269,65 @@
       "img": "assets/img/players.png",
       "url": "assets/music/players.mp3",
       "title": "Bài hát 'Players' của ca sĩ LeRay là một tác phẩm âm nhạc đầy năng lượng và phong cách. Giai điệu sôi động và nhịp điệu bắt tai tạo ra một không khí sôi nổi và đầy cảm hứng cho những người nghe. Lời bài hát kể về cuộc sống và tinh thần của những người chơi, những người không ngại thể hiện bản thân và sống cuộc đời một cách tự do và phóng khoáng. Giọng hát mạnh mẽ và phong cách biểu diễn táo bạo của LeRay đã mang đến một trải nghiệm âm nhạc đầy sự hưng phấn và sôi động. 'Players' là một bài hát lý tưởng để thưởng thức và cảm nhận tinh thần của những người tự do và sáng tạo",
-      "time": "2:20"
+      "time": "2:20",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "Yeah 'Cause girls is players too, uh",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "Yeah, yeah 'Cause girls is players too (keep it player, baby)",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "'Cause girls is players too Bitches gettin' money all around the world",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "'Cause girls is players too What you know 'bout livin' on the top Penthouse suites, lookin' down on the opps?",
+          "highlighted": false
+        },
+        { "time": 30, "text": "Took him for a test drive, left him on the lot Time is money so I spent it on a watch, hol' on", "highlighted": false },
+        { "time": 35, "text": "Lil' titties showin' through the white tee You can see the thong bussin' out my tight jeans (okay)", "highlighted": false },
+        { "time": 40, "text": "Rocks on my fingers like a nigga wifed me Got another shorty? She ain't nothin' like me (yeah)", "highlighted": false },
+        { "time": 45, "text": "'Bout to catch another flight (yeah) The apple bottom make 'em wanna bite (yeah)", "highlighted": false },
+        { "time": 55, "text": "I just wanna have a good night I just wanna have a good night (hold up)", "highlighted": false },
+        { "time": 55, "text": "If you don't know now you know If he broke then you gotta let him go You could have anybody, eeny, miny, moe ", "highlighted": false },
+        { "time": 60, "text": "'Cause when you a boss, you could do what you want", "highlighted": false },
+        { "time": 65, "text": "Yeah 'Cause girls is players too, uh", "highlighted": false },
+        { "time": 70, "text": "Yeah, yeah 'Cause girls is players too (keep it player, baby)", "highlighted": false },
+        { "time": 75, "text": "'Cause girls is players too Bitches gettin' money all around the world", "highlighted": false },
+        { "time": 80, "text": "'Cause girls is players too I go, on and on and on again", "highlighted": false },
+        { "time": 85, "text": "He blowin' up my phone but I'm ignorin' him He thinkin' he the one, I got like four of him", "highlighted": false },
+        { "time": 90, "text": "Yeah, I'm sittin' first class like Valedictorian, uh Came a long way from rag to riches Five-star bitch, yeah, I taste so delicious ", "highlighted": false },
+        { "time": 95, "text": "Let him lick the plate, yeah, I make him do the dishes Now he on news talk 'cause a bitch went missin', sheesh", "highlighted": false },
+        { "time": 100, "text": "'Bout to catch another flight (yeah) The apple bottom make 'em wanna bite (yeah)", "highlighted": false },
+        { "time": 105, "text": "I just wanna have a good night I just wanna have a good night (hold up)", "highlighted": false },
+        { "time": 110, "text": "If you don't know now you know If he broke then you gotta let him go", "highlighted": false },
+        { "time": 115, "text": "You could have anybody, eeny, miny, moe 'Cause when you a boss, you could do what you want", "highlighted": false },
+        { "time": 120, "text": "Yeah 'Cause girls is players too, uh (And it's time that we let 'em know that)", "highlighted": false },
+        { "time": 125, "text": "'Cause girls is players too (keep it player, baby)", "highlighted": false },
+        { "time": 130, "text": "'Cause girls is players too Bitches gettin' money all around the world", "highlighted": false },
+        { "time": 135, "text": "'Cause girls is players too", "highlighted": false }
+      ]
+    
     },
     {
       "id": 18,
@@ -2373,7 +3337,75 @@
       "img": "assets/img/postmalone.jpeg",
       "url": "assets/music/ilikeyou.mp3",
       "title": "I Like You (A Happier Song) là một bài hát vui tươi và lạc quan của ca sĩ Post Malone. Giai điệu sôi động và nhịp điệu bắt tai sẽ khiến bạn không thể ngồi yên. Lời bài hát mô tả tình yêu và sự hạnh phúc khi gặp gỡ người yêu thương. Bài hát truyền tải thông điệp về niềm vui, sự lạc quan và tình cảm trong một môi trường tươi sáng và lạc quan. Giọng hát phong cách và sự trình diễn tài năng của Post Malone đã mang đến một trải nghiệm âm nhạc sôi động và đáng yêu. I Like You (A Happier Song) là bài hát hoàn hảo để tạo cảm giác hạnh phúc và nâng cao tinh thần của bạn",
-      "time": "3:18"
+      "time": "3:18",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "Ooh, ooh, ooh",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "Ooh, ooh Ooh, girl, I like you, I do",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "I wanna be your friend, go shoppin' in a Benz",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "I like you, I do I'll hit you when I land, can you fit me in your plans? I like you, I do",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "We went over to France and we woke up in Japan I like you, I do (I do, mm, mm)",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "Oh, girl, I know you only like it fancy (fancy)",
+          "highlighted": false
+        },
+        { "time": 30, "text": "So I pull up in that Maybach Candy Yeah, your boyfriend'll never understand me (understand me)", "highlighted": false },
+        { "time": 35, "text": "'Cause I'm 'bout to pull this girl like a hammy, hammy (wow) Let's take a lil' dip, lil' lady", "highlighted": false },
+        { "time": 40, "text": "Hit PCH, one-eighty Hey, I've been thinkin' lately", "highlighted": false },
+        { "time": 45, "text": "That I need someone to save me Now that I'm famous, I got hoes all around me", "highlighted": false },
+        { "time": 50, "text": "But I need a good girl, I need someone to ground me", "highlighted": false },
+        { "time": 55, "text": "So please be true, don't fuck around with me I need someone to share this heart with me", "highlighted": false },
+        { "time": 60, "text": "Feel you up, then run it back again (run it back again)", "highlighted": false },
+        { "time": 65, "text": "Ooh, girl, I like you, I do (I do)", "highlighted": false },
+        { "time": 70, "text": "I wanna be your friend, go shoppin' in a Benz (woo) I like you, I do (I do)", "highlighted": false },
+        { "time": 75, "text": "I'll hit you when I land, can you fit me in your plans? I like you, I do (mm, I do)", "highlighted": false },
+        { "time": 80, "text": "We went over to France and we woke up in Japan I like you, I do (mm, mm, I do)", "highlighted": false },
+        { "time": 85, "text": "Let me know when you're free 'Cause I've been tryna hit it all week, babe", "highlighted": false },
+        { "time": 90, "text": "Why you actin' all sweet? I know that you want lil' on me", "highlighted": false },
+        { "time": 95, "text": "I get a little OD But ain't shit new to a freak", "highlighted": false },
+        { "time": 100, "text": "Lemme drop bands, put a jewel in your teeth He love the way I drip, turn that pool to the beach And I coulda copped the Birkin but I cop Céline", "highlighted": false },
+        { "time": 105, "text": "Why we got the same taste for the finer things? Brand new nigga with the same old team", "highlighted": false },
+        { "time": 110, "text": "Now he got me on a leash 'cause we said no strings You know I'm cool with that", "highlighted": false },
+        { "time": 115, "text": "Stole the pussy, you ain't get sued for that (get sued, sued) Wonder what a nigga might do for that (do, might do)", "highlighted": false },
+        { "time": 120, "text": "I could be your Chaka, where Rufus at? (Where?) Eighty in the Benz when the roof go back, ayy", "highlighted": false },
+        { "time": 125, "text": "They don't wanna see us get too attached, ayy I just got a feelin' that we might be friends for a long, long time", "highlighted": false },
+        { "time": 130, "text": "You're mine, and you know I like you for that Ooh, girl, I like you, I do (I do)", "highlighted": false },
+        { "time": 135, "text": "I wanna be your friend, go shoppin' in a Benz I like you, I do (I do)", "highlighted": false },
+        { "time": 140, "text": "I'll hit you when I land, can you fit me in your plans? (Fit me in your plans) I like you, I do (I do)", "highlighted": false },
+        { "time": 145, "text": "We went over to France and we woke up in Japan I like you, I do (I do, mm, I do)", "highlighted": false },
+        { "time": 150, "text": "I just want you, I just want you Your heart's so big but that ass is huge", "highlighted": false },
+        { "time": 155, "text": "Just want you, oh baby Do you like me too? (Yeah, I like you too)", "highlighted": false },
+        { "time": 160, "text": "Ooh, girl, I like you, I do (I do)", "highlighted": false },
+        { "time": 165, "text": "I wanna be your friend, go shoppin' in a Benz I like you, I do (I do, mm, I do)", "highlighted": false },
+        { "time": 170, "text": "...", "highlighted": false },
+        { "time": 175, "text": "I like you", "highlighted": false },
+        { "time": 180, "text": "...", "highlighted": false },
+        { "time": 185, "text": "I wanna be your girlfriend, baby", "highlighted": false }
+      ]
+    
     },
     {
       "id": 19,
@@ -2383,9 +3415,65 @@
       "img": "assets/img/staceyryan.jpeg",
       "url": "assets/music/fallinlovealone.mp3",
       "title": "Bài hát 'Fall In Love Alone' của ca sĩ Stacey Ryan là một tác phẩm âm nhạc lãng mạn và sâu lắng. Giai điệu nhẹ nhàng và lời bài hát chân thành thể hiện tình yêu và cảm xúc của một người đang trải qua một cuộc tình không được đáp lại. Bài hát kể về một người đơn lẻ và cô đơn trong tình yêu, đồng thời thể hiện sự tình tứ và hy vọng về một tình yêu thực sự. Giọng hát tình cảm và phong cách biểu diễn sâu lắng của Stacey Ryan mang đến một trải nghiệm âm nhạc đầy cảm xúc và xúc động. 'Fall In Love Alone' là một bài hát lý tưởng để lắng nghe trong những khoảnh khắc cô đơn và suy ngẫm về tình yêu",
-      "time": "3:42"
+      "time": "3:42",
+      "timeplay": [
+      
+    
+        {
+          "time": 5,
+          "text": "I'm familiar with unrequited",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "I know you got a heart that's undecided Just like mine",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "It takes its sweet time I've been shy to dive into the deep end",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "'Cause I don't really wanna lose a good friend But I might find something divine",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "It's electric every time we touch I've been livin' for this head rush",
+          "highlighted": false
+        },
+        { "time": 30, "text": "But sometimes it's too much", "highlighted": false },
+        { "time": 35, "text": "If we never try? How will we know", "highlighted": false },
+        { "time": 40, "text": "Baby, how far this thing could go? Give me a sign", "highlighted": false },
+        { "time": 45, "text": "If I'm on your mind ", "highlighted": false },
+        { "time": 50, "text": "I don't wanna fall in love alone", "highlighted": false },
+        { "time": 55, "text": "I wish that I could tell what you were thinkin' I hate that I slip up when I've been drinkin'", "highlighted": false },
+        { "time": 60, "text": "But oh well, I can't help myself I'm gettin' really tired of this back and forth", "highlighted": false },
+        { "time": 65, "text": "Why don't we just give in to this driving force? I mean, there's somethin' between us", "highlighted": false },
+        { "time": 70, "text": "It's electric every time we touch I've been livin' for this head rush", "highlighted": false },
+        { "time": 75, "text": "But sometimes it's too much", "highlighted": false },
+        { "time": 80, "text": "If we never try? How would we know?", "highlighted": false },
+        { "time": 85, "text": "Baby, how far this thing could go?", "highlighted": false },
+        { "time": 90, "text": "Give me a sign If I'm on your mind (you know that you're on my mind)", "highlighted": false },
+        { "time": 95, "text": "I don't want to fall in love alone (I don't wanna fall in love alone)", "highlighted": false },
+        { "time": 100, "text": "If we never try (I don't want to fall in love alone) How will we know (without you)", "highlighted": false },
+        { "time": 105, "text": "Baby, how far this thing could go? (Just how far this thing will go) Give me a sign (give me a sign, give me a sign)", "highlighted": false },
+        { "time": 110, "text": "If I'm on your mind I don't wanna fall in love alone, ooh", "highlighted": false },
+        { "time": 115, "text": "...", "highlighted": false },
+        { "time": 120, "text": "Fall, I don't wanna fall", "highlighted": false },
+        { "time": 125, "text": "I don't wanna fall in love alone ", "highlighted": false },
+        { "time": 130, "text": "(you just need to be right here next to me)", "highlighted": false },
+        { "time": 135, "text": "Fall, I don't wanna fall (next to me, next to me)", "highlighted": false },
+        { "time": 140, "text": "I don't wanna fall in love alone (I don't wanna live without you baby, anymore) Fall, I don't wanna fall (anymore)", "highlighted": false },
+        { "time": 145, "text": "I don't wanna fall in love alone (I, I, I can't be alone)", "highlighted": false },
+        { "time": 150, "text": "Fall, I don't wanna fall I don't wanna fall in love alone", "highlighted": false }
+      ]
+    
     },
-
     {
       "id": 20,
       "sort": "Global",
@@ -2394,7 +3482,80 @@
       "img": "assets/img/troyesivan.jpeg",
       "url": "assets/music/angelbaby.mp3",
       "title": "Bài hát 'Angel Baby' của ca sĩ Troye Sivan là một tác phẩm âm nhạc đầy tình cảm và sự lãng mạn. Giai điệu êm dịu và lời bài hát ngọt ngào tạo nên một không gian mộng mơ và tình yêu. Bài hát kể về một tình yêu đẹp và trong sáng, như một thiên thần hiện hữu trong cuộc sống của người khác. Lời bài hát ca ngợi vẻ đẹp và sự tinh khiết của người yêu, đồng thời thể hiện tình cảm sâu sắc và sự khao khát bên cạnh người mình yêu. Giọng hát tinh tế và phong cách biểu diễn tâm huyết của Troye Sivan mang đến một trải nghiệm âm nhạc đậm chất tình yêu. 'Angel Baby' là một bài hát lý tưởng để nghe trong những khoảnh khắc lãng mạn và tràn đầy cảm xúc.",
-      "time": "3:41"
+      "time": "3:41",
+      "timeplay": [
+        {
+          "time": 0,
+          "text": "I need a lover to keep me sane ",
+          "highlighted": false
+        },
+    
+        {
+          "time": 5,
+          "text": "Pull me from hell, bring me back again",
+          "highlighted": false
+        },
+        {
+          "time": 10,
+          "text": "Play me the classics Something romantic Give him my all when I don't even have it",
+          "highlighted": false
+        },
+        {
+          "time": 15,
+          "text": "I always dreamed of a solemn face",
+          "highlighted": false
+        },
+    
+        {
+          "time": 20,
+          "text": "Someone who feels like a holiday But now I'm in pieces",
+    
+          "highlighted": false
+        },
+        {
+          "time": 25,
+          "text": "Barely believing Starting to think that I've lost all feeling",
+          "highlighted": false
+        },
+        { "time": 30, "text": "You came out the blue on a rainy night No lie", "highlighted": false },
+        { "time": 35, "text": "I'll tell you how I almost died While you're bringing me back to life", "highlighted": false },
+        { "time": 40, "text": "I just wanna live ", "highlighted": false },
+        { "time": 45, "text": "in this moment forever", "highlighted": false },
+        { "time": 50, "text": "'Cause I'm afraid that living couldn't get any better", "highlighted": false },
+        { "time": 55, "text": "Started giving up on the word forever", "highlighted": false },
+        { "time": 60, "text": "Until you gave up heaven,", "highlighted": false },
+        { "time": 65, "text": " so we could be together", "highlighted": false },
+        { "time": 70, "text": "You're my angel Angel baby, angel", "highlighted": false },
+        { "time": 75, "text": "You're my angel, baby Baby, you're my angel", "highlighted": false },
+        { "time": 80, "text": "Angel baby I fall in love with the little things", "highlighted": false },
+        { "time": 85, "text": "Counting the tattoos on your skin", "highlighted": false },
+        { "time": 90, "text": "Tell me a secret And baby, I'll keep it And maybe we could play house for the weekend", "highlighted": false },
+        { "time": 95, "text": "You came out the blue on a rainy night No lie", "highlighted": false },
+        { "time": 100, "text": "I'll tell you how I almost died ", "highlighted": false },
+        { "time": 105, "text": "While you're bringing me back to life", "highlighted": false },
+        { "time": 110, "text": "I just wanna live in this moment forever", "highlighted": false },
+        { "time": 115, "text": "'Cause I'm afraid that living couldn't get any better", "highlighted": false },
+        { "time": 120, "text": "Started giving up ", "highlighted": false },
+        { "time": 125, "text": "on the word forever ", "highlighted": false },
+        { "time": 130, "text": "Until you gave up heaven, so we could be together", "highlighted": false },
+        { "time": 135, "text": "You're my angel Angel baby, angel", "highlighted": false },
+        { "time": 140, "text": "You're my angel, baby Baby, you're my angel", "highlighted": false },
+        { "time": 145, "text": "Angel baby", "highlighted": false },
+        { "time": 150, "text": "All the sick and twisted nights that I've been waiting for ya", "highlighted": false },
+        { "time": 155, "text": "They were worth it all along, yeah", "highlighted": false },
+        { "time": 160, "text": "I just wanna live in this moment forever", "highlighted": false },
+        { "time": 165, "text": "'Cause I'm afraid that", "highlighted": false },
+        { "time": 170, "text": " living couldn't get any better", "highlighted": false },
+        { "time": 175, "text": "Started giving up on the word forever (on the word forever)", "highlighted": false },
+        { "time": 180, "text": "Until you gave up heaven, so we could be together", "highlighted": false },
+        { "time": 185, "text": "You're my angel Angel baby, angel", "highlighted": false },
+        { "time": 190, "text": "You're my angel, baby ", "highlighted": false },
+        { "time": 195, "text": "Baby, you're my angel", "highlighted": false },
+        { "time": 200, "text": "Angel baby Angel", "highlighted": false },
+        { "time": 205, "text": "Angel baby, angel (you're my angel, baby) You're my angel, baby (you're my angel, baby)", "highlighted": false },
+        { "time": 210, "text": "Baby, you're my angel Angel baby", "highlighted": false }
+      ]
+    
     }
   ],
 
